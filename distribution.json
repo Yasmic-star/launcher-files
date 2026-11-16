@@ -12,7 +12,7 @@
       "name": "Cantheris SMP (Minecraft 1.20.1)",
       "description": "Cantheris SMP Running Minecraft 1.20.1 (Forge v47.4.10)",
       "icon": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/server-icon.png",
-      "version": "1.0.1",
+      "version": "1.0.2",
       "address": "177.128.246.179:5060",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -548,8 +548,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 47428,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/appleskin-forge-mc1.20.1-2.5.1.jar",
             "MD5": "dae63cea9c951dda542a4005ceef3953"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -888,8 +892,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 122868,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/colorfulhearts-forge-1.20.1-4.3.16.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/colorfulhearts-forge-1.20.1-4.3.16.jar",
             "MD5": "9e9be8a8c82350e43dfdd5d76101be50"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -948,8 +956,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 115280,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/Controlling-forge-1.20.1-12.0.2.jar",
             "MD5": "952274bc9994bba9733e8747558f73fa"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -1298,8 +1310,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 376061,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar",
             "MD5": "16fcbe43302a38eca0777931387ab865"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -1398,8 +1414,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 69476,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
             "MD5": "445422556264d2129fde704f35d9680f"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -1868,8 +1888,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 7160405,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/journeymap-1.20.1-5.10.3-forge.jar",
             "MD5": "2181bd6b7161f06726560b9382235611"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -1888,8 +1912,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 204574,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/justzoom_forge_2.1.1_MC_1.20.1.jar",
             "MD5": "758fe904b5a22ce7b2df824c1a064858"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -2428,8 +2456,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 76237,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
             "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -3058,8 +3090,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26957,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ToastControl-1.20.1-8.0.3.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/ToastControl-1.20.1-8.0.3.jar",
             "MD5": "f1bcf2e30adc3ac2e00d7f9d1a4780c6"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
@@ -3398,8 +3434,12 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 157602,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
             "MD5": "91d02c9039d00c0033f6e2e3950c4491"
+          },
+          "required": {
+            "value": false,
+            "def": true
           }
         },
         {
