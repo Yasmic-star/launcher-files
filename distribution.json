@@ -1,0 +1,3608 @@
+{
+  "version": "1.0.0",
+  "rss": "<LINK TO RSS FEED>",
+  "discord": {
+    "clientId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+    "smallImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+  },
+  "servers": [
+    {
+      "id": "Cantheris SMP-1.20.1",
+      "name": "Cantheris SMP (Minecraft 1.20.1)",
+      "description": "Cantheris SMP Running Minecraft 1.20.1 (Forge v47.3.0)",
+      "icon": null,
+      "version": "1.0.0",
+      "address": "cantherissmp.elgaehost.com.br",
+      "minecraftVersion": "1.20.1",
+      "discord": {
+        "shortId": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageText": "<FILL IN OR REMOVE DISCORD OBJECT>",
+        "largeImageKey": "<FILL IN OR REMOVE DISCORD OBJECT>"
+      },
+      "mainServer": true,
+      "autoconnect": true,
+      "modules": [
+        {
+          "id": "net.minecraftforge:lowcodelanguage:1.20.1-47.4.10",
+          "name": "Minecraft Forge (lowcodelanguage)",
+          "type": "ForgeHosted",
+          "classpath": true,
+          "artifact": {
+            "size": 7398,
+            "MD5": "39c68f8be018557068512f16cf3f97fa",
+            "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/lowcodelanguage/1.20.1-47.4.10/lowcodelanguage-1.20.1-47.4.10.jar"
+          },
+          "subModules": [
+            {
+              "id": "1.20.1-47.4.10",
+              "name": "Minecraft Forge (version.json)",
+              "type": "VersionManifest",
+              "artifact": {
+                "size": 16554,
+                "MD5": "eede38b0c090f69c7789cd35e753853d",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/versions/1.20.1-forge-47.4.10/1.20.1-forge-47.4.10.json"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlcore:1.20.1-47.4.10",
+              "name": "Minecraft Forge (fmlcore)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 118913,
+                "MD5": "340eb6124a32dab3bfaea8f1b2f3dd02",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/fmlcore/1.20.1-47.4.10/fmlcore-1.20.1-47.4.10.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:javafmllanguage:1.20.1-47.4.10",
+              "name": "Minecraft Forge (javafmllanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 16854,
+                "MD5": "1193446859d078e83d9fcc4d8a39f44d",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/javafmllanguage/1.20.1-47.4.10/javafmllanguage-1.20.1-47.4.10.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:mclanguage:1.20.1-47.4.10",
+              "name": "Minecraft Forge (mclanguage)",
+              "type": "Library",
+              "classpath": true,
+              "artifact": {
+                "size": 4999,
+                "MD5": "13e469f44fc6fff975688c6b18f8e9a1",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/mclanguage/1.20.1-47.4.10/mclanguage-1.20.1-47.4.10.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.4.10:universal",
+              "name": "Minecraft Forge (universal jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 2777708,
+                "MD5": "f202df135ad32fef7e7c42e957c142af",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-universal.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraftforge:forge:1.20.1-47.4.10:client",
+              "name": "Minecraft Forge (client jar)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 4848366,
+                "MD5": "5c4d8867f3152f9c397859436a06321c",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/forge/1.20.1-47.4.10/forge-1.20.1-47.4.10-client.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:srg",
+              "name": "Minecraft Forge (client srg)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 18842082,
+                "MD5": "8bfacfba4f54cda741019756165c5ecf",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-srg.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:slim",
+              "name": "Minecraft Forge (client slim)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 12592249,
+                "MD5": "28edebec7b5a007bc9961ee9bab4d764",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-slim.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "net.minecraft:client:1.20.1-20230612.114412:extra",
+              "name": "Minecraft Forge (client extra)",
+              "type": "Library",
+              "classpath": false,
+              "artifact": {
+                "size": 10436626,
+                "MD5": "da6bb1a2c23108392fd6c103da40867c",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraft/client/1.20.1-20230612.114412/client-1.20.1-20230612.114412-extra.jar"
+              },
+              "subModules": []
+            },
+            {
+              "id": "cpw.mods:securejarhandler:2.1.10",
+              "name": "Minecraft Forge (securejarhandler)",
+              "type": "Library",
+              "artifact": {
+                "size": 88749,
+                "MD5": "d9ff48d1c68388270388b803fa42611e",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/cpw/mods/securejarhandler/2.1.10/securejarhandler-2.1.10.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm:9.8",
+              "name": "Minecraft Forge (asm)",
+              "type": "Library",
+              "artifact": {
+                "size": 126113,
+                "MD5": "f5adf3bfc54fb3d2cd8e3a1f275084bc",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/ow2/asm/asm/9.8/asm-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-commons:9.8",
+              "name": "Minecraft Forge (asm-commons)",
+              "type": "Library",
+              "artifact": {
+                "size": 73498,
+                "MD5": "c8c3d9ccf240144e74d94ff658b024c9",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/ow2/asm/asm-commons/9.8/asm-commons-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-tree:9.8",
+              "name": "Minecraft Forge (asm-tree)",
+              "type": "Library",
+              "artifact": {
+                "size": 51934,
+                "MD5": "4ab1aaec43c77a2d9b56e6d6d496f705",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/ow2/asm/asm-tree/9.8/asm-tree-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-util:9.8",
+              "name": "Minecraft Forge (asm-util)",
+              "type": "Library",
+              "artifact": {
+                "size": 94559,
+                "MD5": "62498ef324bdab15f407d703f7d78d19",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/ow2/asm/asm-util/9.8/asm-util-9.8.jar"
+              }
+            },
+            {
+              "id": "org.ow2.asm:asm-analysis:9.8",
+              "name": "Minecraft Forge (asm-analysis)",
+              "type": "Library",
+              "artifact": {
+                "size": 35151,
+                "MD5": "3d63508405f5610fc2ea673ff5471553",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/ow2/asm/asm-analysis/9.8/asm-analysis-9.8.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:accesstransformers:8.0.4",
+              "name": "Minecraft Forge (accesstransformers)",
+              "type": "Library",
+              "artifact": {
+                "size": 77756,
+                "MD5": "f0d3533f9437ba4428eaee9f28f7ecd9",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/accesstransformers/8.0.4/accesstransformers-8.0.4.jar"
+              }
+            },
+            {
+              "id": "org.antlr:antlr4-runtime:4.9.1",
+              "name": "Minecraft Forge (antlr4-runtime)",
+              "type": "Library",
+              "artifact": {
+                "size": 337868,
+                "MD5": "0dcc4b860d5d8d2852ab94d58c56ca2d",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/antlr/antlr4-runtime/4.9.1/antlr4-runtime-4.9.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:eventbus:6.0.5",
+              "name": "Minecraft Forge (eventbus)",
+              "type": "Library",
+              "artifact": {
+                "size": 53985,
+                "MD5": "2a6245210b446b2144071e71ca13432b",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/eventbus/6.0.5/eventbus-6.0.5.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:forgespi:7.0.1",
+              "name": "Minecraft Forge (forgespi)",
+              "type": "Library",
+              "artifact": {
+                "size": 29831,
+                "MD5": "bd34d20287dc95201fe9475a8bbc2540",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/forgespi/7.0.1/forgespi-7.0.1.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:coremods:5.2.4",
+              "name": "Minecraft Forge (coremods)",
+              "type": "Library",
+              "artifact": {
+                "size": 31872,
+                "MD5": "5295505357ba9b98450c5e3121f82191",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/coremods/5.2.4/coremods-5.2.4.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:modlauncher:10.0.9",
+              "name": "Minecraft Forge (modlauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 130343,
+                "MD5": "07507d18d72661f8ae6a5da75bbf35be",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/cpw/mods/modlauncher/10.0.9/modlauncher-10.0.9.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:unsafe:0.2.0",
+              "name": "Minecraft Forge (unsafe)",
+              "type": "Library",
+              "artifact": {
+                "size": 2834,
+                "MD5": "2d1016ebe4c1a63dd50a59d26bd12db1",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/unsafe/0.2.0/unsafe-0.2.0.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:mergetool:1.1.5:api",
+              "name": "Minecraft Forge (mergetool)",
+              "type": "Library",
+              "artifact": {
+                "size": 2572,
+                "MD5": "8df9c5bf87d004ddb884eca99bc2a4b1",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/mergetool/1.1.5/mergetool-1.1.5-api.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:core:3.6.4",
+              "name": "Minecraft Forge (core)",
+              "type": "Library",
+              "artifact": {
+                "size": 199834,
+                "MD5": "d83ab07267e402131fb93d899a57f5cd",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/com/electronwill/night-config/core/3.6.4/core-3.6.4.jar"
+              }
+            },
+            {
+              "id": "com.electronwill.night-config:toml:3.6.4",
+              "name": "Minecraft Forge (toml)",
+              "type": "Library",
+              "artifact": {
+                "size": 31816,
+                "MD5": "bc95d0709fff2164b01fd09fbc988be8",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/com/electronwill/night-config/toml/3.6.4/toml-3.6.4.jar"
+              }
+            },
+            {
+              "id": "org.apache.maven:maven-artifact:3.8.5",
+              "name": "Minecraft Forge (maven-artifact)",
+              "type": "Library",
+              "artifact": {
+                "size": 58077,
+                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+              }
+            },
+            {
+              "id": "net.jodah:typetools:0.6.3",
+              "name": "Minecraft Forge (typetools)",
+              "type": "Library",
+              "artifact": {
+                "size": 18281,
+                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+              }
+            },
+            {
+              "id": "net.minecrell:terminalconsoleappender:1.2.0",
+              "name": "Minecraft Forge (terminalconsoleappender)",
+              "type": "Library",
+              "artifact": {
+                "size": 15977,
+                "MD5": "679363fa893293791e55a21f81342f87",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecrell/terminalconsoleappender/1.2.0/terminalconsoleappender-1.2.0.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-reader:3.12.1",
+              "name": "Minecraft Forge (jline-reader)",
+              "type": "Library",
+              "artifact": {
+                "size": 150765,
+                "MD5": "a2e7b012cd9802f83321187409174a94",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/jline/jline-reader/3.12.1/jline-reader-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.jline:jline-terminal:3.12.1",
+              "name": "Minecraft Forge (jline-terminal)",
+              "type": "Library",
+              "artifact": {
+                "size": 211712,
+                "MD5": "3c52be5ab5e3847be6e62269de924cb0",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/jline/jline-terminal/3.12.1/jline-terminal-3.12.1.jar"
+              }
+            },
+            {
+              "id": "org.spongepowered:mixin:0.8.5",
+              "name": "Minecraft Forge (mixin)",
+              "type": "Library",
+              "artifact": {
+                "size": 1089277,
+                "MD5": "19b3a2ae9e445a6e626fd7d1648cfcb8",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar"
+              }
+            },
+            {
+              "id": "org.openjdk.nashorn:nashorn-core:15.4",
+              "name": "Minecraft Forge (nashorn-core)",
+              "type": "Library",
+              "artifact": {
+                "size": 2167292,
+                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarSelector:0.3.19",
+              "name": "Minecraft Forge (JarJarSelector)",
+              "type": "Library",
+              "artifact": {
+                "size": 17374,
+                "MD5": "2bb6cbe0e6c6fbcd8f92d2e6b1ea678e",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/JarJarSelector/0.3.19/JarJarSelector-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarMetadata:0.3.19",
+              "name": "Minecraft Forge (JarJarMetadata)",
+              "type": "Library",
+              "artifact": {
+                "size": 15895,
+                "MD5": "9633546d299d4282ca68d10582be1c8f",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/JarJarMetadata/0.3.19/JarJarMetadata-0.3.19.jar"
+              }
+            },
+            {
+              "id": "cpw.mods:bootstraplauncher:1.1.2",
+              "name": "Minecraft Forge (bootstraplauncher)",
+              "type": "Library",
+              "artifact": {
+                "size": 8284,
+                "MD5": "48f5255aa337344c467c0150d347813d",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:JarJarFileSystems:0.3.19",
+              "name": "Minecraft Forge (JarJarFileSystems)",
+              "type": "Library",
+              "artifact": {
+                "size": 32195,
+                "MD5": "c2be1a88b63eb1b58b00ab6e498cd97d",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlloader:1.20.1-47.4.10",
+              "name": "Minecraft Forge (fmlloader)",
+              "type": "Library",
+              "artifact": {
+                "size": 267079,
+                "MD5": "9446521da84ab53aa7a81af82d4e854a",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/fmlloader/1.20.1-47.4.10/fmlloader-1.20.1-47.4.10.jar"
+              }
+            },
+            {
+              "id": "net.minecraftforge:fmlearlydisplay:1.20.1-47.4.10",
+              "name": "Minecraft Forge (fmlearlydisplay)",
+              "type": "Library",
+              "artifact": {
+                "size": 170518,
+                "MD5": "828cdcc361baffcdd38d7b7d05c62e35",
+                "url": "https://yasmic-star.github.io/launcher-files/repo/lib/net/minecraftforge/fmlearlydisplay/1.20.1-47.4.10/fmlearlydisplay-1.20.1-47.4.10.jar"
+              }
+            }
+          ]
+        },
+        {
+          "id": "net.geforcemods:securitycraft:1.10.0.1@jar",
+          "name": "SecurityCraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4648724,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/[1.20.1]%20SecurityCraft%20v1.10.0.1.jar",
+            "MD5": "9ef0bc4940bf472feff9592f528782ea"
+          }
+        },
+        {
+          "id": "io.wispforest.accessories.neoforge:accessories:1.0.0-beta48+1.20.1@jar",
+          "name": "Accessories",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1080048,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/accessories-neoforge-1.0.0-beta.48+1.20.1.jar",
+            "MD5": "bf30aed6a212f5dbff089ccb981bce20"
+          }
+        },
+        {
+          "id": "com.mgen256.al:additional_lights:2.1.7@jar",
+          "name": "Additional Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 530405,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/additional_lights-1.20.1-2.1.7.jar",
+            "MD5": "2a2661fc9399c3fb4a40fda6e6eec0d1"
+          }
+        },
+        {
+          "id": "com.builtbroken.ai.improvements:aiimprovements:0.5.2@jar",
+          "name": "AI-Improvements",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 29553,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/AI-Improvements-1.20-0.5.2.jar",
+            "MD5": "9a6776ce2deab597d198e8755daa56ff"
+          }
+        },
+        {
+          "id": "com.github.alexmodguy:alexscaves:2.0.2@jar",
+          "name": "Alex's Caves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 74871657,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/alexscaves-2.0.2.jar",
+            "MD5": "6c8793ee5e1aa852fdb430a9cdaccdc5"
+          }
+        },
+        {
+          "id": "com.ncpbails:alexsdelight:1.5@jar",
+          "name": "Alex's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 55398,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/alexsdelight-1.5.jar",
+            "MD5": "b969e136e1f9a70c42dd102ed8359b40"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:alexsmobs:1.22.9@jar",
+          "name": "Alex's Mobs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26350793,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/alexsmobs-1.22.9.jar",
+            "MD5": "504050d1f2e2c3019b6f53377ca354c6"
+          }
+        },
+        {
+          "id": "com.frikinjay:almanac:1.0.2@jar",
+          "name": "Almanac",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15906,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/almanac-1.20.x-forge-1.0.2.jar",
+            "MD5": "20f9b054f4caceebda02847c149901af"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:amendments:1.20-1.2.19@jar",
+          "name": "Amendments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1031095,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/amendments-1.20-1.2.19.jar",
+            "MD5": "f7d92c04d8880072ca435637cb0a5436"
+          }
+        },
+        {
+          "id": "com.starfish_studios:another_furniture:1.20.1-3.0.2@jar",
+          "name": "Another Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2425050,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/another_furniture-forge-1.20.1-3.0.2.jar",
+            "MD5": "4ea0e6533aedbeb5679fd46aa039cbda"
+          }
+        },
+        {
+          "id": "dev.shadowsoffire:attributeslib:1.3.7@jar",
+          "name": "Apothic Attributes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 227511,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ApothicAttributes-1.20.1-1.3.7.jar",
+            "MD5": "d4f8d1945416d5150cd67d27469b5ce9"
+          }
+        },
+        {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          }
+        },
+        {
+          "id": "com.teammetallurgy:aquaculture:2.5.7@jar",
+          "name": "Aquaculture 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 601839,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Aquaculture-1.20.1-2.5.7.jar",
+            "MD5": "f39d02c30d59ec516e3221f9f7643909"
+          }
+        },
+        {
+          "id": "architectspalette.core:architects_palette:1.3.6.1@jar",
+          "name": "Architect's Palette",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2538637,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Architects-Palette-1.20.1-1.3.6.1.jar",
+            "MD5": "0622fec812ffb8d1fd777788198b9322"
+          }
+        },
+        {
+          "id": "dev.architectury:architectury:9.2.14@jar",
+          "name": "Architectury",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 580602,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/architectury-9.2.14-forge.jar",
+            "MD5": "76b40d407b6bf0257dd1dab6d3d395d5"
+          }
+        },
+        {
+          "id": "artifacts:artifacts:9.5.16@jar",
+          "name": "Artifacts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 850457,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/artifacts-forge-9.5.16.jar",
+            "MD5": "85081468e7498005f5dfdab2ae520097"
+          }
+        },
+        {
+          "id": "com.kekecreations:arts_and_crafts:1.5.4@jar",
+          "name": "Arts & Crafts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5216393,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/arts_and_crafts-forge-1.20.1-1.5.4.jar",
+            "MD5": "ef472db70a1c9311a806c2086014595e"
+          }
+        },
+        {
+          "id": "earth.terrarium:athena:3.1.2@jar",
+          "name": "Athena",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91808,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/athena-forge-1.20.1-3.1.2.jar",
+            "MD5": "2086e326e8f0ff2f8d7d05c66c291484"
+          }
+        },
+        {
+          "id": "net.darkhax:attributefix:21.0.4@jar",
+          "name": "AttributeFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19471,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/AttributeFix-Forge-1.20.1-21.0.4.jar",
+            "MD5": "e8fb517833e21335106e9d4d1a39ecd4"
+          }
+        },
+        {
+          "id": "jackiecrazy.attributizer:attributizer:2.1@jar",
+          "name": "Attributizer",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 55385,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/attributizer-2.1.jar",
+            "MD5": "203008a0fe55d10f130c548f56315e1d"
+          }
+        },
+        {
+          "id": "net.blay09.mods:balm:7.3.35@jar",
+          "name": "Balm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 597605,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/balm-forge-1.20.1-7.3.35-all.jar",
+            "MD5": "e53c001a854dfec2cc7f9ea9f1522b6b"
+          }
+        },
+        {
+          "id": "net.bdew.lib:bdlib:1.27.0.8@jar",
+          "name": "BdLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1258868,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/bdlib-1.27.0.8-mc1.20.1.jar",
+            "MD5": "1fad1bfa078fb0254de66ea413a6b7fc"
+          }
+        },
+        {
+          "id": "com.betterfpsdist:betterfpsdist:1.20.1-6.0@jar",
+          "name": "Betterfpsdist mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 19917,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/betterfpsdist-1.20.1-6.0.jar",
+            "MD5": "34280e25bfb67f8ce08157129c8cb09d"
+          }
+        },
+        {
+          "id": "com.dogatorix:blahaj:0.1.7@jar",
+          "name": "Blåhaj - Restitched",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 96287,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/blahaj-forge-1.20.1-0.1.8.jar",
+            "MD5": "28764d134017988734e99b36ebb80996"
+          }
+        },
+        {
+          "id": "com.teamabnormals.blueprint.core:blueprint:7.1.3@jar",
+          "name": "Blueprint",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1151213,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/blueprint-1.20.1-7.1.3.jar",
+            "MD5": "de8703f1bd1de5c64ebd411e37b19d47"
+          }
+        },
+        {
+          "id": "com.teampotato:bocchium:1.20.1-0.0.3@jar",
+          "name": "Bocchium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10201,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/bocchium-1.20.1-0.0.3.jar",
+            "MD5": "afdc4b3bbc92d7b70a657696ace846d6"
+          }
+        },
+        {
+          "id": "net.darkhax:bookshelf:20.2.13@jar",
+          "name": "Bookshelf",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 343962,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Bookshelf-Forge-1.20.1-20.2.13.jar",
+            "MD5": "46c8e7f9bcfa984bd576e448df2beb25"
+          }
+        },
+        {
+          "id": "net.mcreator.borninchaosv:born_in_chaos_v1:1.7.2@jar",
+          "name": "Born in Chaos ",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11816101,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/born_in_chaos_[Forge]1.20.1_1.7.2.jar",
+            "MD5": "53c0274da230c0b83864a8f1043d0a60"
+          }
+        },
+        {
+          "id": "vazkii.botania:botania:1.20.1-450-FORGE@jar",
+          "name": "Botania",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12195508,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Botania-1.20.1-450-FORGE.jar",
+            "MD5": "f4ce35424e81996520657abf504d714a"
+          }
+        },
+        {
+          "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
+          "name": "Caelus API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 40125,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/caelus-forge-3.2.0+1.20.1.jar",
+            "MD5": "e37854c44b1849b753afc4a205f31b46"
+          }
+        },
+        {
+          "id": "de.maxhenkel:camera:1.20.1-1.0.20@jar",
+          "name": "Camera Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299726,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/camera-forge-1.20.1-1.0.20.jar",
+            "MD5": "7f707898d1ed0753a5a5043cbdf806a8"
+          }
+        },
+        {
+          "id": "com.abdelaziz:canary:0.3.3@jar",
+          "name": "Canary",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 594191,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/canary-mc1.20.1-0.3.3.jar",
+            "MD5": "1bd8bdb43c190ddc671c5ea0bf3b8cb1"
+          }
+        },
+        {
+          "id": "tschipp.carryon:carryon:2.1.2.7@jar",
+          "name": "Carry On",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 439457,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/carryon-forge-1.20.1-2.1.2.7.jar",
+            "MD5": "8956b37c2ae11cc5522c8404a262c6b7"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture:cfm:7.0.0-pre36@jar",
+          "name": "MrCrayfish's Furniture Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2613393,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/cfm-forge-1.20.1-7.0.0-pre36.jar",
+            "MD5": "faf78627dad9c9c04e7a4fa8992c54dc"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:charmofundying:6.5.0+1.20.1@jar",
+          "name": "Charm of Undying",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 169487,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/charmofundying-forge-6.5.0+1.20.1.jar",
+            "MD5": "d083cc2318c6db88417fc8bf5ee7a18c"
+          }
+        },
+        {
+          "id": "me.tamkungz:chefworkbench:1.0.0@jar",
+          "name": "Chef's Workbench",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 505620,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/chefworkbench-1.20.1-forge-1.0.0.jar",
+            "MD5": "a8b85e7df1f87711e38cd943ee193b89"
+          }
+        },
+        {
+          "id": "com.nick:chimes:2.0.1@jar",
+          "name": "Chimes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 12444849,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Chimes-v2.0.1-1.20.1.jar",
+            "MD5": "44ff53414530887db7943c9db9eaa90c"
+          }
+        },
+        {
+          "id": "earth.terrarium:chipped:3.0.7@jar",
+          "name": "Chipped",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15060263,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/chipped-forge-1.20.1-3.0.7.jar",
+            "MD5": "c6c76e78805b357757bf47b04c7286e7"
+          }
+        },
+        {
+          "id": "com.periut:chisel:2.0.0+mc1.20.1@jar",
+          "name": "Chisel Reborn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8265809,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/chisel-forge-2.0.0+mc1.20.1.jar",
+            "MD5": "468657845ffc4f5eed8e1d3ad22933af"
+          }
+        },
+        {
+          "id": "org.popcraft:chunky:1.3.146@jar",
+          "name": "Chunky",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 341451,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Chunky-1.3.146.jar",
+            "MD5": "ed46120ac4f30ec8e03f6416e295577c"
+          }
+        },
+        {
+          "id": "com.github.alexthe666:citadel:2.6.2@jar",
+          "name": "Citadel",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3185379,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/citadel-2.6.2-1.20.1.jar",
+            "MD5": "f027b4f6862b99a1e0516353fb3ef0fc"
+          }
+        },
+        {
+          "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
+          "name": "Cloth Config v10 API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1181413,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/cloth-config-11.1.136-forge.jar",
+            "MD5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+          }
+        },
+        {
+          "id": "com.blamejared:clumps:12.0.0.4@jar",
+          "name": "Clumps",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 20299,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Clumps-forge-1.20.1-12.0.0.4.jar",
+            "MD5": "c9efc71827df6ab51e8dd0e40c3d4975"
+          }
+        },
+        {
+          "id": "net.mcreator.clutteredmod:luphieclutteredmod:2.1@jar",
+          "name": "Cluttered",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6002846,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/cluttered-2.1-1.20.1.jar",
+            "MD5": "359422bfdb492eada7067f41db746cff"
+          }
+        },
+        {
+          "id": "com.natamus:collective:8.3@jar",
+          "name": "Collective",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 657310,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/collective-1.20.1-8.3.jar",
+            "MD5": "5b0b99ac79f68438ee0133ff6dfd53c5"
+          }
+        },
+        {
+          "id": "terrails.colorfulhearts:colorfulhearts:4.3.16@jar",
+          "name": "Colorful Hearts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 122868,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/colorfulhearts-forge-1.20.1-4.3.16.jar",
+            "MD5": "9e9be8a8c82350e43dfdd5d76101be50"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:configured:2.2.3@jar",
+          "name": "Configured",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 418929,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/configured-forge-1.20.1-2.2.3.jar",
+            "MD5": "9380dc31c599c523a5682a4025fceb92"
+          }
+        },
+        {
+          "id": "com.supermartijn642:connectedglass:1.1.13@jar",
+          "name": "Connected Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 871676,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/connectedglass-1.1.13-forge-mc1.20.1.jar",
+            "MD5": "13b280c06f47dddb474bbc1b398d6d3b"
+          }
+        },
+        {
+          "id": "com.connectivity:connectivity:1.20.1-7.1@jar",
+          "name": "Connectivity Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 112550,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/connectivity-1.20.1-7.1.jar",
+            "MD5": "a4e4e9823e1df967bee1d62e6a505e8f"
+          }
+        },
+        {
+          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
+          "name": "Connector",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5043384,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
+            "MD5": "3c07e0a25c1921da7586c0290c72ba86"
+          }
+        },
+        {
+          "id": "generated.forgemod:connector:1.0.0-beta.47+1.20.1@jar",
+          "name": "Connector",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5043863,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Connector-1.0.0-beta.47+1.20.1.jar",
+            "MD5": "3a52384e15ed1ccb779a328e9aa3028c"
+          }
+        },
+        {
+          "id": "thetadev.constructionwand:constructionwand:1.20.1-2.11@jar",
+          "name": "Construction Wand",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 210312,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/constructionwand-1.20.1-2.11.jar",
+            "MD5": "e17b0f6b4fa378d6750a9030a5aca9e0"
+          }
+        },
+        {
+          "id": "com.blamejared:controlling:12.0.2@jar",
+          "name": "Controlling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115280,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
+            "MD5": "952274bc9994bba9733e8747558f73fa"
+          }
+        },
+        {
+          "id": "com.copycatsplus:copycats:3.0.2+mc.1.20.1-forge@jar",
+          "name": "Create: Copycats+",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1988341,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/copycats-3.0.2+mc.1.20.1-forge.jar",
+            "MD5": "b0cf6993f60b27183e72800454e26218"
+          }
+        },
+        {
+          "id": "corgitaco.corgilib:corgilib:4.0.3.4@jar",
+          "name": "CorgiLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 360700,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Corgilib-Forge-1.20.1-4.0.3.4.jar",
+            "MD5": "a9ea019fc3f069f5f47f0d8451dac4cd"
+          }
+        },
+        {
+          "id": "com.corosus.coroutil.loader:coroutil:1.20.1-1.3.7@jar",
+          "name": "CoroUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 64187,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/coroutil-forge-1.20.1-1.3.7.jar",
+            "MD5": "6fb9ccbe8c05c1da61c224d1127e9643"
+          }
+        },
+        {
+          "id": "de.maxhenkel:corpse:1.20.1-1.0.21@jar",
+          "name": "Corpse",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 245618,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/corpse-forge-1.20.1-1.0.21.jar",
+            "MD5": "346a9e592558c1fde772b39c10be4cdf"
+          }
+        },
+        {
+          "id": "lain.mods.cos.init:cosmeticarmorreworked:1.20.1-v1a@jar",
+          "name": "CosmeticArmorReworked",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 88752,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/cosmeticarmorreworked-1.20.1-v1a.jar",
+            "MD5": "2454075e9a25cbadc0fce66502e3261d"
+          }
+        },
+        {
+          "id": "com.leclowndu93150:cosmeticcorpsecompat:1.0.0@jar",
+          "name": "Cosmetic Armor x Corpse Compat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9595,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/cosmeticcorpsecompat-1.19.x-1.20.x-Forge-1.0.0.jar",
+            "MD5": "679886629bc9c921ddc655be978c03fa"
+          }
+        },
+        {
+          "id": "net.mcreator.cozyhome:cozy_home:3.0.4@jar",
+          "name": "Cozy Home",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3625445,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/cozy_home-3.0.4-forge-1.20.1.jar",
+            "MD5": "72c61019ef4c06b898871397cc057936"
+          }
+        },
+        {
+          "id": "com.darkere.crashutils:crashutilities:8.1.4@jar",
+          "name": "Crash Utilities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 233000,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/crashutilities-8.1.4.jar",
+            "MD5": "f996d6d7e5b3376448204b6bb002b37b"
+          }
+        },
+        {
+          "id": "com.simibubi:create:6.0.6@jar",
+          "name": "Create",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18764522,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/create-1.20.1-6.0.6.jar",
+            "MD5": "0bdb2789d1708a9de227c8ef05a830d9"
+          }
+        },
+        {
+          "id": "net.mcreator.createstuffadditions:create_sa:2.1.0@jar",
+          "name": "Create Stuff & Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1347694,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/create-stuff-additions1.20.1_v2.1.0.jar",
+            "MD5": "22bb230d91a12d68d5948c62566c9ad9"
+          }
+        },
+        {
+          "id": "com.mrh0:createaddition:1.20.1-1.3.1@jar",
+          "name": "Create Crafts & Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1547196,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/createaddition-1.20.1-1.3.1.jar",
+            "MD5": "0abfc0f6db9558cba6eaee44266a4447"
+          }
+        },
+        {
+          "id": "team.creative:creativecore:2.12.32@jar",
+          "name": "CreativeCore",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1158417,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/CreativeCore_FORGE_v2.12.32_mc1.20.1.jar",
+            "MD5": "7aabe100af362d0df92d8ea1dbc2667b"
+          }
+        },
+        {
+          "id": "net.cristellib:cristellib:1.1.6@jar",
+          "name": "Cristel Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 431318,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/cristellib-1.1.6-forge.jar",
+            "MD5": "b52e8b225a34abab9300049c85f6855a"
+          }
+        },
+        {
+          "id": "com.github.eterdelta:crittersandcompanions:1.20.1-2.3.5@jar",
+          "name": "Critters and Companions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1594359,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/crittersandcompanions-forge-1.20.1-2.3.5.jar",
+            "MD5": "758bf538d42daea117e2d7fd51e7e29a"
+          }
+        },
+        {
+          "id": "com.epherical:croptopia:3.0.4@jar",
+          "name": "Croptopia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2099945,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Croptopia-1.20.1-FORGE-3.0.4.jar",
+            "MD5": "c7c4e6f0ff51507ad64544991dfc7454"
+          }
+        },
+        {
+          "id": "net.raylirov:croptopiadelight:1.3.2@jar",
+          "name": "Croptopia Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 86280,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/croptopiadelight-1.3.2.jar",
+            "MD5": "170a0f4ccd9967b32d0bc032529baa04"
+          }
+        },
+        {
+          "id": "com.periut:cryonicconfig:1.0.0+mc1.20.1@jar",
+          "name": "Cryonic Config",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 133781,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/cryonicconfig-forge-1.0.0+mc1.20.1.jar",
+            "MD5": "60ab26361727a2712bb9f5ffd72226c2"
+          }
+        },
+        {
+          "id": "net.mcreator:csmp:1.0.0@jar",
+          "name": "CSMP",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2019978,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/CSMP%201.0.0.jar",
+            "MD5": "839ad23cf214407e193c8cbcfee560fb"
+          }
+        },
+        {
+          "id": "com.cupboard:cupboard:1.20.1-2.7@jar",
+          "name": "Cupboard utilities",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25983,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/cupboard-1.20.1-2.7.jar",
+            "MD5": "3620912474f47bf58d1fe5bfe133763a"
+          }
+        },
+        {
+          "id": "top.theillusivec4:curios:5.14.1+1.20.1@jar",
+          "name": "Curios API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 398066,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/curios-forge-5.14.1+1.20.1.jar",
+            "MD5": "2fdcc97cbc66c4b2492b407c792e7159"
+          }
+        },
+        {
+          "id": "com.tom:cpm:0.6.25a@jar",
+          "name": "Customizable Player Models",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2792497,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/CustomPlayerModels-1.20-0.6.25a.jar",
+            "MD5": "1131bc0fdee0eb51087955822128b271"
+          }
+        },
+        {
+          "id": "de.erdbeerbaerlp:dcintegration:3.0.7.1@jar",
+          "name": "Discord Integration",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16358023,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/dcintegration-forge-3.0.7.1-1.20.1.jar",
+            "MD5": "fc0cc2f0d9239f1c2dcf526559b9343a"
+          }
+        },
+        {
+          "id": "dd_curtains:dd_curtains:1.0.4@jar",
+          "name": "Dary's Curtains",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3427931,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/dd_curtains-forge-1.20.1-1.0.4.jar",
+            "MD5": "50db561209a9436e042fbbb9b3834498"
+          }
+        },
+        {
+          "id": "dd_mosaic_glass:dd_mosaic_glass:1.0.2@jar",
+          "name": "Dary's Mosaic Glass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 304582,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/dd_mosaic_glass-1.0.2-forge-1.20.1.jar",
+            "MD5": "f5b69c4dc087fa0effffc10fb8c4e3a0"
+          }
+        },
+        {
+          "id": "me.ichun.mods.deathcounter.loader:deathcounter:1.4.0@jar",
+          "name": "Death Counter",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 56329,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/DeathCounter-1.20.1-Forge-1.4.0.jar",
+            "MD5": "ff99a6c255b21b15b56b836851d6bb72"
+          }
+        },
+        {
+          "id": "lilypuree.decorative_blocks:decorative_blocks:4.1.3@jar",
+          "name": "Decorative Blocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 573928,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/decorative_blocks-forge-1.20.1-4.1.3.jar",
+            "MD5": "3ccc7e414c9de806448d94eef399cfd7"
+          }
+        },
+        {
+          "id": "com.dannbrown.deltaboxlib.platform:deltaboxlib:2.2.0@jar",
+          "name": "Deltabox Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 804529,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/deltaboxlib-forge-2.2.0+1.20.1.jar",
+            "MD5": "0b99cd9f14b23e69f1427e34bd211702"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:diet:2.1.1+1.20.1@jar",
+          "name": "Diet",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 368483,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/diet-forge-2.1.1+1.20.1.jar",
+            "MD5": "9a3d884e073eb6791be3fbcafd38f2b2"
+          }
+        },
+        {
+          "id": "net.mcreator.doomsdaydecoration:doomsday_decoration:1.0.0@jar",
+          "name": "Doomsday Decoration",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9658884,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/doomsday_decoration-1.1.3-forge-1.20.1.jar",
+            "MD5": "780bd21f73ed1d2c901c00ade26b2f7d"
+          }
+        },
+        {
+          "id": "com.raiiiden.doomsdayfunctionality:doomsday_functionality_extended:1.2.0@jar",
+          "name": "Doomsday Functionality Extended",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1735095,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/doomsday_functionality_extended-1.20.1-1.2.0.jar",
+            "MD5": "61712a23a3ebfa80e14b718d3948679b"
+          }
+        },
+        {
+          "id": "com.natamus:doubledoors:7.0@jar",
+          "name": "Double Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 53776,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/doubledoors-1.20.1-7.0.jar",
+            "MD5": "92557ea30f7cc6a6195fe93f88bbd5cc"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:dummmmmmy:1.20-2.0.7@jar",
+          "name": "MmmMmmMmmmmm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 363029,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/dummmmmmy-1.20-2.0.7.jar",
+            "MD5": "64857b666f73d6226d66fb145539bd6c"
+          }
+        },
+        {
+          "id": "net.aurelj:dungeons_arise:2.1.58-1.20.x@jar",
+          "name": "When Dungeons Arise",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8762342,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/DungeonsArise-1.20.x-2.1.58-release.jar",
+            "MD5": "6ac48d0cf2ce763824f96f6d26963219"
+          }
+        },
+        {
+          "id": "net.aurelj:dungeons_arise_seven_seas:1.0.2@jar",
+          "name": "When Dungeons Arise: Seven Seas",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 248169,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/DungeonsAriseSevenSeas-1.20.x-1.0.2-forge.jar",
+            "MD5": "7438cb3ec55972c670e83effa52f8668"
+          }
+        },
+        {
+          "id": "net.lostluma.dynamic_fps.impl:dynamic_fps:3.9.5@jar",
+          "name": "Dynamic FPS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 376061,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/dynamic-fps-3.9.5+minecraft-1.20.0-forge.jar",
+            "MD5": "16fcbe43302a38eca0777931387ab865"
+          }
+        },
+        {
+          "id": "atomicstryker.dynamiclights.server:dynamiclights:1.20.1.2@jar",
+          "name": "Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 49564,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/dynamiclights-1.20.1.2.jar",
+            "MD5": "8ddb1fdf345c919ea74e55c50aa39a55"
+          }
+        },
+        {
+          "id": "de.markusbordihn.easynpc.bundle:easy_npc_bundle:6.11.0@jar",
+          "name": "Easy NPC: Bundle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25442,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/easy_npc_bundle-forge-1.20.1-6.11.0.jar",
+            "MD5": "336e844cfb96f00b77966b933e2ac3da"
+          }
+        },
+        {
+          "id": "de.markusbordihn.easynpc.configui:easy_npc_config_ui:6.11.0@jar",
+          "name": "Easy NPC: Config UI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 742082,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/easy_npc_config_ui-forge-1.20.1-6.11.0.jar",
+            "MD5": "bfe1be4d6c1101ba0679d5d2e81b9ccb"
+          }
+        },
+        {
+          "id": "de.markusbordihn.easynpc:easy_npc:6.11.0@jar",
+          "name": "Easy NPC",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1947786,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/easy_npc-forge-1.20.1-6.11.0.jar",
+            "MD5": "6c7bf210e965fe4570549793ccbf0c80"
+          }
+        },
+        {
+          "id": "samebutdifferent.ecologics:ecologics:2.2.0@jar",
+          "name": "Ecologics",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1829363,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ecologics-forge-1.20.1-2.2.0.jar",
+            "MD5": "f68cce5bcbf61751e11bdf38c8366eec"
+          }
+        },
+        {
+          "id": "xyz.vsngamer:elevatorid:1.20.1-lex-1.9@jar",
+          "name": "Elevator Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 188132,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/elevatorid-1.20.1-lex-1.9.jar",
+            "MD5": "35c05c6c14993fe3fb38917ce09f51b8"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.hrznstudio:emojiful:4.2.0@jar",
+          "name": "Emojiful",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 262412,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Emojiful-Forge-1.20.1-4.2.0.jar",
+            "MD5": "0ba360de4747e64c6325b74c0055479a"
+          }
+        },
+        {
+          "id": "io.github.kosmx.emotes:emotecraft:2.2.7-b.build.50@jar",
+          "name": "Emotecraft",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 680255,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/emotecraft-for-MC1.20.1-2.2.7-b.build.50-forge.jar",
+            "MD5": "636c62379cd7c5201a70fd457808e331"
+          }
+        },
+        {
+          "id": "net.darkhax:enchdesc:17.1.19@jar",
+          "name": "EnchantmentDescriptions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 69476,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/EnchantmentDescriptions-Forge-1.20.1-17.1.19.jar",
+            "MD5": "445422556264d2129fde704f35d9680f"
+          }
+        },
+        {
+          "id": "com.epherical:epherolib:0.1.2@jar",
+          "name": "BOZOID",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 756864,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/EpheroLib-1.20.1-FORGE-1.2.0.jar",
+            "MD5": "f8b4d202f3fc4ffaf1bb8efd79f860bd"
+          }
+        },
+        {
+          "id": "mc.euphoria_patches:euphoria_patcher:1.6.8-r5.5.1-forge@jar",
+          "name": "EuphoriaPatcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2015459,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/EuphoriaPatcher-1.6.8-r5.5.1-forge.jar",
+            "MD5": "dda777d943b210008972f94b1f6edfd3"
+          }
+        },
+        {
+          "id": "mc.euphoria_patches:euphoria_patcher:1.6.8-r5.5.1-forge@jar",
+          "name": "EuphoriaPatcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2015459,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/EuphoriaPatcher-1.6.8-r5.5.1-forge.jar",
+            "MD5": "dda777d943b210008972f94b1f6edfd3"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "io.github.mortuusars:exposure_catalog:1.0.3@jar",
+          "name": "Exposure Catalog",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 146211,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/exposure_catalog-1.20.1-1.0.3-forge.jar",
+            "MD5": "6336653ecb9597a8bff62a3ada4d3821"
+          }
+        },
+        {
+          "id": "io.github.mortuusars:exposure:1.7.16@jar",
+          "name": "Exposure",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1360685,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/exposure-1.20.1-1.7.16-forge.jar",
+            "MD5": "5e0d88ba6f4cfe04c6d8158f91b038db"
+          }
+        },
+        {
+          "id": "com.podloot:eyemod:3.0.0@jar",
+          "name": "EyeMod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432098,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/eyemod-3.0.0.jar",
+            "MD5": "e977511b6f65d208ea8889205c9f48e1"
+          }
+        },
+        {
+          "id": "net.fabricmc.fabric.impl.sinytra:fabric_api:0.92.6+1.11.14+1.20.1@jar",
+          "name": "Forgified Fabric API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3065813,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/fabric-api-0.92.6+1.11.14+1.20.1.jar",
+            "MD5": "2859d401e221e94acf0b48c5f7efa50b"
+          }
+        },
+        {
+          "id": "com.periut.factoryblocks:factory_blocks:1.4.0+mc1.20.1@jar",
+          "name": "Factory Blocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 808664,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/factory_blocks-forge-1.4.0+mc1.20.1.jar",
+            "MD5": "6bf27e66218002293633096f706ea07e"
+          }
+        },
+        {
+          "id": "me.paulf:fairylights:7.0.0@jar",
+          "name": "Fairy Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 821317,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/fairylights-7.0.0-1.20.1.jar",
+            "MD5": "007ccd44927fee58df78cdd8310330f4"
+          }
+        },
+        {
+          "id": "net.kenddie.fantasyarmor:fantasy_armor:1.0-1.20.1@jar",
+          "name": "Fantasy Armor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 393300,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/fantasy_armor-forge-1.0-1.20.1.jar",
+            "MD5": "f708252dfde480ac18c8eb083916ce1a"
+          }
+        },
+        {
+          "id": "xyz.apex.forge.fantasyfurniture.core:fantasyfurniture:9.0.0@jar",
+          "name": "Fantasy's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3202951,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/fantasyfurniture-1.20.1-9.0.0.jar",
+            "MD5": "0712007756c04d20100121c31510d346"
+          }
+        },
+        {
+          "id": "vectorwing.farmersdelight:farmersdelight:1.20.1-1.2.8@jar",
+          "name": "Farmer's Delight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2962947,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.2.8.jar",
+            "MD5": "56aed09101bcbf0790154f8d8f09d9aa"
+          }
+        },
+        {
+          "id": "dev.shadowsoffire:fastfurnace:8.0.2@jar",
+          "name": "FastFurnace",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6170,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/FastFurnace-1.20.1-8.0.2.jar",
+            "MD5": "48b8d2df29ea216a625928e29a6434da"
+          }
+        },
+        {
+          "id": "net.olafski:fastleafdecay:32@jar",
+          "name": "Fast Leaf Decay",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 9835,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/FastLeafDecay-32.jar",
+            "MD5": "20df3e3525622d6ea38a243be828ef38"
+          }
+        },
+        {
+          "id": "io.github.bumblesoftware.fastload.init:fastload:3.4.0@jar",
+          "name": "Fastload-Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66989,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "MD5": "3266e638032dc9b957bf1e7372671c05"
+          }
+        },
+        {
+          "id": "dev.shadowsoffire:fastsuite:5.1.0@jar",
+          "name": "Fast Suite",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 25305,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/FastSuite-1.20.1-5.1.0.jar",
+            "MD5": "5308931eb0df44e4f39c06a7696f42ce"
+          }
+        },
+        {
+          "id": "malte0811.ferritecore:ferritecore:6.0.1@jar",
+          "name": "Ferrite Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 123034,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ferritecore-6.0.1-forge.jar",
+            "MD5": "f52f538207a4829d7060550092ce2383"
+          }
+        },
+        {
+          "id": "com.stal111:forbidden_arcanus:1.20.1-2.2.6@jar",
+          "name": "Forbidden & Arcanus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2783387,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/forbidden_arcanus-1.20.1-2.2.6.jar",
+            "MD5": "bc3fb60d93b4ceb25d6b8a60a16bf921"
+          }
+        },
+        {
+          "id": "xfacthd.framedblocks:framedblocks:9.4.2@jar",
+          "name": "FramedBlocks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4251277,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/FramedBlocks-9.4.2.jar",
+            "MD5": "aaf372a3d903d167c138e2eb8110078b"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:framework:0.7.15@jar",
+          "name": "Framework",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 309560,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/framework-forge-1.20.1-0.7.15.jar",
+            "MD5": "135716c910b1036a6dd2f0fe0bc7b03d"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftbessentials:2001.2.3@jar",
+          "name": "FTB Essentials",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 156203,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ftb-essentials-forge-2001.2.3.jar",
+            "MD5": "5d3acae1dc695190604bd4a2f5423d06"
+          }
+        },
+        {
+          "id": "dev.ftb.mods:ftblibrary:2001.2.12@jar",
+          "name": "FTB Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 780523,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ftb-library-forge-2001.2.12.jar",
+            "MD5": "8bbd067159587d80f1c5286ea52e567b"
+          }
+        },
+        {
+          "id": "com.supermartijn642:fusion:1.2.7+b@jar",
+          "name": "Fusion",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 540383,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/fusion-1.2.7b-forge-mc1.20.1.jar",
+            "MD5": "c675f476a9d1f14047b4e1b4a9b36b40"
+          }
+        },
+        {
+          "id": "software.bernie.example:geckolib:4.8.4@jar",
+          "name": "GeckoLib 4",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1038209,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/geckolib-forge-1.20.1-4.8.4.jar",
+            "MD5": "83c73bcbf5778235569025ed968dc3ec"
+          }
+        },
+        {
+          "id": "com.cstav:genshinstrument:5.0@jar",
+          "name": "Genshin Instruments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7062280,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/genshinstrument-1.20-1.20.1-5.0.jar",
+            "MD5": "edcefbb07d989f794ace51f0932c532c"
+          }
+        },
+        {
+          "id": "com.mrcrayfish:goblintraders:1.9.3@jar",
+          "name": "Goblin Traders",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 320235,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/goblintraders-forge-1.20.1-1.9.3.jar",
+            "MD5": "acbba033aadeecf04cd702aca05c02d4"
+          }
+        },
+        {
+          "id": "com.gpumemleakfix:gpumemleakfix:1.20.1-1.8@jar",
+          "name": "Gpu memory leak fix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7997,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/gpumemleakfix-1.20.1-1.8.jar",
+            "MD5": "e5028e9da74761f26c00c546c8ebdc4d"
+          }
+        },
+        {
+          "id": "earth.terrarium:handcrafted:3.0.6@jar",
+          "name": "Handcrafted",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7111059,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/handcrafted-forge-1.20.1-3.0.6.jar",
+            "MD5": "a5291f94fc830a80d2caf7d2ab7cd4fd"
+          }
+        },
+        {
+          "id": "net.joefoxe:hexerei:1.20.1-0.4.2.3@jar",
+          "name": "Hexerei",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 11374032,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/hexerei-0.4.2.3.jar",
+            "MD5": "4ac6c0d223902e7a0cb3778e707fd05f"
+          }
+        },
+        {
+          "id": "github.pitbox46:hiddennames:1.20.1-1.0.6@jar",
+          "name": "Hidden Names",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47190,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/hiddennames-1.20.1-1.0.6.jar",
+            "MD5": "c1b8c0f021acffc102b9a56ada733ab3"
+          }
+        },
+        {
+          "id": "ru.vidtu:ias:9.0.0@jar",
+          "name": "In-Game Account Switcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 312332,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/IAS-Forge-1.20.1-9.0.0.jar",
+            "MD5": "d83b9e8b614e5d9204268c7eaf25231e"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:iceberg:1.1.25@jar",
+          "name": "Iceberg",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 134551,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Iceberg-1.20.1-forge-1.1.25.jar",
+            "MD5": "cda8af806d0de012f5c7012ea51c155f"
+          }
+        },
+        {
+          "id": "me.ichun.mods.ichunutil.loader:ichunutil:1.0.3@jar",
+          "name": "IChunUtil",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 692753,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/iChunUtil-1.20.1-Forge-1.0.3.jar",
+            "MD5": "829d7caf55b2d266d7a901289f772f9a"
+          }
+        },
+        {
+          "id": "immersive_melodies:immersive_melodies:0.6.0+1.20.1@jar",
+          "name": "Immersive Melodies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5517578,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/immersive_melodies-0.6.0+1.20.1-forge.jar",
+            "MD5": "9b2903b86fbc565a3996b2d1fd78eb0d"
+          }
+        },
+        {
+          "id": "toni.immersivelanterns:immersivelanterns:1.0.6@jar",
+          "name": "Immersive Lanterns",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 367298,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/immersivelanterns-forge-1.0.6-1.20.1.jar",
+            "MD5": "72b6415358f9751e4316338d8f9d2622"
+          }
+        },
+        {
+          "id": "mcjty.incontrol:incontrol:1.20-9.4.1@jar",
+          "name": "InControl",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 361755,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/incontrol-1.20-9.4.1.jar",
+            "MD5": "9648316b378fd5238d6c778e89da5342"
+          }
+        },
+        {
+          "id": "net.razorplay.invview_forge:inv_view_forge:2.1.0-1.20.1@jar",
+          "name": "InvView_Forge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 85516,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/inv_view_forge-2.1.0-1.20.1.jar",
+            "MD5": "9f2da2c9bf14e8b47f182e87e8658cec"
+          }
+        },
+        {
+          "id": "ironfurnaces:ironfurnaces:4.1.6@jar",
+          "name": "Iron Furnaces",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 609038,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ironfurnaces-1.20.1-4.1.6.jar",
+            "MD5": "db76ec4beef580f5d7b75065ec2adf9d"
+          }
+        },
+        {
+          "id": "io.redspace.ironslib:irons_lib:1.20.1-2.1.0@jar",
+          "name": "Iron's Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 428969,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/irons_lib-1.20.1-2.1.0.jar",
+            "MD5": "5c73106c1323bf7fd01d5da09869444f"
+          }
+        },
+        {
+          "id": "io.redspace.ironsspellbooks:irons_spellbooks:1.20.1-3.16.3@jar",
+          "name": "Iron's Spells 'n Spellbooks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15570397,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/irons_spellbooks-1.20.1-3.16.3.jar",
+            "MD5": "80430dfbfab4af59e45ffb9d4d601762"
+          }
+        },
+        {
+          "id": "com.meuuser:voicecmd:0.3.0@jar",
+          "name": "Iron's Voicebound Spells â English Only",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 200184645,
+            "url": "https://github.com/Yasmic-star/launcher-files/releases/download/modpack-v1/Irons_Voicebound_Spells-English_Only-0.3.0-all.jar",
+            "MD5": "a5eec55b8e524985e3f88d0fa1c77a84"
+          }
+        },
+        {
+          "id": "snownee.jade:jade:11.13.1+forge@jar",
+          "name": "Jade",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 550551,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Jade-1.20.1-Forge-11.13.1.jar",
+            "MD5": "e36b4d172480009220be7eae12490943"
+          }
+        },
+        {
+          "id": "snownee.jade.addon:jadeaddons:5.5.0+forge@jar",
+          "name": "Jade Addons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 91771,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/JadeAddons-1.20.1-Forge-5.5.0.jar",
+            "MD5": "3e2fa5d8b2ec994ba416ec4f84d5ea60"
+          }
+        },
+        {
+          "id": "io.github.jamalam360:jamlib:1.3.5+1.20.1@jar",
+          "name": "JamLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 191327,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/jamlib-forge-1.3.5+1.20.1.jar",
+            "MD5": "c9fd9b6fbf5b73a4dff52ccaceaf485e"
+          }
+        },
+        {
+          "id": "mezz.jei:jei:15.20.0.112@jar",
+          "name": "Just Enough Items",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1385600,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/jei-1.20.1-forge-15.20.0.112.jar",
+            "MD5": "c899d5b549ace1e9fa46700c778c3809"
+          }
+        },
+        {
+          "id": "com.kekecreations:jinxedlib:1.0.3@jar",
+          "name": "JinxedLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 67431,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/JinxedLib-forge-1.20.1-1.0.3.jar",
+            "MD5": "abce4186b6fdec22c2acb39ee9ca46d3"
+          }
+        },
+        {
+          "id": "com.osama:joinprotection:1.0.0@jar",
+          "name": "Join Protection",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5138,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/joinprotection-1.0.0.jar",
+            "MD5": "1680ad358d2a0c34b9e5c5e82580b620"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:5.10.3@jar",
+          "name": "Journeymap",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7160405,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/journeymap-1.20.1-5.10.3-forge.jar",
+            "MD5": "2181bd6b7161f06726560b9382235611"
+          }
+        },
+        {
+          "id": "jeresources:jeresources:1.4.0.247@jar",
+          "name": "Just Enough Resources",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 276231,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/JustEnoughResources-1.20.1-1.4.0.247.jar",
+            "MD5": "bd7166a2e9361ef5e8b616edfa2028f4"
+          }
+        },
+        {
+          "id": "de.keksuccino:justzoom:2.1.1@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 204574,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "MD5": "758fe904b5a22ce7b2df824c1a064858"
+          }
+        },
+        {
+          "id": "de.keksuccino:justzoom:2.1.1@jar",
+          "name": "Just Zoom",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 204574,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/justzoom_forge_2.1.1_MC_1.20.1.jar",
+            "MD5": "758fe904b5a22ce7b2df824c1a064858"
+          },
+          "required": {
+            "value": false
+          }
+        },
+        {
+          "id": "com.bmt:kaleidoscope_chinesefood:1.1.10-1.20.1@jar",
+          "name": "Kaleidoscope ChineseFood",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8644593,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/kaleidoscope_chinesefood-1.1.10-1.20.1.jar",
+            "MD5": "d3947c28001ae12ae4b704d70cbb5a63"
+          }
+        },
+        {
+          "id": "org.toame:food:1.3.1@jar",
+          "name": "Kaleidoscope: ImmersiveEating",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 347555,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/kaleidoscope_immersiveEating-forge1.20.1-1.3.1.jar",
+            "MD5": "c651692661c4b76ed2d0992e61c87b84"
+          }
+        },
+        {
+          "id": "com.github.ysbbbbbb.kaleidoscopecookery:kaleidoscope_cookery:1.4.1-forge+mc1.20.1@jar",
+          "name": "Kaleidoscope Cookery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5184400,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/kaleidoscopecookery-1.4.1-forge+mc1.20.1.jar",
+            "MD5": "152149e33185fb40fabe6cfefd18575f"
+          }
+        },
+        {
+          "id": "com.github.ysbbbbbb.kaleidoscopetavern:kaleidoscope_tavern:1.2.0-forge+mc1.20.1@jar",
+          "name": "Kaleidoscope Tavern",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1749797,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/kaleidoscopetavern-1.2.0-forge+mc1.20.1.jar",
+            "MD5": "0506ce34dc99a14eb1c07bea08bbd376"
+          }
+        },
+        {
+          "id": "dev.xylonity:knightlib:1.3.1@jar",
+          "name": "Knight Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 198344,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/knightlib-forge-1.20.1-1.3.1.jar",
+            "MD5": "85ea3cfae3b6f98ad911f7ff5a059f5e"
+          }
+        },
+        {
+          "id": "dev.xylonity:knightquest:1.9.1@jar",
+          "name": "Knight Quest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3623027,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/knightquest-forge-1.20.1-1.9.1.jar",
+            "MD5": "feedd80fbac76d3a4727dfee0dd1f6ae"
+          }
+        },
+        {
+          "id": "de.keksuccino:konkrete:1.8.0@jar",
+          "name": "Konkrete",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 625185,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/konkrete_forge_1.8.0_MC_1.20-1.20.1.jar",
+            "MD5": "d69107c593e361e1b7b96733250bd098"
+          }
+        },
+        {
+          "id": "generated.forgemod:kotlinforforge:4.12.0-all@jar",
+          "name": "Kotlinforforge",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7442998,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/kotlinforforge-4.12.0-all.jar",
+            "MD5": "d6a40dede74edbe646b34a1bafd53b4d"
+          }
+        },
+        {
+          "id": "dev.latvian.mods:kubejs:2001.6.5-build.16@jar",
+          "name": "KubeJS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1654660,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/kubejs-forge-2001.6.5-build.16.jar",
+            "MD5": "f4c6924bef764748d26ee51e4d4c0b00"
+          }
+        },
+        {
+          "id": "com.github.l_ender:cataclysm:3.15@jar",
+          "name": "Cataclysm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 127992906,
+            "url": "https://github.com/Yasmic-star/launcher-files/releases/download/modpack-v1/L_Enders_Cataclysm-3.15.jar",
+            "MD5": "c46c0bbd1ac54b1c7a350cbf4a9a2eb6"
+          }
+        },
+        {
+          "id": "com.leaky:leaky:1.20.1-2.1@jar",
+          "name": "Leaky mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16062,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/leaky-1.20.1-2.1.jar",
+            "MD5": "680c51429d1d1c2faafe728369ae5597"
+          }
+        },
+        {
+          "id": "com.frikinjay:letmedespawn:1.5.0@jar",
+          "name": "Let Me Despawn",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14789,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/letmedespawn-1.20.x-forge-1.5.0.jar",
+            "MD5": "0ff799ece663ddafab61ad32704fc51c"
+          }
+        },
+        {
+          "id": "de.cristelknight:doapi:1.2.15@jar",
+          "name": "[Let's Do] API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1440591,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/letsdo-API-forge-1.2.15-forge.jar",
+            "MD5": "82d392dd5ef6064d8988592a35b3b403"
+          }
+        },
+        {
+          "id": "net.satisfy:bakery:1.1.15@jar",
+          "name": "[Let's Do] Bakery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1539376,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/letsdo-bakery-forge-1.1.15.jar",
+            "MD5": "c1ea271f8ea61df80a37010e32d9e08f"
+          }
+        },
+        {
+          "id": "net.satisfy:beachparty:2.0.2@jar",
+          "name": "[Let's Do] Beachparty",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7463421,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/letsdo-beachparty-forge-2.0.2.jar",
+            "MD5": "e547c324ac615f2fe34b742418bf5bd5"
+          }
+        },
+        {
+          "id": "net.satisfy:brewery:1.1.9@jar",
+          "name": "[Let's Do] Brewery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2228646,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/letsdo-brewery-forge-1.1.9.jar",
+            "MD5": "74574ee4a0d8303f37ced2a8bc846584"
+          }
+        },
+        {
+          "id": "net.satisfy:candlelight:1.2.13@jar",
+          "name": "[Let's Do] Candlelight",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2618138,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/letsdo-candlelight-forge-1.2.13.jar",
+            "MD5": "ebc3f53e2e746df436b9ada2f641f685"
+          }
+        },
+        {
+          "id": "net.satisfy:farm_and_charm:1.0.14@jar",
+          "name": "[Let's Do] Farm & Charm",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2328624,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/letsdo-farm_and_charm-forge-1.0.14.jar",
+            "MD5": "6278fb984da2ca60498fd4c78675524a"
+          }
+        },
+        {
+          "id": "net.satisfy:herbalbrews:1.0.12@jar",
+          "name": "[Let's Do] HerbalBrews",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 735868,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/letsdo-herbalbrews-forge-1.0.12.jar",
+            "MD5": "8260ace33a59f8c85b86945510b07471"
+          }
+        },
+        {
+          "id": "net.satisfy:meadow:1.3.25@jar",
+          "name": "[Let's Do] Meadow",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2676511,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/letsdo-meadow-forge-1.3.25.jar",
+            "MD5": "3ea594fdc393d588a236d54e870b7789"
+          }
+        },
+        {
+          "id": "net.satisfy:vinery:1.4.41@jar",
+          "name": "[Let's Do] Vinery",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2041283,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/letsdo-vinery-forge-1.4.41.jar",
+            "MD5": "bf692e0100772cfa90b9878a38c1f28a"
+          }
+        },
+        {
+          "id": "com.codinglitch:lexiconfig:1.4.18-1@jar",
+          "name": "Lexiconfig",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 54205,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/lexiconfig-forge-1.4.18-1.jar",
+            "MD5": "67bdb3974d75d540320041720e060edf"
+          }
+        },
+        {
+          "id": "com.jtorleonstudios:libraryferret:4.0.0@jar",
+          "name": "Library ferret",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 190536,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/libraryferret-forge-1.20.1-4.0.0.jar",
+            "MD5": "68ba05aaf09f053934537af691e959df"
+          }
+        },
+        {
+          "id": "org.moddingx:libx:1.20.1-5.0.14@jar",
+          "name": "LibX",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1258082,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/LibX-1.20.1-5.0.14.jar",
+            "MD5": "3c0c0cdac0482e1f78a28614bebce36a"
+          }
+        },
+        {
+          "id": "com.limitedchunks:limitedchunks:1.8@jar",
+          "name": "Limited Chunkloading",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 16405,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/limitedchunks-1.20.1-4.1.jar",
+            "MD5": "8209c8f37e9142f1a28204206731bcb5"
+          }
+        },
+        {
+          "id": "com.github.l_ender:lionfishapi:2.7@jar",
+          "name": "LionfishAPI",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 122522,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/lionfishapi-2.7.jar",
+            "MD5": "63b6233ad8f15d1b60d0a8e75a846a3b"
+          }
+        },
+        {
+          "id": "com.kreezcraft:localizedchat:5.1.3@jar",
+          "name": "Localized Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 23894,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/LocalizedChat-forge-1.20.1-5.1.3.jar",
+            "MD5": "664bdf8d663b708eaf9a9a23e36fbe1d"
+          }
+        },
+        {
+          "id": "team.lodestar:lodestone:1.20.1-1.6.4.1@jar",
+          "name": "Lodestone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 670934,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/lodestone-1.20.1-1.6.4.1.jar",
+            "MD5": "2816fa972ca3a21e6e38783f979955be"
+          }
+        },
+        {
+          "id": "com.lootintegrations:lootintegrations:1.20.1-4.7@jar",
+          "name": "Lootintegrations mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 42220,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/lootintegrations-1.20.1-4.7.jar",
+            "MD5": "3dd1027fe2ca00e1bf3b432e1870aabc"
+          }
+        },
+        {
+          "id": "noobanidus.mods:lootr:0.7.35.91@jar",
+          "name": "Lootr",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 458532,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/lootr-forge-1.20-0.7.35.91.jar",
+            "MD5": "512ee49d21782875b33513fb074eb098"
+          }
+        },
+        {
+          "id": "com.sammy:malum:1.20.1-1.6.7@jar",
+          "name": "Malum",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26296223,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/malum-1.20.1-1.6.7.jar",
+            "MD5": "c8377c88fd78e6d94ace7ad4c97ce7dd"
+          }
+        },
+        {
+          "id": "slimeknights.mantle:mantle:1.11.79@jar",
+          "name": "Mantle",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1480444,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Mantle-1.20.1-1.11.79.jar",
+            "MD5": "19cf5725471882f2f65182e70f9c98ef"
+          }
+        },
+        {
+          "id": "com.mcwdoors.kikoz:mcwdoors:1.1.5@jar",
+          "name": "Macaw's Doors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1246753,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/mcw-doors-1.1.5-mc1.20.1forge.jar",
+            "MD5": "6a8504f9f2a9dd1ebbf0cac848ad2a25"
+          }
+        },
+        {
+          "id": "com.mcwfurnitures.kikoz:mcwfurnitures:3.3.0@jar",
+          "name": "Macaw's Furniture",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1882792,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/mcw-furniture-3.3.0-mc1.20.1forge.jar",
+            "MD5": "f22230d8f84190aef6e62ca95e5da136"
+          }
+        },
+        {
+          "id": "com.mcwfences.kikoz:mcwfences:1.2.1@jar",
+          "name": "Macaw's Fences and Walls",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 708634,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/mcw-mcwfences-1.2.1-mc1.20.1forge.jar",
+            "MD5": "33f30e1ad2474fe8836e85271799ecb7"
+          }
+        },
+        {
+          "id": "com.mcwwindows.kikoz:mcwwindows:2.4.2@jar",
+          "name": "Macaw's Windows",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320692,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/mcw-mcwwindows-2.4.2-mc1.20.1forge.jar",
+            "MD5": "04b5e1a31c4b76b9fdbf8e111ef9ae57"
+          }
+        },
+        {
+          "id": "com.mcwtrpdoors.kikoz:mcwtrpdoors:1.1.5@jar",
+          "name": "Macaw's Trapdoors",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 604510,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/mcw-trapdoors-1.1.5-mc1.20.1forge.jar",
+            "MD5": "59e11a2be482c75aa13bcfaace597594"
+          }
+        },
+        {
+          "id": "com.craftix:medieval_buildings:1.1.2@jar",
+          "name": "Medieval Buildings",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 313941,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/medieval_buildings-1.20.1-1.1.2-forge.jar",
+            "MD5": "abbf91f62597b4c1911245284d43b604"
+          }
+        },
+        {
+          "id": "net.mcreator.playticsdeco:medieval_deco:1.2@jar",
+          "name": "PlayTics Deco",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 258580,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Medieval%20Decoration%20v.1.2%201.20.1.jar",
+            "MD5": "94211b8d8fdc376729e880833de69fc9"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorart:moa_decor_art:1.20.1@jar",
+          "name": "MOA DECOR: ART",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1067543,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MOAdecor%20ART%201.20.1.jar",
+            "MD5": "0d5ee502c177ed59811d0f1fa3c4fe91"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorbath:moa_decor_bath:1.20.1@jar",
+          "name": "MOA DECOR: BATH",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1196202,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MOAdecor%20BATH%201.20.1.jar",
+            "MD5": "a771a2ee8a411270e835927ddb4bdfc3"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorcookery:moa_decor_cookery:1.20.1@jar",
+          "name": "MOA DECOR: COOKERY",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1537747,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MOAdecor%20COOKERY%201.20.2.jar",
+            "MD5": "57c355d9051835919d1d3be1148a7ad5"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorgarden:moa_decor_garden_:1.20.1@jar",
+          "name": "MOA DECOR: GARDEN",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1206143,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MOAdecor%20GARDEN%201.20.1.jar",
+            "MD5": "57f53d1ceb7b830bcc9c7cee0bcc3a47"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorholidays:moa_decor_holidays:1.20.1@jar",
+          "name": "MOA DECOR: HOLIDAYS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1189873,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MOAdecor%20HOLIDAYS%201.20.1.jar",
+            "MD5": "01a07c08f01af2809356d3a128eb154c"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorlights:moa_decor_lights:1.20.1@jar",
+          "name": "MOA DECOR: LIGHTS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1026120,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MOAdecor%20LIGHTS%201.20.1.jar",
+            "MD5": "94d22373aad3472901ae93d1101c0647"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecorscience:moa_decor_science:1.20.1@jar",
+          "name": "MOA DECOR: SCIENCE",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1040771,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MOAdecor%20SCIENCE%201.20.1.jar",
+            "MD5": "b547bafe316aeac0ad11ad91850931d5"
+          }
+        },
+        {
+          "id": "net.mcreator.moadecortoys:moa_decor_toys:1.20.1@jar",
+          "name": "MOA DECOR: TOYS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1119976,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MOAdecor%20TOYS%201.20.1.jar",
+            "MD5": "a491d0259da96000cf70d0b0c22f6d87"
+          }
+        },
+        {
+          "id": "com.corosus.mobtimizations.loader:mobtimizations:1.20.1-1.0.0@jar",
+          "name": "Mobtimizations",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 22739,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/mobtimizations-forge-1.20.1-1.0.0.jar",
+            "MD5": "c87de807d1d922fa950103485ed95337"
+          }
+        },
+        {
+          "id": "org.embeddedt.modernfix.forge.init:modernfix:5.24.4+mc1.20.1@jar",
+          "name": "ModernFix",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 880557,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/modernfix-forge-5.24.4+mc1.20.1.jar",
+            "MD5": "1d729a283f14fdbf1021ff4f0c88b0ec"
+          }
+        },
+        {
+          "id": "xyz.bluspring:modernnetworking:1.2.0@jar",
+          "name": "Modern Networking",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 407687,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/modernnetworking-forge-1.2.0+1.19.2.jar",
+            "MD5": "e4ebbd309ffdbc77cbd9e57ab91c2e92"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:moonlight:1.20-2.16.27@jar",
+          "name": "Moonlight Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1392973,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/moonlight-1.20-2.16.27-forge.jar",
+            "MD5": "7e819bab11a4cf9973d0e24fb52c367b"
+          }
+        },
+        {
+          "id": "com.github.nyuppo:moremobvariants:1.3.0.1@jar",
+          "name": "More Mob Variants",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 379988,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/moremobvariants-forge+1.20.1-1.3.0.1.jar",
+            "MD5": "97a434757b963366f85571963cb5cf46"
+          }
+        },
+        {
+          "id": "de.melanx:morevanillaarmor:1.20.1-5.1.2@jar",
+          "name": "MoreVanillaArmor",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 233271,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MoreVanillaArmor-1.20.1-5.1.2.jar",
+            "MD5": "b10a851f6c7ac1da546322750d6e31cc"
+          }
+        },
+        {
+          "id": "yalter.mousetweaks:mousetweaks:2.25.1@jar",
+          "name": "Mouse Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76237,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
+          }
+        },
+        {
+          "id": "shetiphian.multibeds:multibeds:1.20.1-1.3@jar",
+          "name": "Multi-Beds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1081790,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/multibeds-forge-1.20.1-1.3.jar",
+            "MD5": "a43941109f1d8f42acea835630d29b93"
+          }
+        },
+        {
+          "id": "de.ellpeck:naturesaura:39.4@jar",
+          "name": "NaturesAura",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1435571,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/NaturesAura-39.4.jar",
+            "MD5": "070c9a377551f66c7bd7911ed0a4462c"
+          }
+        },
+        {
+          "id": "com.chaosthedude:naturescompass:1.20.1-1.11.2-forge@jar",
+          "name": "Nature's Compass",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 215119,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/NaturesCompass-1.20.1-1.11.2-forge.jar",
+            "MD5": "7c05072645b1aae529b1e38c74b87c4c"
+          }
+        },
+        {
+          "id": "elocindev.necronomicon:necronomicon:1.6.0@jar",
+          "name": "Necronomicon",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 33251,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Necronomicon-Forge-1.6.0+1.20.1.jar",
+            "MD5": "a1f1433ea551925436e6b170ac2ff619"
+          }
+        },
+        {
+          "id": "net.mcreator.popplushies:nenus_pop_plushies:2.8.0@jar",
+          "name": "Nenu's POP Plushies",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3492143,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/nenus_pop_plushies-2.8.0-forge-1.20.1.jar",
+            "MD5": "74fc121367569a728f957d24fd6e966c"
+          }
+        },
+        {
+          "id": "com.bawnorton.neruina.platform:neruina:2.1.2@jar",
+          "name": "Neruina",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3086403,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Neruina-2.1.2-forge+1.20.1.jar",
+            "MD5": "a3401b374c420b2fa71ba47fc0a10ceb"
+          }
+        },
+        {
+          "id": "it.hurts.octostudios:nerb:0.4.1@jar",
+          "name": "Not Enough Recipe Book",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 21667,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Not%20Enough%20Recipe%20Book-FORGE-0.4.1+1.20.1.jar",
+            "MD5": "fa8240906f36683f66de537b34587643"
+          }
+        },
+        {
+          "id": "it.hurts.octostudios:octolib:0.5.0.1@jar",
+          "name": "OctoLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 424035,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/OctoLib-FORGE-0.5.0.1+1.20.1.jar",
+            "MD5": "6b2fd012966b13a96ce4f68ae42eab8c"
+          }
+        },
+        {
+          "id": "net.irisshaders.iris:oculus:1.8.0@jar",
+          "name": "Oculus",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2851119,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/oculus-mc1.20.1-1.8.0.jar",
+            "MD5": "1dd891634ac21591b5a692471f112572"
+          }
+        },
+        {
+          "id": "net.potionstudios:biomeswevegone:1.6.5@jar",
+          "name": "Oh The Biomes We've Gone",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 18681340,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Oh-The-Biomes-Weve-Gone-Forge-1.6.5.jar",
+            "MD5": "a7de2588a2c7d1a3ea9753db68089bd5"
+          }
+        },
+        {
+          "id": "dev.corgitaco:ohthetreesyoullgrow:1.3.8@jar",
+          "name": "Oh The Trees You'll Grow",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 125395,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Oh-The-Trees-Youll-Grow-forge-1.20.1-1.3.8.jar",
+            "MD5": "69672c7efc3a2c0647369d136428dd89"
+          }
+        },
+        {
+          "id": "net.im_maker:paintable:1.9.0-1.20.1@jar",
+          "name": "Paintable",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 4270272,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Paintable-forge-1.20.1-1.9.0-1.20.1.jar",
+            "MD5": "392416f047aaefa6d2ebd9678826fd9b"
+          }
+        },
+        {
+          "id": "com.pam:pamhc2crops:1.0.3@jar",
+          "name": "Pam's HarvestCraft 2 - Crops",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1050402,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/pamhc2crops-1.20-1.0.3.jar",
+            "MD5": "3b4a219f1bc87f89256ca84ff6059f7a"
+          }
+        },
+        {
+          "id": "tictim.paraglider:paraglider:20.1.3@jar",
+          "name": "Paraglider",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 589055,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Paraglider-forge-20.1.3.jar",
+            "MD5": "35eba1f897eb09eaff91579d65696565"
+          }
+        },
+        {
+          "id": "vazkii.patchouli:patchouli:1.20.1-84.1-FORGE@jar",
+          "name": "Patchouli",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 642711,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Patchouli-1.20.1-84.1-FORGE.jar",
+            "MD5": "d5154cacf6859582eebd853bd59f5537"
+          }
+        },
+        {
+          "id": "virtuoel.pehkui:pehkui:3.8.2+1.20.1-forge@jar",
+          "name": "Pehkui",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 671605,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Pehkui-3.8.2+1.20.1-forge.jar",
+            "MD5": "95bdd5558d34044f54aab0ce292e679b"
+          }
+        },
+        {
+          "id": "de.maxhenkel:pipez:1.20.1-1.2.21@jar",
+          "name": "Pipez",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 431585,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/pipez-forge-1.20.1-1.2.21.jar",
+            "MD5": "277bb1f28f6752a00ba3f78ddf53367d"
+          }
+        },
+        {
+          "id": "dev.shadowsoffire:placebo:8.6.3@jar",
+          "name": "Placebo",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 282474,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Placebo-1.20.1-8.6.3.jar",
+            "MD5": "13133ab9989e8474931cd7a86bd19cc5"
+          }
+        },
+        {
+          "id": "dev.kosmx.playeranim:playeranimator:1.0.2-rc1+1.20@jar",
+          "name": "Player Animator",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 181437,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+            "MD5": "46f8554181d4d240075ea4919d01fd01"
+          }
+        },
+        {
+          "id": "com.playermusic:playermusic:4.0.0@jar",
+          "name": "PlayerMusic",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1526110,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/playermusic-4.0.0.jar",
+            "MD5": "ab5e5f2a127a635f3043e02c69ea8984"
+          }
+        },
+        {
+          "id": "com.playermusic:playermusic:4.2.0@jar",
+          "name": "PlayerMusic",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1526111,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/playermusic-4.2.0.jar",
+            "MD5": "f4f620fad891432dec73b8c0ed2997f7"
+          }
+        },
+        {
+          "id": "team.creative:playerrevive:2.0.31@jar",
+          "name": "PlayerRevive",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5298162,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/PlayerRevive_FORGE_v2.0.31_mc1.20.1.jar",
+            "MD5": "e07fc42680a0163c99c21cfa9afb9816"
+          }
+        },
+        {
+          "id": "com.illusivesoulworks:polymorph:0.49.10+1.20.1@jar",
+          "name": "Polymorph",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 299601,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/polymorph-forge-0.49.10+1.20.1.jar",
+            "MD5": "8e93675b33a89243d27f272f84e88338"
+          }
+        },
+        {
+          "id": "com.anthonyhilyard:prism:1.0.5@jar",
+          "name": "Prism",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 52205,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Prism-1.20.1-forge-1.0.5.jar",
+            "MD5": "de0e319e29e813f407314b33739f7eb8"
+          }
+        },
+        {
+          "id": "org.violetmoon.quark.base:quark:4.0-462@jar",
+          "name": "Quark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 14935230,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Quark-4.0-462.jar",
+            "MD5": "6eef0d0ac52df0c239cb443abc137f3d"
+          }
+        },
+        {
+          "id": "com.supermartijn642:rechiseled:1.1.6@jar",
+          "name": "Rechiseled",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3600460,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/rechiseled-1.1.6-forge-mc1.20.jar",
+            "MD5": "bf5a3b3264d2eb5e12ac6d9b0fcc1f90"
+          }
+        },
+        {
+          "id": "com.delta:redeco:1.14.1@jar",
+          "name": "Re:Deco",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3216552,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/redeco-1.14.1-forge-1.20.1.jar",
+            "MD5": "262810452b5592c9c16454060446685c"
+          }
+        },
+        {
+          "id": "com.mrcrayfish.furniture.refurbished:refurbished_furniture:1.0.14@jar",
+          "name": "MrCrayfish's Furniture Mod: Refurbished",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6686700,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/refurbished_furniture-forge-1.20.1-1.0.14.jar",
+            "MD5": "cf49bb5867f7d060b82fc143e2ca0201"
+          }
+        },
+        {
+          "id": "net.regions_unexplored:regions_unexplored:0.5.6@jar",
+          "name": "Regions Unexplored",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5726781,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/RegionsUnexploredForge-0.5.6+1.20.1.jar",
+            "MD5": "82c3073f606044e7b56d432d324ca480"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefulconfig:2.1.3@jar",
+          "name": "Resourcefulconfig",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 136923,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/resourcefulconfig-forge-1.20.1-2.1.3.jar",
+            "MD5": "947463b04c043937cd24506842f737a3"
+          }
+        },
+        {
+          "id": "com.teamresourceful:resourcefullib:2.1.29@jar",
+          "name": "Resourceful Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 432753,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/resourcefullib-forge-1.20.1-2.1.29.jar",
+            "MD5": "a040c6cc86f653fddf280ff3af9068f0"
+          }
+        },
+        {
+          "id": "dev.latvian.mods.rhino.mod:rhino:2001.2.3-build.10@jar",
+          "name": "Rhino",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1798244,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/rhino-forge-2001.2.3-build.10.jar",
+            "MD5": "59387620b0ef6becbff02c7c1636ad3e"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:ribbits:1.20.1-Forge-3.0.4@jar",
+          "name": "Ribbits",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2218573,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Ribbits-1.20.1-Forge-3.0.4.jar",
+            "MD5": "a43ce8463310788ec0535c98f255a958"
+          }
+        },
+        {
+          "id": "io.github.jamalam360:rightclickharvest:4.5.3+1.20.1@jar",
+          "name": "Right Click Harvest",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 288142,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/rightclickharvest-forge-4.5.3+1.20.1.jar",
+            "MD5": "2531423ad9a4511da59035912dd73963"
+          }
+        },
+        {
+          "id": "com.teamabnormals.savage_and_ravage.core:savage_and_ravage:6.0.0@jar",
+          "name": "Savage & Ravage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1315327,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/savage_and_ravage-1.20.1-6.0.0.jar",
+            "MD5": "90f26f0487dbbd7d945bd309391f5bbf"
+          }
+        },
+        {
+          "id": "generated.forgemod:scalablecatsforce:3.3.1-build-0-with-library@jar",
+          "name": "ScalableCatsForce",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15852918,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ScalableCatsForce-3.3.1-build-0-with-library.jar",
+            "MD5": "ba497035e88135ba4ca8deaee3f4be4e"
+          }
+        },
+        {
+          "id": "io.github.mortuusars:scholar:1.1.5.1@jar",
+          "name": "Scholar",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 680674,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/scholar-1.20.1-1.1.5.1-forge.jar",
+            "MD5": "19c046483090a4f30e509857082d5154"
+          }
+        },
+        {
+          "id": "com.blamejared:searchables:1.0.3@jar",
+          "name": "Searchables",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 77732,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Searchables-forge-1.20.1-1.0.3.jar",
+            "MD5": "9f5418e9c08c18a375ef42fada4bcef2"
+          }
+        },
+        {
+          "id": "shetiphian.core:shetiphiancore:1.20.1-1.5@jar",
+          "name": "ShetiPhian-Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 359990,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/shetiphiancore-forge-1.20.1-1.5.jar",
+            "MD5": "cb09b8a792da7c4d8bf4c98612734730"
+          }
+        },
+        {
+          "id": "net.shune:shune_additions:1.0@jar",
+          "name": "Shune Additions",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 60920,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/shune_additions-1.0.jar",
+            "MD5": "cabc9029b9c6610d931f8efbc49ee9e9"
+          }
+        },
+        {
+          "id": "fonnymunkey.simplehats:simplehats:1.20.1-0.3.2@jar",
+          "name": "SimpleHats",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1413531,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/simplehats-forge-1.20.1-0.3.2.jar",
+            "MD5": "5617686a811a3c1f6523166b7af7f0a8"
+          }
+        },
+        {
+          "id": "top.seraphjack:simplelogin:1.0.1@jar",
+          "name": "Simple Login",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 99700,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/SimpleLogin-1.20.1-1.0.2-all.jar",
+            "MD5": "e48ba16ac4f6eb6d215d9277110d9df0"
+          }
+        },
+        {
+          "id": "com.codinglitch:simpleradio:3.4.6@jar",
+          "name": "Simple Radio",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1076746,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/simpleradio-forge-1.20.1-3.4.6.jar",
+            "MD5": "c92b21e2c1e3f4f5a9f379b96a9062c1"
+          }
+        },
+        {
+          "id": "net.sweenus:simplyswords:1.56.0-1.20.1@jar",
+          "name": "Simply Swords",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 15202091,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/simplyswords-forge-1.56.0-1.20.1.jar",
+            "MD5": "da155dc9ccd825f2a824532488675d85"
+          }
+        },
+        {
+          "id": "net.tslat:smartbrainlib:1.15@jar",
+          "name": "SmartBrainLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 362338,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
+            "MD5": "d5a060ce11b8c13268b821dfe5a936e4"
+          }
+        },
+        {
+          "id": "com.abdelaziz:smoothboot:0.0.4@jar",
+          "name": "Smooth Boot (Reloaded)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 41044,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+            "MD5": "c8cd5ae14d99796fd92c95a353e96211"
+          }
+        },
+        {
+          "id": "toni.sodiumdynamiclights:sodiumdynamiclights:1.0.9@jar",
+          "name": "Sodium Dynamic Lights",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 511601,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/sodiumdynamiclights-forge-1.0.10-1.20.1.jar",
+            "MD5": "687c18cefa558ca8101ef97914d9ba6b"
+          }
+        },
+        {
+          "id": "toni.sodiumoptionsapi:sodiumoptionsapi:1.0.10@jar",
+          "name": "Sodium Options API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 443978,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/sodiumoptionsapi-forge-1.0.10-1.20.1.jar",
+            "MD5": "75807590ae2648ecdeb855705868ce59"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedbackpacks:3.23.23.1281@jar",
+          "name": "Sophisticated Backpacks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 930346,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/sophisticatedbackpacks-1.20.1-3.23.23.1281.jar",
+            "MD5": "ccbd17703138852dd01634dd18bd6053"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedcore:1.2.75.1033@jar",
+          "name": "Sophisticated Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1333615,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/sophisticatedcore-1.20.1-1.2.75.1033.jar",
+            "MD5": "e1fd83e7bfb1cd687d20ad8cd0b89be1"
+          }
+        },
+        {
+          "id": "net.p3pp3rf1y:sophisticatedstorage:1.3.46.1160@jar",
+          "name": "Sophisticated Storage",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1614875,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/sophisticatedstorage-1.20.1-1.3.46.1160.jar",
+            "MD5": "dcb0279347da43b5417c753f72bd4e4c"
+          }
+        },
+        {
+          "id": "me.lucko:spark:1.10.53@jar",
+          "name": "Spark",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3114590,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/spark-1.10.53-forge.jar",
+            "MD5": "95dcd3b5400cc5eb5d0478a744e6ef98"
+          }
+        },
+        {
+          "id": "me.frankv:staaaaaaaaaaaack:1.20.1-1.5-71@jar",
+          "name": "Staaaaaaaaaaaack",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 38494,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/staaaaaaaaaaaack-forge-1.20.1-1.5-71.jar",
+            "MD5": "4ed8ca9df18aceaae16f8c0239ac9ce0"
+          }
+        },
+        {
+          "id": "com.wdiscute:starcatcher:2.3.19-FORGE-1.20.1@jar",
+          "name": "Starcatcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 6959391,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/starcatcher-2.3.19-FORGE-1.20.1.jar",
+            "MD5": "c27e17b1319f9e5bb091308ef3e777b2"
+          }
+        },
+        {
+          "id": "com.structureessentials:structureessentials:1.20.1-4.7@jar",
+          "name": "Structure Essentials mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 62417,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/structureessentials-1.20.1-4.7.jar",
+            "MD5": "2f782dbd24c60591b0d934b1249543d6"
+          }
+        },
+        {
+          "id": "com.supermartijn642.configlib:supermartijn642configlib:1.1.8@jar",
+          "name": "SuperMartijn642's Config Library",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 206584,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/supermartijn642configlib-1.1.8-forge-mc1.20.jar",
+            "MD5": "cbece61946d4e059e90806c19dd66082"
+          }
+        },
+        {
+          "id": "com.supermartijn642.core:supermartijn642corelib:1.1.18@jar",
+          "name": "SuperMartijn642's Core Lib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 515362,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/supermartijn642corelib-1.1.18-forge-mc1.20.1.jar",
+            "MD5": "6559d43627646f16fbe02de085e98d5c"
+          }
+        },
+        {
+          "id": "net.mehvahdjukaar:supplementaries:1.20-3.1.36@jar",
+          "name": "Supplementaries",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13623263,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/supplementaries-1.20-3.1.36.jar",
+            "MD5": "98178d688af6bedcd5730d592c7dca6d"
+          }
+        },
+        {
+          "id": "com.telepathicgrunt:tact:1.3.0@jar",
+          "name": "TACT",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 233740,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/tact-1.3.0+1.20.1.jar",
+            "MD5": "5de80b5ed1965a7ecc403dccbdf3df45"
+          }
+        },
+        {
+          "id": "io.github.flemmli97:tenshilib:1.20.1-1.7.6@jar",
+          "name": "TenshiLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 465737,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/tenshilib-1.20.1-1.7.6-forge.jar",
+            "MD5": "122615fbf09e2af75d94d6cb3c305093"
+          }
+        },
+        {
+          "id": "terrablender.core:terrablender:3.0.1.10@jar",
+          "name": "TerraBlender",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 107532,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/TerraBlender-forge-1.20.1-3.0.1.10.jar",
+            "MD5": "9d8e305b95ae5a8f7b446d6346324267"
+          }
+        },
+        {
+          "id": "generated.forgemod:terralith:2.5.4@jar",
+          "name": "Terralith",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3156901,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Terralith_1.20.x_v2.5.4.jar",
+            "MD5": "b143cfd648086c68d7f47a86b8994ee3"
+          }
+        },
+        {
+          "id": "com.lion:graveyard:3.1@jar",
+          "name": "The Graveyard",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10298153,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/The_Graveyard_3.1_(FORGE)_for_1.20.1.jar",
+            "MD5": "7a27b8747306bdee0857b50e11a9850e"
+          }
+        },
+        {
+          "id": "dev.shadowsoffire:toastcontrol:8.0.3@jar",
+          "name": "Toast Control",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 26957,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ToastControl-1.20.1-8.0.3.jar",
+            "MD5": "f1bcf2e30adc3ac2e00d7f9d1a4780c6"
+          }
+        },
+        {
+          "id": "com.tom.storagemod:toms_storage:1.7.1@jar",
+          "name": "Tom's Simple Storage Mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 520148,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/toms_storage-1.20-1.7.1.jar",
+            "MD5": "9fac0628fc9767b1bc50dbae38851e11"
+          }
+        },
+        {
+          "id": "net.xalcon:torchmaster:20.1.9@jar",
+          "name": "Torchmaster",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 119348,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/torchmaster-20.1.9.jar",
+            "MD5": "5ccfbdd3ad8436df3b99967e746ac2cd"
+          }
+        },
+        {
+          "id": "de.cristelknight999:t_and_t:1.10.2@jar",
+          "name": "Towns and Towers",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2864275,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Towns-and-Towers-1.12-Fabric+Forge.jar",
+            "MD5": "237a2186d2482856f67c638c06489fb8"
+          }
+        },
+        {
+          "id": "com.supermartijn642:trashcans:1.0.18b@jar",
+          "name": "Trash Cans",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 158164,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/trashcans-1.0.18b-forge-mc1.20.jar",
+            "MD5": "96b30739859465a3a3f8d1d4a6c9d48c"
+          }
+        },
+        {
+          "id": "net.blay09.mods:trashslot:15.1.2@jar",
+          "name": "TrashSlot",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 117791,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/trashslot-forge-1.20-15.1.2.jar",
+            "MD5": "e1df6b412a4c22894967ba42beb347be"
+          }
+        },
+        {
+          "id": "com.gametechbc:traveloptics:6.3.0-1.20.1@jar",
+          "name": "T.O Magic 'n Extras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 27486118,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/traveloptics-6.3.0-1.20.1.jar",
+            "MD5": "e7182fb92a769068a6ea61dc5a487e5b"
+          }
+        },
+        {
+          "id": "com.ninni:twigs:1.20.1-3.1.1@jar",
+          "name": "Twigs",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2766476,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Twigs-1.20.1-3.1.0.jar",
+            "MD5": "726e5fbe4661a26c6dcfb24e54607bad"
+          }
+        },
+        {
+          "id": "toni.lib:txnilib:1.0.24@jar",
+          "name": "TxniLib",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3743339,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/txnilib-forge-1.0.24-1.20.1.jar",
+            "MD5": "31823d0999fda413af6dc226481e404a"
+          }
+        },
+        {
+          "id": "net.mcreator:useless_sword:1.4.1@jar",
+          "name": "Useless Sword",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 2638762,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/useless-sword-1.20.1-V1.4.2.jar",
+            "MD5": "ca6ad58d9de1e8aa5d26dab89baeb348"
+          }
+        },
+        {
+          "id": "net.valhelsia.valhelsia_core.core:valhelsia_core:1.1.2@jar",
+          "name": "Valhelsia Core",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 203313,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/valhelsia_core-forge-1.20.1-1.1.2.jar",
+            "MD5": "9702cc714dbc069166b4982c0771a0c4"
+          }
+        },
+        {
+          "id": "redstonedubstep.mods.vanishmod:vmod:1.1.18@jar",
+          "name": "Vanishmod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 69482,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Vanishmod-1.20.1-1.1.18.jar",
+            "MD5": "86470d61af07469d2d0cdb5607e230a1"
+          }
+        },
+        {
+          "id": "de.maxhenkel:voicechat:1.20.1-2.5.34@jar",
+          "name": "Simple Voice Chat",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 8646079,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/voicechat-forge-1.20.1-2.5.34.jar",
+            "MD5": "0e1248258de3c20e9e57e59156a05b94"
+          }
+        },
+        {
+          "id": "me.srrapero720:waterframes:2.1.22@jar",
+          "name": "WaterFrames",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 255481,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/waterframes-FORGE-mc1.20.1-v2.1.22.jar",
+            "MD5": "595a2467900abcdf00b3059c56fc0d0f"
+          }
+        },
+        {
+          "id": "org.watermedia.youtube.loaders:watermedia_youtube_plugin:2.1.2@jar",
+          "name": "WaterMedia YT Plugin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3830072,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/watermedia_youtube_plugin-2.1.2.jar",
+            "MD5": "5b0ed7502f1d3c0553e6d536d5a74d4a"
+          }
+        },
+        {
+          "id": "org.watermedia.loaders:watermedia:2.1.37@jar",
+          "name": "WaterMedia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37046674,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/watermedia-2.1.37.jar",
+            "MD5": "4a09ad3ea22ad258802605b8aa929bbd"
+          }
+        },
+        {
+          "id": "me.srrapero720:watervision:0.1.0-alpha@jar",
+          "name": "WaterVision",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 82079,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/watervision-FG-mc1.20.1-v0.1.0-alpha.jar",
+            "MD5": "c934bcbabeb242ce7da79e3f16d1406c"
+          }
+        },
+        {
+          "id": "net.blay09.mods:waystones:14.1.17@jar",
+          "name": "Waystones",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 518286,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/waystones-forge-1.20.1-14.1.17.jar",
+            "MD5": "c0991381d238b6e1ba9526132b8a9a7c"
+          }
+        },
+        {
+          "id": "com.minecraftserverzone.weaponmaster:weaponmaster_ydm:4.2.3@jar",
+          "name": "YDM's Weapon Master",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 283977,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/weaponmaster_ydm-forge-1.20.1-4.2.3.jar",
+            "MD5": "d8cbfa36266a62b13e087e6ed4fc94d5"
+          }
+        },
+        {
+          "id": "xerca.xercapaint:xercapaint:1.20.1-1.0.1@jar",
+          "name": "Joy of Painting",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 400817,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/xercapaint-1.20.1-1.0.1.jar",
+            "MD5": "11a97dc9e22c79724b82baf209ba74cd"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsapi:1.20-Forge-4.0.6@jar",
+          "name": "YUNG's API",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 370524,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsApi-1.20-Forge-4.0.6.jar",
+            "MD5": "fe79f43dba8edbb8ede99f4e358e5b0c"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:bettercaves:1.20.1-Forge-2.0.5@jar",
+          "name": "YUNG's Better Caves",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 401492,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBetterCaves-1.20.1-Forge-2.0.5.jar",
+            "MD5": "a844a79f9dbfe04e62616f2239ecf265"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdeserttemples:1.20-Forge-3.0.3@jar",
+          "name": "YUNG's Better Desert Temples",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 918012,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBetterDesertTemples-1.20-Forge-3.0.3.jar",
+            "MD5": "183e2c817e9094ce215c9e70c114825f"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterdungeons:1.20-Forge-4.0.4@jar",
+          "name": "YUNG's Better Dungeons",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 792381,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBetterDungeons-1.20-Forge-4.0.4.jar",
+            "MD5": "2de2f1be8f528ad139003bb5c73d49f3"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterendisland:1.20-Forge-2.0.6@jar",
+          "name": "YUNG's Better End Island",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 387111,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBetterEndIsland-1.20-Forge-2.0.6.jar",
+            "MD5": "7f5ed661e5478668a91ea199fba75fb3"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterjungletemples:1.20-Forge-2.0.5@jar",
+          "name": "YUNG's Better Jungle Temples",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 806652,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBetterJungleTemples-1.20-Forge-2.0.5.jar",
+            "MD5": "abf4f9ef692311aef1eccb98bcee8956"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:bettermineshafts:1.20-Forge-4.0.4@jar",
+          "name": "YUNG's Better Mineshafts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 492998,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBetterMineshafts-1.20-Forge-4.0.4.jar",
+            "MD5": "fe8d205c98cb02840d46646fb7cf5ab8"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterfortresses:1.20-Forge-2.0.6@jar",
+          "name": "YUNG's Better Nether Fortresses",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 619255,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBetterNetherFortresses-1.20-Forge-2.0.6.jar",
+            "MD5": "8f0011690923efb6e2d59514181f0bc9"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betteroceanmonuments:1.20-Forge-3.0.4@jar",
+          "name": "YUNG's Better Ocean Monuments",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1033262,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBetterOceanMonuments-1.20-Forge-3.0.4.jar",
+            "MD5": "467336218d681221ef8d875b226eb1bc"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterstrongholds:1.20-Forge-4.0.3@jar",
+          "name": "YUNG's Better Strongholds",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 473564,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBetterStrongholds-1.20-Forge-4.0.3.jar",
+            "MD5": "8c00ed5d2bab232040a1d4d0ef746ae6"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:betterwitchhuts:1.20-Forge-3.0.3@jar",
+          "name": "YUNG's Better Witch Huts",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 179190,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBetterWitchHuts-1.20-Forge-3.0.3.jar",
+            "MD5": "cb6d73e271fdfb2e8698b7c6bd9df0d9"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsbridges:1.20-Forge-4.0.3@jar",
+          "name": "YUNG's Bridges",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 136236,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsBridges-1.20-Forge-4.0.3.jar",
+            "MD5": "9c39322cd0e271980b4449bc42fc17ac"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungscavebiomes:1.20.1-Forge-2.0.5@jar",
+          "name": "YUNG's Cave Biomes",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 13014967,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsCaveBiomes-1.20.1-Forge-2.0.5.jar",
+            "MD5": "b05321af475e51ece0f7d38c64b5e842"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsextras:1.20-Forge-4.0.3@jar",
+          "name": "YUNG's Extras",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 200341,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsExtras-1.20-Forge-4.0.3.jar",
+            "MD5": "6a592ed7502e13d840fa25587325202d"
+          }
+        },
+        {
+          "id": "com.yungnickyoung.minecraft:yungsmenutweaks:1.20.1-Forge-1.0.2@jar",
+          "name": "YUNG's Menu Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 157602,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/YungsMenuTweaks-1.20.1-Forge-1.0.2.jar",
+            "MD5": "91d02c9039d00c0033f6e2e3950c4491"
+          }
+        },
+        {
+          "id": "it.zerono.mods:zerocore:1.20.1-2.1.47@jar",
+          "name": "Zero CORE 2",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1340358,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ZeroCore2-1.20.1-2.1.47.jar",
+            "MD5": "f530fe6f6de1c9fb99dd195486415459"
+          }
+        },
+        {
+          "id": "org.violetmoon.zetaimplforge.mod:zeta:1.0-30@jar",
+          "name": "Zeta",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1006574,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Zeta-1.0-30.jar",
+            "MD5": "9fa915bd7e2c64217223b6a98ab5dc47"
+          }
+        },
+        {
+          "id": "config.zip",
+          "name": "config.zip",
+          "type": "File",
+          "artifact": {
+            "size": 353800,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config.zip",
+            "MD5": "4b4a778b11faa9f92777ae002c4f3513",
+            "path": "config.zip"
+          }
+        },
+        {
+          "id": "example_block.png",
+          "name": "example_block.png",
+          "type": "File",
+          "artifact": {
+            "size": 247,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/kubejs/assets/kubejs/textures/block/example_block.png",
+            "MD5": "4f2cf24a9f5a4c9ded2bc7c9a792355c",
+            "path": "kubejs/assets/kubejs/textures/block/example_block.png"
+          }
+        },
+        {
+          "id": "example_item.png",
+          "name": "example_item.png",
+          "type": "File",
+          "artifact": {
+            "size": 372,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/kubejs/assets/kubejs/textures/item/example_item.png",
+            "MD5": "d948c51230a1fbd8b7b27b7d0fa0dce6",
+            "path": "kubejs/assets/kubejs/textures/item/example_item.png"
+          }
+        },
+        {
+          "id": "example.js",
+          "name": "example.js",
+          "type": "File",
+          "artifact": {
+            "size": 126,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/kubejs/client_scripts/example.js",
+            "MD5": "979c62225b318d6d57499921bc47b62d",
+            "path": "kubejs/client_scripts/example.js"
+          }
+        },
+        {
+          "id": "client.properties",
+          "name": "client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 375,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/kubejs/config/client.properties",
+            "MD5": "62ac017cc9a4728ba9c169368c46ba8c",
+            "path": "kubejs/config/client.properties"
+          }
+        },
+        {
+          "id": "common.properties",
+          "name": "common.properties",
+          "type": "File",
+          "artifact": {
+            "size": 342,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/kubejs/config/common.properties",
+            "MD5": "f899c9f875bbeb3def08fe8c4a606294",
+            "path": "kubejs/config/common.properties"
+          }
+        },
+        {
+          "id": "README.txt",
+          "name": "README.txt",
+          "type": "File",
+          "artifact": {
+            "size": 1203,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/kubejs/README.txt",
+            "MD5": "9b7dd698e2035090afd6f76f2d493cc6",
+            "path": "kubejs/README.txt"
+          }
+        },
+        {
+          "id": "example.js",
+          "name": "example.js",
+          "type": "File",
+          "artifact": {
+            "size": 126,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/kubejs/server_scripts/example.js",
+            "MD5": "96f1e20e0fe5dc7f2aed643bfa3f9a3f",
+            "path": "kubejs/server_scripts/example.js"
+          }
+        },
+        {
+          "id": "example.js",
+          "name": "example.js",
+          "type": "File",
+          "artifact": {
+            "size": 127,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/kubejs/startup_scripts/example.js",
+            "MD5": "ac40b56827e466149303bb91778b90e4",
+            "path": "kubejs/startup_scripts/example.js"
+          }
+        },
+        {
+          "id": "Quark Programmer Art.zip",
+          "name": "Quark Programmer Art.zip",
+          "type": "File",
+          "artifact": {
+            "size": 266434,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/resourcepacks/Quark%20Programmer%20Art.zip",
+            "MD5": "372d5ab8040ea8fbf0265bf9163ff206",
+            "path": "resourcepacks/Quark Programmer Art.zip"
+          }
+        },
+        {
+          "id": "ComplementaryUnbound_r5.8.1.zip",
+          "name": "ComplementaryUnbound_r5.8.1.zip",
+          "type": "File",
+          "artifact": {
+            "size": 546928,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
+            "MD5": "0a3553109dbe689a9f76d1aedc8f50c6",
+            "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip"
+          }
+        }
+      ]
+    }
+  ]
+}
