@@ -10,7 +10,7 @@
     {
       "id": "Cantheris SMP-1.20.1",
       "name": "Cantheris SMP (Minecraft 1.20.1)",
-      "description": "Cantheris SMP Running Minecraft 1.20.1 (Forge v47.3.0)",
+      "description": "Cantheris SMP Running Minecraft 1.20.1 (Forge v47.4.10)",
       "icon": null,
       "version": "1.0.0",
       "address": "cantherissmp.elgaehost.com.br",
@@ -923,16 +923,6 @@
           }
         },
         {
-          "id": "generated.forgemod:connector:1.0.0-beta.46+1.20.1@jar",
-          "name": "Connector",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 5043384,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Connector-1.0.0-beta.46+1.20.1.jar",
-            "MD5": "3c07e0a25c1921da7586c0290c72ba86"
-          }
-        },
-        {
           "id": "generated.forgemod:connector:1.0.0-beta.47+1.20.1@jar",
           "name": "Connector",
           "type": "ForgeMod",
@@ -1383,19 +1373,6 @@
           }
         },
         {
-          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
-          "name": "Embeddium",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1320675,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/embeddium-0.3.31+mc1.20.1.jar",
-            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
-          },
-          "required": {
-            "value": false
-          }
-        },
-        {
           "id": "com.hrznstudio:emojiful:4.2.0@jar",
           "name": "Emojiful",
           "type": "ForgeMod",
@@ -1443,19 +1420,6 @@
             "size": 2015459,
             "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/EuphoriaPatcher-1.6.8-r5.5.1-forge.jar",
             "MD5": "dda777d943b210008972f94b1f6edfd3"
-          }
-        },
-        {
-          "id": "mc.euphoria_patches:euphoria_patcher:1.6.8-r5.5.1-forge@jar",
-          "name": "EuphoriaPatcher",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 2015459,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/EuphoriaPatcher-1.6.8-r5.5.1-forge.jar",
-            "MD5": "dda777d943b210008972f94b1f6edfd3"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -1926,19 +1890,6 @@
             "size": 204574,
             "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/justzoom_forge_2.1.1_MC_1.20.1.jar",
             "MD5": "758fe904b5a22ce7b2df824c1a064858"
-          }
-        },
-        {
-          "id": "de.keksuccino:justzoom:2.1.1@jar",
-          "name": "Just Zoom",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 204574,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/justzoom_forge_2.1.1_MC_1.20.1.jar",
-            "MD5": "758fe904b5a22ce7b2df824c1a064858"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -2669,16 +2620,6 @@
             "size": 181437,
             "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
             "MD5": "46f8554181d4d240075ea4919d01fd01"
-          }
-        },
-        {
-          "id": "com.playermusic:playermusic:4.0.0@jar",
-          "name": "PlayerMusic",
-          "type": "ForgeMod",
-          "artifact": {
-            "size": 1526110,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/playermusic-4.0.0.jar",
-            "MD5": "ab5e5f2a127a635f3043e02c69ea8984"
           }
         },
         {
