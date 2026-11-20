@@ -12,7 +12,7 @@
       "name": "Cantheris SMP (Minecraft 1.20.1)",
       "description": "Cantheris SMP Running Minecraft 1.20.1 (Forge v47.4.10)",
       "icon": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/server-icon.png",
-      "version": "1.0.2",
+      "version": "1.0.3",
       "address": "177.128.246.179:5060",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -3581,6 +3581,20 @@
             "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/shaderpacks/ComplementaryUnbound_r5.8.1.zip",
             "MD5": "0a3553109dbe689a9f76d1aedc8f50c6",
             "path": "shaderpacks/ComplementaryUnbound_r5.8.1.zip"
+          }
+        },
+        {
+          "id": "team.creative:cmdcam:2.2.1@jar",
+          "name": "CMDCam",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 138883,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionaloff/CMDCam_FORGE_v2.2.1_mc1.20.1.jar",
+            "MD5": "9dc5fbc922b99f310381ba2ffbae1046"
+          },
+          "required": {
+            "value": false,
+            "def": false
           }
         }
       ]
