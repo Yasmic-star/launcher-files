@@ -12,7 +12,7 @@
       "name": "Cantheris SMP (Minecraft 1.20.1)",
       "description": "Cantheris SMP Running Minecraft 1.20.1 (Forge v47.4.10)",
       "icon": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/server-icon.png",
-      "version": "1.0.5",
+      "version": "1.0.6",
       "address": "177.128.246.179:5060",
       "minecraftVersion": "1.20.1",
       "discord": {
@@ -533,6 +533,16 @@
           }
         },
         {
+          "id": "squeek.appleskin:appleskin:2.5.1+mc1.20.1@jar",
+          "name": "AppleSkin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 47428,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/appleskin-forge-mc1.20.1-2.5.1.jar",
+            "MD5": "dae63cea9c951dda542a4005ceef3953"
+          }
+        },
+        {
           "id": "com.teammetallurgy:aquaculture:2.5.7@jar",
           "name": "Aquaculture 2",
           "type": "ForgeMod",
@@ -600,6 +610,16 @@
             "size": 64864,
             "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/attributizer-3.2.jar",
             "MD5": "1162fb659c4316bc72c39484b3a26116"
+          }
+        },
+        {
+          "id": "forge.me.thosea:badoptimizations:2.4.1@jar",
+          "name": "BadOptimizations",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 460234,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/BadOptimizations-2.4.1-1.20.1.jar",
+            "MD5": "f8dd994ef309213c5dae5cbeef53123c"
           }
         },
         {
@@ -683,6 +703,16 @@
           }
         },
         {
+          "id": "com.kreezcraft.badwithernocookiereloaded:bwncr:3.17.2@jar",
+          "name": "Bad Wither No Cookie Reloaded",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 28225,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/bwncr-forge-1.20.1-3.17.2.jar",
+            "MD5": "fd8302218c36c9a5cbaec4087de8b399"
+          }
+        },
+        {
           "id": "top.theillusivec4:caelus:3.2.0+1.20.1@jar",
           "name": "Caelus API",
           "type": "ForgeMod",
@@ -763,6 +793,16 @@
           }
         },
         {
+          "id": "com.clientcrafting:clientcrafting:1.20.1-2.1@jar",
+          "name": "Clientcrafting mod",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 7726,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/clientcrafting-1.20.1-2.1.jar",
+            "MD5": "de2e7ef54f5518c866eb1ecce05cc477"
+          }
+        },
+        {
           "id": "me.shedaniel.clothconfig:cloth_config:11.1.136@jar",
           "name": "Cloth Config v10 API",
           "type": "ForgeMod",
@@ -793,6 +833,16 @@
           }
         },
         {
+          "id": "com.mrcrayfish:configured:2.2.3@jar",
+          "name": "Configured",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 418929,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/configured-forge-1.20.1-2.2.3.jar",
+            "MD5": "9380dc31c599c523a5682a4025fceb92"
+          }
+        },
+        {
           "id": "com.supermartijn642:connectedglass:1.1.14@jar",
           "name": "Connected Glass",
           "type": "ForgeMod",
@@ -820,6 +870,16 @@
             "size": 210312,
             "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/constructionwand-1.20.1-2.11.jar",
             "MD5": "e17b0f6b4fa378d6750a9030a5aca9e0"
+          }
+        },
+        {
+          "id": "com.blamejared:controlling:12.0.2@jar",
+          "name": "Controlling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 115280,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Controlling-forge-1.20.1-12.0.2.jar",
+            "MD5": "952274bc9994bba9733e8747558f73fa"
           }
         },
         {
@@ -1113,6 +1173,16 @@
           }
         },
         {
+          "id": "net.lostluma.dynamic_fps.impl:dynamic_fps:3.11.4@jar",
+          "name": "Dynamic FPS",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 402345,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/dynamic-fps-3.11.4+minecraft-1.20.0-forge.jar",
+            "MD5": "f8df69d0af455b6f47acb88ab747d1a3"
+          }
+        },
+        {
           "id": "de.markusbordihn.easynpc.bundle:easy_npc_bundle:7.20.0@jar",
           "name": "Easy NPC: Bundle",
           "type": "ForgeMod",
@@ -1163,6 +1233,16 @@
           }
         },
         {
+          "id": "me.jellysquid.mods.sodium.client:embeddium:0.3.31+mc1.20.1@jar",
+          "name": "Embeddium",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1320675,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/embeddium-0.3.31+mc1.20.1.jar",
+            "MD5": "1dfb2ee49ce9ad5d484ff3eea0d628b7"
+          }
+        },
+        {
           "id": "com.hrznstudio:emojiful:4.2.0@jar",
           "name": "Emojiful",
           "type": "ForgeMod",
@@ -1188,11 +1268,18 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 66883,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/EnchantmentDescriptions-Forge-1.20.1-17.1.21.jar",
             "MD5": "82f3fc15d2b48e0bde064704e76a849a"
-          },
-          "required": {
-            "value": false
+          }
+        },
+        {
+          "id": "dev.tr7zw:entityculling:1.12.1@jar",
+          "name": "EntityCulling",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 1528604,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/entityculling-forge-1.12.1-mc1.20.1.jar",
+            "MD5": "c256f485ce2fa6440149b1e28c3ed4fd"
           }
         },
         {
@@ -1293,6 +1380,26 @@
             "size": 3311051,
             "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/FarmersDelight-1.20.1-1.3.4.jar",
             "MD5": "a61302a31849ad9c37c6ac6e59268b75"
+          }
+        },
+        {
+          "id": "me.fallenbreath:fastipping:1.0.12@jar",
+          "name": "Fast IP Ping",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 10409,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/fast-ip-ping-v1.0.12-mc1.20.4-forge.jar",
+            "MD5": "f78474676c859f9024f202b0ad627fde"
+          }
+        },
+        {
+          "id": "io.github.bumblesoftware.fastload.init:fastload:3.4.0@jar",
+          "name": "Fastload-Reforged",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 66989,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+            "MD5": "3266e638032dc9b957bf1e7372671c05"
           }
         },
         {
@@ -1456,6 +1563,16 @@
           }
         },
         {
+          "id": "ru.vidtu:ias:9.0.8+1.20.1-forge@jar",
+          "name": "In-Game Account Switcher",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 321450,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/IAS-9.0.8+1.20.1-forge.jar",
+            "MD5": "9d495c975ba990febb51ea9296d5f0ac"
+          }
+        },
+        {
           "id": "com.anthonyhilyard:iceberg:1.1.25@jar",
           "name": "Iceberg",
           "type": "ForgeMod",
@@ -1581,11 +1698,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 4353808,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/journeymap-forge-1.20.1-6.0.7.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/journeymap-forge-1.20.1-6.0.7.jar",
             "MD5": "10141a21c0c2d60a5af60c9e49c7ced8"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -2099,6 +2213,16 @@
           }
         },
         {
+          "id": "yalter.mousetweaks:mousetweaks:2.25.1@jar",
+          "name": "Mouse Tweaks",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 76237,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/MouseTweaks-forge-mc1.20.1-2.25.1.jar",
+            "MD5": "ce4b5bbb9ef6a7905c458ab599ef4cb2"
+          }
+        },
+        {
           "id": "shetiphian.multibeds:multibeds:1.20.1-1.3@jar",
           "name": "Multi-Beds",
           "type": "ForgeMod",
@@ -2369,6 +2493,16 @@
           }
         },
         {
+          "id": "me.flashyreese.mods.sodiumextra:embeddium_extra:0.5.4.4+mc1.20.1-build.131@jar",
+          "name": "Embeddium Extra",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 568608,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/rubidium-extra-0.5.4.4+mc1.20.1-build.131.jar",
+            "MD5": "a96fb0a07b75eb07b200e8f9c0dfb9f4"
+          }
+        },
+        {
           "id": "com.teamabnormals.savage_and_ravage.core:savage_and_ravage:6.0.1@jar",
           "name": "Savage & Ravage",
           "type": "ForgeMod",
@@ -2479,6 +2613,16 @@
           }
         },
         {
+          "id": "net.sweenus:simplytooltips:0.1.5-1.20.1@jar",
+          "name": "Simply Tooltips",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 5418741,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/SimplyTooltips-forge-0.1.5-1.20.1.jar",
+            "MD5": "4221463739c9cf75400968ded0aec4d4"
+          }
+        },
+        {
           "id": "net.tslat:smartbrainlib:1.15@jar",
           "name": "SmartBrainLib",
           "type": "ForgeMod",
@@ -2486,6 +2630,16 @@
             "size": 362338,
             "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/SmartBrainLib-forge-1.20.1-1.15.jar",
             "MD5": "d5a060ce11b8c13268b821dfe5a936e4"
+          }
+        },
+        {
+          "id": "com.abdelaziz:smoothboot:0.0.4@jar",
+          "name": "Smooth Boot (Reloaded)",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 41044,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/smoothboot(reloaded)-mc1.20.1-0.0.4.jar",
+            "MD5": "c8cd5ae14d99796fd92c95a353e96211"
           }
         },
         {
@@ -2604,11 +2758,8 @@
           "type": "ForgeMod",
           "artifact": {
             "size": 26957,
-            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/optionalon/ToastControl-1.20.1-8.0.3.jar",
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/ToastControl-1.20.1-8.0.3.jar",
             "MD5": "f1bcf2e30adc3ac2e00d7f9d1a4780c6"
-          },
-          "required": {
-            "value": false
           }
         },
         {
@@ -2742,6 +2893,26 @@
           }
         },
         {
+          "id": "org.watermedia.youtube.loaders:watermedia_youtube_plugin:2.1.2@jar",
+          "name": "WaterMedia YT Plugin",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 3830072,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/watermedia_youtube_plugin-2.1.2.jar",
+            "MD5": "5b0ed7502f1d3c0553e6d536d5a74d4a"
+          }
+        },
+        {
+          "id": "org.watermedia.loaders:watermedia:2.1.37@jar",
+          "name": "WaterMedia",
+          "type": "ForgeMod",
+          "artifact": {
+            "size": 37046674,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/watermedia-2.1.37.jar",
+            "MD5": "4a09ad3ea22ad258802605b8aa929bbd"
+          }
+        },
+        {
           "id": "me.srrapero720:watervision:0.1.0-alpha@jar",
           "name": "WaterVision",
           "type": "ForgeMod",
@@ -2849,6 +3020,4439 @@
             "size": 1006518,
             "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/forgemods/required/Zeta-1.0-31.jar",
             "MD5": "98b72e20dacbdb4da4bd187f56ed4012"
+          }
+        },
+        {
+          "id": "accessories.json5",
+          "name": "accessories.json5",
+          "type": "File",
+          "artifact": {
+            "size": 745,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/accessories.json5",
+            "MD5": "18d2065349cab84e6afb148f78846953",
+            "path": "config/accessories.json5"
+          }
+        },
+        {
+          "id": "alexscaves-client.toml",
+          "name": "alexscaves-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1900,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexscaves-client.toml",
+            "MD5": "74e71cbc05402bd28f07a68bb7d11687",
+            "path": "config/alexscaves-client.toml"
+          }
+        },
+        {
+          "id": "alexscaves-general.toml",
+          "name": "alexscaves-general.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6084,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexscaves-general.toml",
+            "MD5": "8c8e7794b876e01d3facffcea3f2e91b",
+            "path": "config/alexscaves-general.toml"
+          }
+        },
+        {
+          "id": "abyssal_chasm.json",
+          "name": "abyssal_chasm.json",
+          "type": "File",
+          "artifact": {
+            "size": 272,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexscaves_biome_generation/abyssal_chasm.json",
+            "MD5": "e2381ab2cc691c9380e20047894f2e92",
+            "path": "config/alexscaves_biome_generation/abyssal_chasm.json"
+          }
+        },
+        {
+          "id": "candy_cavity.json",
+          "name": "candy_cavity.json",
+          "type": "File",
+          "artifact": {
+            "size": 227,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexscaves_biome_generation/candy_cavity.json",
+            "MD5": "83ee4999c8084d79129f0d8de26feadf",
+            "path": "config/alexscaves_biome_generation/candy_cavity.json"
+          }
+        },
+        {
+          "id": "forlorn_hollows.json",
+          "name": "forlorn_hollows.json",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexscaves_biome_generation/forlorn_hollows.json",
+            "MD5": "cb3ff6dc8f527e3ce4f20cf2615c194f",
+            "path": "config/alexscaves_biome_generation/forlorn_hollows.json"
+          }
+        },
+        {
+          "id": "magnetic_caves.json",
+          "name": "magnetic_caves.json",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexscaves_biome_generation/magnetic_caves.json",
+            "MD5": "48aba76fb94fa1f7f24e3f6f4b1acd3f",
+            "path": "config/alexscaves_biome_generation/magnetic_caves.json"
+          }
+        },
+        {
+          "id": "primordial_caves.json",
+          "name": "primordial_caves.json",
+          "type": "File",
+          "artifact": {
+            "size": 227,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexscaves_biome_generation/primordial_caves.json",
+            "MD5": "700aa5a9fbdebeab8346509259372a27",
+            "path": "config/alexscaves_biome_generation/primordial_caves.json"
+          }
+        },
+        {
+          "id": "toxic_caves.json",
+          "name": "toxic_caves.json",
+          "type": "File",
+          "artifact": {
+            "size": 226,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexscaves_biome_generation/toxic_caves.json",
+            "MD5": "6b2614e0035375fb4a0c74190658db7d",
+            "path": "config/alexscaves_biome_generation/toxic_caves.json"
+          }
+        },
+        {
+          "id": "alligator_snapping_turtle_spawns.json",
+          "name": "alligator_snapping_turtle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 754,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/alligator_snapping_turtle_spawns.json",
+            "MD5": "e880e0c7e38986fb1f7a8885a892b0fc",
+            "path": "config/alexsmobs/alligator_snapping_turtle_spawns.json"
+          }
+        },
+        {
+          "id": "anaconda_spawns.json",
+          "name": "anaconda_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1036,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/anaconda_spawns.json",
+            "MD5": "74d2b1bc857e9acb8321f296567a8f7f",
+            "path": "config/alexsmobs/anaconda_spawns.json"
+          }
+        },
+        {
+          "id": "anteater_spawns.json",
+          "name": "anteater_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/anteater_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/anteater_spawns.json"
+          }
+        },
+        {
+          "id": "bald_eagle_spawns.json",
+          "name": "bald_eagle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2723,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/bald_eagle_spawns.json",
+            "MD5": "dd9229ac98bbf83a1309d4b1e3770fd5",
+            "path": "config/alexsmobs/bald_eagle_spawns.json"
+          }
+        },
+        {
+          "id": "banana_slug_spawns.json",
+          "name": "banana_slug_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1697,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/banana_slug_spawns.json",
+            "MD5": "6aec0b8dd4904343a50e7fb0a37b2912",
+            "path": "config/alexsmobs/banana_slug_spawns.json"
+          }
+        },
+        {
+          "id": "bison_spawns.json",
+          "name": "bison_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1761,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/bison_spawns.json",
+            "MD5": "729766841964832662fb610b6a661dc4",
+            "path": "config/alexsmobs/bison_spawns.json"
+          }
+        },
+        {
+          "id": "blobfish_spawns.json",
+          "name": "blobfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/blobfish_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/blobfish_spawns.json"
+          }
+        },
+        {
+          "id": "blue_jay_spawns.json",
+          "name": "blue_jay_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 4020,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/blue_jay_spawns.json",
+            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
+            "path": "config/alexsmobs/blue_jay_spawns.json"
+          }
+        },
+        {
+          "id": "bone_serpent_spawns.json",
+          "name": "bone_serpent_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 257,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/bone_serpent_spawns.json",
+            "MD5": "7f0b198410364ba04743be1a24f901db",
+            "path": "config/alexsmobs/bone_serpent_spawns.json"
+          }
+        },
+        {
+          "id": "bunfungus_spawns.json",
+          "name": "bunfungus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/bunfungus_spawns.json",
+            "MD5": "e585908f8d3914a77836461f2f136848",
+            "path": "config/alexsmobs/bunfungus_spawns.json"
+          }
+        },
+        {
+          "id": "cachalot_whale_beached_spawns.json",
+          "name": "cachalot_whale_beached_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 642,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/cachalot_whale_beached_spawns.json",
+            "MD5": "b779f228a334a5be8eaa5f845664105c",
+            "path": "config/alexsmobs/cachalot_whale_beached_spawns.json"
+          }
+        },
+        {
+          "id": "cachalot_whale_spawns.json",
+          "name": "cachalot_whale_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 893,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/cachalot_whale_spawns.json",
+            "MD5": "53158516acce1c7ce2d05e0a61ff5965",
+            "path": "config/alexsmobs/cachalot_whale_spawns.json"
+          }
+        },
+        {
+          "id": "caiman_spawns.json",
+          "name": "caiman_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/caiman_spawns.json",
+            "MD5": "0443b3f49eb26ce302434cf0af666b90",
+            "path": "config/alexsmobs/caiman_spawns.json"
+          }
+        },
+        {
+          "id": "capuchin_monkey_spawns.json",
+          "name": "capuchin_monkey_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1184,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/capuchin_monkey_spawns.json",
+            "MD5": "61f854072c18a0b127bb37c01b33a0ae",
+            "path": "config/alexsmobs/capuchin_monkey_spawns.json"
+          }
+        },
+        {
+          "id": "catfish_spawns.json",
+          "name": "catfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1097,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/catfish_spawns.json",
+            "MD5": "f0234087612d8035344fbfb634cebfa9",
+            "path": "config/alexsmobs/catfish_spawns.json"
+          }
+        },
+        {
+          "id": "cave_centipede_spawns.json",
+          "name": "cave_centipede_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2200,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/cave_centipede_spawns.json",
+            "MD5": "a6fcbacb06418e1c951695b0f4919f13",
+            "path": "config/alexsmobs/cave_centipede_spawns.json"
+          }
+        },
+        {
+          "id": "cockroach_spawns.json",
+          "name": "cockroach_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2085,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/cockroach_spawns.json",
+            "MD5": "4b8fb651c60044198150aa49c4193dcc",
+            "path": "config/alexsmobs/cockroach_spawns.json"
+          }
+        },
+        {
+          "id": "comb_jelly_spawns.json",
+          "name": "comb_jelly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 414,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/comb_jelly_spawns.json",
+            "MD5": "e9fa2345daa80ad12a849fe96ea656f9",
+            "path": "config/alexsmobs/comb_jelly_spawns.json"
+          }
+        },
+        {
+          "id": "cosmaw_spawns.json",
+          "name": "cosmaw_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 371,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/cosmaw_spawns.json",
+            "MD5": "99ec85d1693bdd51d1970b9bfba84267",
+            "path": "config/alexsmobs/cosmaw_spawns.json"
+          }
+        },
+        {
+          "id": "cosmic_cod_spawns.json",
+          "name": "cosmic_cod_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 139,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/cosmic_cod_spawns.json",
+            "MD5": "84b1c3b63a2e5656da5478c844a5ad49",
+            "path": "config/alexsmobs/cosmic_cod_spawns.json"
+          }
+        },
+        {
+          "id": "crimson_mosquito_spawns.json",
+          "name": "crimson_mosquito_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 785,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/crimson_mosquito_spawns.json",
+            "MD5": "0c095c6657c6df75653ab9a0b049b4e1",
+            "path": "config/alexsmobs/crimson_mosquito_spawns.json"
+          }
+        },
+        {
+          "id": "crocodile_spawns.json",
+          "name": "crocodile_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1007,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/crocodile_spawns.json",
+            "MD5": "062f820f53eee3c3a4eed7621a4d96c3",
+            "path": "config/alexsmobs/crocodile_spawns.json"
+          }
+        },
+        {
+          "id": "crow_spawns.json",
+          "name": "crow_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 5146,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/crow_spawns.json",
+            "MD5": "607a09f65c8023448ad7828e29bde4e6",
+            "path": "config/alexsmobs/crow_spawns.json"
+          }
+        },
+        {
+          "id": "devils_hole_pupfish_spawns.json",
+          "name": "devils_hole_pupfish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/devils_hole_pupfish_spawns.json",
+            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
+            "path": "config/alexsmobs/devils_hole_pupfish_spawns.json"
+          }
+        },
+        {
+          "id": "dropbear_spawns.json",
+          "name": "dropbear_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 403,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/dropbear_spawns.json",
+            "MD5": "95aa6694d6dd2f14fcfcedc28f5698e9",
+            "path": "config/alexsmobs/dropbear_spawns.json"
+          }
+        },
+        {
+          "id": "elephant_spawns.json",
+          "name": "elephant_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1163,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/elephant_spawns.json",
+            "MD5": "1032996d6a2cac873766f7a443d44810",
+            "path": "config/alexsmobs/elephant_spawns.json"
+          }
+        },
+        {
+          "id": "emu_spawns.json",
+          "name": "emu_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1661,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/emu_spawns.json",
+            "MD5": "3eb32cae8d7825df19055f0b673481ec",
+            "path": "config/alexsmobs/emu_spawns.json"
+          }
+        },
+        {
+          "id": "endergrade_spawns.json",
+          "name": "endergrade_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/endergrade_spawns.json",
+            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "path": "config/alexsmobs/endergrade_spawns.json"
+          }
+        },
+        {
+          "id": "enderiophage_spawns.json",
+          "name": "enderiophage_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 603,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/enderiophage_spawns.json",
+            "MD5": "4ab64e4848a83c605d54ade54fdf0702",
+            "path": "config/alexsmobs/enderiophage_spawns.json"
+          }
+        },
+        {
+          "id": "farseer.json",
+          "name": "farseer.json",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/farseer.json",
+            "MD5": "337b5b31ce112b2c614749d2e1047254",
+            "path": "config/alexsmobs/farseer.json"
+          }
+        },
+        {
+          "id": "flutter_spawns.json",
+          "name": "flutter_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/flutter_spawns.json",
+            "MD5": "1ab7408c8c7997d1ca595bdaa531820b",
+            "path": "config/alexsmobs/flutter_spawns.json"
+          }
+        },
+        {
+          "id": "flying_fish_spawns.json",
+          "name": "flying_fish_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 716,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/flying_fish_spawns.json",
+            "MD5": "7bf21cd1ccc1499470e52d91402a899f",
+            "path": "config/alexsmobs/flying_fish_spawns.json"
+          }
+        },
+        {
+          "id": "fly_spawns.json",
+          "name": "fly_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 145,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/fly_spawns.json",
+            "MD5": "2c88b50ebef0c2d8cefd7fec53cc1b31",
+            "path": "config/alexsmobs/fly_spawns.json"
+          }
+        },
+        {
+          "id": "frilled_shark_spawns.json",
+          "name": "frilled_shark_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/frilled_shark_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/frilled_shark_spawns.json"
+          }
+        },
+        {
+          "id": "froststalker_spawns.json",
+          "name": "froststalker_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 934,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/froststalker_spawns.json",
+            "MD5": "2a017b04fa69a371da739dca3dccfaeb",
+            "path": "config/alexsmobs/froststalker_spawns.json"
+          }
+        },
+        {
+          "id": "gazelle_spawns.json",
+          "name": "gazelle_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/gazelle_spawns.json",
+            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
+            "path": "config/alexsmobs/gazelle_spawns.json"
+          }
+        },
+        {
+          "id": "gelada_monkey_spawns.json",
+          "name": "gelada_monkey_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1001,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/gelada_monkey_spawns.json",
+            "MD5": "c229e44c5b5bd924b2449149c1fabac7",
+            "path": "config/alexsmobs/gelada_monkey_spawns.json"
+          }
+        },
+        {
+          "id": "giant_squid_spawns.json",
+          "name": "giant_squid_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/giant_squid_spawns.json",
+            "MD5": "ad3201c8f95a758dbe8496d677756a5e",
+            "path": "config/alexsmobs/giant_squid_spawns.json"
+          }
+        },
+        {
+          "id": "gorilla_spawns.json",
+          "name": "gorilla_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1053,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/gorilla_spawns.json",
+            "MD5": "803b7292137cbeece7aaa1d69e04b5b2",
+            "path": "config/alexsmobs/gorilla_spawns.json"
+          }
+        },
+        {
+          "id": "grizzly_bear_spawns.json",
+          "name": "grizzly_bear_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 4020,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/grizzly_bear_spawns.json",
+            "MD5": "9b797aa57e7c173d5e4a8f034f267dff",
+            "path": "config/alexsmobs/grizzly_bear_spawns.json"
+          }
+        },
+        {
+          "id": "guster_spawns.json",
+          "name": "guster_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1132,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/guster_spawns.json",
+            "MD5": "9f7fac3c24c356a767bce153106054dd",
+            "path": "config/alexsmobs/guster_spawns.json"
+          }
+        },
+        {
+          "id": "hammerhead_shark_spawns.json",
+          "name": "hammerhead_shark_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 254,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/hammerhead_shark_spawns.json",
+            "MD5": "3e1c6fd6a63f92c5784cd66565dfb1f7",
+            "path": "config/alexsmobs/hammerhead_shark_spawns.json"
+          }
+        },
+        {
+          "id": "hummingbird_spawns.json",
+          "name": "hummingbird_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3029,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/hummingbird_spawns.json",
+            "MD5": "4ab2f69a298dba2dd6de993426aa1642",
+            "path": "config/alexsmobs/hummingbird_spawns.json"
+          }
+        },
+        {
+          "id": "jerboa_spawns.json",
+          "name": "jerboa_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/jerboa_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/jerboa_spawns.json"
+          }
+        },
+        {
+          "id": "kangaroo_spawns.json",
+          "name": "kangaroo_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1661,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/kangaroo_spawns.json",
+            "MD5": "3eb32cae8d7825df19055f0b673481ec",
+            "path": "config/alexsmobs/kangaroo_spawns.json"
+          }
+        },
+        {
+          "id": "komodo_dragon_spawns.json",
+          "name": "komodo_dragon_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 775,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/komodo_dragon_spawns.json",
+            "MD5": "bb0e841a9cf2784c27209ab46af2ab58",
+            "path": "config/alexsmobs/komodo_dragon_spawns.json"
+          }
+        },
+        {
+          "id": "laviathan_spawns.json",
+          "name": "laviathan_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 142,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/laviathan_spawns.json",
+            "MD5": "477bc268eb72dc151845a22729de3fe8",
+            "path": "config/alexsmobs/laviathan_spawns.json"
+          }
+        },
+        {
+          "id": "leafcutter_anthill_spawns.json",
+          "name": "leafcutter_anthill_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/leafcutter_anthill_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/leafcutter_anthill_spawns.json"
+          }
+        },
+        {
+          "id": "lobster_spawns.json",
+          "name": "lobster_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 398,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/lobster_spawns.json",
+            "MD5": "3284cadc1438c85425a3621a016e6eba",
+            "path": "config/alexsmobs/lobster_spawns.json"
+          }
+        },
+        {
+          "id": "maned_wolf_spawns.json",
+          "name": "maned_wolf_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1037,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/maned_wolf_spawns.json",
+            "MD5": "c21feac193fa689955ac90f659e1f0c2",
+            "path": "config/alexsmobs/maned_wolf_spawns.json"
+          }
+        },
+        {
+          "id": "mantis_shrimp_spawns.json",
+          "name": "mantis_shrimp_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 385,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/mantis_shrimp_spawns.json",
+            "MD5": "c0a4157361a392c8a4d4e32d95bcc46f",
+            "path": "config/alexsmobs/mantis_shrimp_spawns.json"
+          }
+        },
+        {
+          "id": "mimicube_spawns.json",
+          "name": "mimicube_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 365,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/mimicube_spawns.json",
+            "MD5": "5dfd54d2860bbecb3d63d3a0cbc42752",
+            "path": "config/alexsmobs/mimicube_spawns.json"
+          }
+        },
+        {
+          "id": "mimic_octopus_spawns.json",
+          "name": "mimic_octopus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 373,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/mimic_octopus_spawns.json",
+            "MD5": "468f301a2a863dc3c56c0dffc967fb73",
+            "path": "config/alexsmobs/mimic_octopus_spawns.json"
+          }
+        },
+        {
+          "id": "moose_spawns.json",
+          "name": "moose_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2291,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/moose_spawns.json",
+            "MD5": "9352df8e11cc9d6c49756868320ff3bb",
+            "path": "config/alexsmobs/moose_spawns.json"
+          }
+        },
+        {
+          "id": "mudskipper_spawns.json",
+          "name": "mudskipper_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 291,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/mudskipper_spawns.json",
+            "MD5": "0443b3f49eb26ce302434cf0af666b90",
+            "path": "config/alexsmobs/mudskipper_spawns.json"
+          }
+        },
+        {
+          "id": "mungus_spawns.json",
+          "name": "mungus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 486,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/mungus_spawns.json",
+            "MD5": "e585908f8d3914a77836461f2f136848",
+            "path": "config/alexsmobs/mungus_spawns.json"
+          }
+        },
+        {
+          "id": "murmur.json",
+          "name": "murmur.json",
+          "type": "File",
+          "artifact": {
+            "size": 2200,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/murmur.json",
+            "MD5": "a6fcbacb06418e1c951695b0f4919f13",
+            "path": "config/alexsmobs/murmur.json"
+          }
+        },
+        {
+          "id": "orca_spawns.json",
+          "name": "orca_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/orca_spawns.json",
+            "MD5": "7c9a514102d327b8d9ba16b19a991049",
+            "path": "config/alexsmobs/orca_spawns.json"
+          }
+        },
+        {
+          "id": "platypus_spawns.json",
+          "name": "platypus_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 625,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/platypus_spawns.json",
+            "MD5": "058a3971fb93597c04c1769bfe265fb9",
+            "path": "config/alexsmobs/platypus_spawns.json"
+          }
+        },
+        {
+          "id": "potoo_spawns.json",
+          "name": "potoo_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 148,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/potoo_spawns.json",
+            "MD5": "d1511fa5b0562676dab091599bc838a2",
+            "path": "config/alexsmobs/potoo_spawns.json"
+          }
+        },
+        {
+          "id": "raccoon_spawns.json",
+          "name": "raccoon_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3712,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/raccoon_spawns.json",
+            "MD5": "ef2fd8cf69fc21a78c45e79c1a1bf5a7",
+            "path": "config/alexsmobs/raccoon_spawns.json"
+          }
+        },
+        {
+          "id": "rain_frog_spawns.json",
+          "name": "rain_frog_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/rain_frog_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/rain_frog_spawns.json"
+          }
+        },
+        {
+          "id": "rattlesnake_spawns.json",
+          "name": "rattlesnake_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1646,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/rattlesnake_spawns.json",
+            "MD5": "c9f3ffa55ec8cc5d57ed9a8bcb0ea1fe",
+            "path": "config/alexsmobs/rattlesnake_spawns.json"
+          }
+        },
+        {
+          "id": "rhinoceros_spawns.json",
+          "name": "rhinoceros_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1050,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/rhinoceros_spawns.json",
+            "MD5": "397912ee2f4758bf87c6e017fc8c3dc0",
+            "path": "config/alexsmobs/rhinoceros_spawns.json"
+          }
+        },
+        {
+          "id": "roadrunner_spawns.json",
+          "name": "roadrunner_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1646,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/roadrunner_spawns.json",
+            "MD5": "c9f3ffa55ec8cc5d57ed9a8bcb0ea1fe",
+            "path": "config/alexsmobs/roadrunner_spawns.json"
+          }
+        },
+        {
+          "id": "rocky_roller_spawns.json",
+          "name": "rocky_roller_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 673,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/rocky_roller_spawns.json",
+            "MD5": "7f40733890dcc5279c2addea737b4b80",
+            "path": "config/alexsmobs/rocky_roller_spawns.json"
+          }
+        },
+        {
+          "id": "seagull_spawns.json",
+          "name": "seagull_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1296,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/seagull_spawns.json",
+            "MD5": "477c8512be58a4c7cadbc3ea65c3642a",
+            "path": "config/alexsmobs/seagull_spawns.json"
+          }
+        },
+        {
+          "id": "seal_spawns.json",
+          "name": "seal_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 877,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/seal_spawns.json",
+            "MD5": "001c3ef108fd4fa9766fc80441edeb04",
+            "path": "config/alexsmobs/seal_spawns.json"
+          }
+        },
+        {
+          "id": "shoebill_spawns.json",
+          "name": "shoebill_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 623,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/shoebill_spawns.json",
+            "MD5": "7e9b29c6eba19484a234ee300f2dea69",
+            "path": "config/alexsmobs/shoebill_spawns.json"
+          }
+        },
+        {
+          "id": "skelewag_spawns.json",
+          "name": "skelewag_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 374,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/skelewag_spawns.json",
+            "MD5": "b848bd81bc3b313dba92f2743bc27643",
+            "path": "config/alexsmobs/skelewag_spawns.json"
+          }
+        },
+        {
+          "id": "skreecher.json",
+          "name": "skreecher.json",
+          "type": "File",
+          "artifact": {
+            "size": 276,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/skreecher.json",
+            "MD5": "cf0d7ac8c8ec5f67d540efe79f2f2084",
+            "path": "config/alexsmobs/skreecher.json"
+          }
+        },
+        {
+          "id": "skunk_spawns.json",
+          "name": "skunk_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 2037,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/skunk_spawns.json",
+            "MD5": "e077fe3ab2315f937483c66f95ece589",
+            "path": "config/alexsmobs/skunk_spawns.json"
+          }
+        },
+        {
+          "id": "snow_leopard_spawns.json",
+          "name": "snow_leopard_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1808,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/snow_leopard_spawns.json",
+            "MD5": "54323941affc9be9f7a507f68dbd4ee7",
+            "path": "config/alexsmobs/snow_leopard_spawns.json"
+          }
+        },
+        {
+          "id": "soul_vulture_spawns.json",
+          "name": "soul_vulture_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 523,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/soul_vulture_spawns.json",
+            "MD5": "4121b1b2b71908c6db3f6f2a8c53059a",
+            "path": "config/alexsmobs/soul_vulture_spawns.json"
+          }
+        },
+        {
+          "id": "spectre_spawns.json",
+          "name": "spectre_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 250,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/spectre_spawns.json",
+            "MD5": "fe07337e303bd453f45f00ec63fa9c0a",
+            "path": "config/alexsmobs/spectre_spawns.json"
+          }
+        },
+        {
+          "id": "straddler_spawns.json",
+          "name": "straddler_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/straddler_spawns.json",
+            "MD5": "bf5897f982c8063dc1d570ad6c4eee95",
+            "path": "config/alexsmobs/straddler_spawns.json"
+          }
+        },
+        {
+          "id": "stradpole_spawns.json",
+          "name": "stradpole_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/stradpole_spawns.json",
+            "MD5": "bf5897f982c8063dc1d570ad6c4eee95",
+            "path": "config/alexsmobs/stradpole_spawns.json"
+          }
+        },
+        {
+          "id": "sugar_glider_spawns.json",
+          "name": "sugar_glider_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 418,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/sugar_glider_spawns.json",
+            "MD5": "6f1722c17a8adc08ab757a0e6377233e",
+            "path": "config/alexsmobs/sugar_glider_spawns.json"
+          }
+        },
+        {
+          "id": "sunbird_spawns.json",
+          "name": "sunbird_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 3925,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/sunbird_spawns.json",
+            "MD5": "147fdf357f3478c40b5b7481569c6c07",
+            "path": "config/alexsmobs/sunbird_spawns.json"
+          }
+        },
+        {
+          "id": "tarantula_hawk_spawns.json",
+          "name": "tarantula_hawk_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/tarantula_hawk_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/tarantula_hawk_spawns.json"
+          }
+        },
+        {
+          "id": "tasmanian_devil_spawns.json",
+          "name": "tasmanian_devil_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1908,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/tasmanian_devil_spawns.json",
+            "MD5": "2234aec1f09e2e0e5d202cfbeb9b283b",
+            "path": "config/alexsmobs/tasmanian_devil_spawns.json"
+          }
+        },
+        {
+          "id": "terrapin_spawns.json",
+          "name": "terrapin_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 625,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/terrapin_spawns.json",
+            "MD5": "058a3971fb93597c04c1769bfe265fb9",
+            "path": "config/alexsmobs/terrapin_spawns.json"
+          }
+        },
+        {
+          "id": "tiger_spawns.json",
+          "name": "tiger_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1209,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/tiger_spawns.json",
+            "MD5": "8e7708606954a64a9f8648585c8a4a74",
+            "path": "config/alexsmobs/tiger_spawns.json"
+          }
+        },
+        {
+          "id": "toucan_spawns.json",
+          "name": "toucan_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1166,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/toucan_spawns.json",
+            "MD5": "2040bb544aff0345a335fd895cd0022c",
+            "path": "config/alexsmobs/toucan_spawns.json"
+          }
+        },
+        {
+          "id": "triops_spawns.json",
+          "name": "triops_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 1252,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/triops_spawns.json",
+            "MD5": "1e43a85b07df2edeaed6affb2eb06eb5",
+            "path": "config/alexsmobs/triops_spawns.json"
+          }
+        },
+        {
+          "id": "tusklin_spawns.json",
+          "name": "tusklin_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 882,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/tusklin_spawns.json",
+            "MD5": "502bb996e36a50b977acb73e29e975df",
+            "path": "config/alexsmobs/tusklin_spawns.json"
+          }
+        },
+        {
+          "id": "underminer.json",
+          "name": "underminer.json",
+          "type": "File",
+          "artifact": {
+            "size": 2085,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/underminer.json",
+            "MD5": "4b8fb651c60044198150aa49c4193dcc",
+            "path": "config/alexsmobs/underminer.json"
+          }
+        },
+        {
+          "id": "void_worm_spawns.json",
+          "name": "void_worm_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/void_worm_spawns.json",
+            "MD5": "0531dec7156e47b4566a5eb598a4b931",
+            "path": "config/alexsmobs/void_worm_spawns.json"
+          }
+        },
+        {
+          "id": "warped_mosco_spawns.json",
+          "name": "warped_mosco_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 18,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/warped_mosco_spawns.json",
+            "MD5": "0531dec7156e47b4566a5eb598a4b931",
+            "path": "config/alexsmobs/warped_mosco_spawns.json"
+          }
+        },
+        {
+          "id": "warped_toad_spawns.json",
+          "name": "warped_toad_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 661,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs/warped_toad_spawns.json",
+            "MD5": "39d42abce47f0e9e64bab7680a0d8ef0",
+            "path": "config/alexsmobs/warped_toad_spawns.json"
+          }
+        },
+        {
+          "id": "alexsmobs.toml",
+          "name": "alexsmobs.toml",
+          "type": "File",
+          "artifact": {
+            "size": 36192,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alexsmobs.toml",
+            "MD5": "6b5567e6a3a903e0102c576899a33226",
+            "path": "config/alexsmobs.toml"
+          }
+        },
+        {
+          "id": "alltheleaks.json",
+          "name": "alltheleaks.json",
+          "type": "File",
+          "artifact": {
+            "size": 296,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/alltheleaks.json",
+            "MD5": "10e48c24e5974b1e9675000ab490e432",
+            "path": "config/alltheleaks.json"
+          }
+        },
+        {
+          "id": "almanac.json5",
+          "name": "almanac.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1499,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/almanac/almanac.json5",
+            "MD5": "528262064bed991d6222e3a6fb28932b",
+            "path": "config/almanac/almanac.json5"
+          }
+        },
+        {
+          "id": "appleskin-client.toml",
+          "name": "appleskin-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1361,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/appleskin-client.toml",
+            "MD5": "999dd7d912a7eb915c59b1025710ca12",
+            "path": "config/appleskin-client.toml"
+          }
+        },
+        {
+          "id": "aquaculture-common.toml",
+          "name": "aquaculture-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 825,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/aquaculture-common.toml",
+            "MD5": "b81074cb98f1c58f87f580bbbc21fa47",
+            "path": "config/aquaculture-common.toml"
+          }
+        },
+        {
+          "id": "architects_palette-common.toml",
+          "name": "architects_palette-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1267,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/architects_palette-common.toml",
+            "MD5": "827537cd14de639c26d7ea767e684103",
+            "path": "config/architects_palette-common.toml"
+          }
+        },
+        {
+          "id": "client.json5",
+          "name": "client.json5",
+          "type": "File",
+          "artifact": {
+            "size": 551,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/artifacts/client.json5",
+            "MD5": "c421cf24deff6c2774366fa9b6de3020",
+            "path": "config/artifacts/client.json5"
+          }
+        },
+        {
+          "id": "common.json5",
+          "name": "common.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1584,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/artifacts/common.json5",
+            "MD5": "1b1e1f00fbb688a7fa95536ebf7abc6c",
+            "path": "config/artifacts/common.json5"
+          }
+        },
+        {
+          "id": "arts-and-crafts.toml",
+          "name": "arts-and-crafts.toml",
+          "type": "File",
+          "artifact": {
+            "size": 631,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/arts-and-crafts.toml",
+            "MD5": "6723ea29438c22cd41ba7fe3f514772b",
+            "path": "config/arts-and-crafts.toml"
+          }
+        },
+        {
+          "id": "attributeslib.cfg",
+          "name": "attributeslib.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 2686,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/attributeslib.cfg",
+            "MD5": "f8872923e20d465ce30bceec3525710e",
+            "path": "config/attributeslib.cfg"
+          }
+        },
+        {
+          "id": "badoptimizations.txt",
+          "name": "badoptimizations.txt",
+          "type": "File",
+          "artifact": {
+            "size": 3458,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/badoptimizations.txt",
+            "MD5": "7714652525dd4a0c873ddfc124aac217",
+            "path": "config/badoptimizations.txt"
+          }
+        },
+        {
+          "id": "beachparty.toml",
+          "name": "beachparty.toml",
+          "type": "File",
+          "artifact": {
+            "size": 394,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/beachparty.toml",
+            "MD5": "5facfb2fb3fb32c83ba867bc867fbbb3",
+            "path": "config/beachparty.toml"
+          }
+        },
+        {
+          "id": "blueprint-client.toml",
+          "name": "blueprint-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 903,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/blueprint-client.toml",
+            "MD5": "5f19831833623dfe14d22f7c9727c663",
+            "path": "config/blueprint-client.toml"
+          }
+        },
+        {
+          "id": "blueprint-common.toml",
+          "name": "blueprint-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 614,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/blueprint-common.toml",
+            "MD5": "96263bdc056fd70b2ce1b1ec0a113c20",
+            "path": "config/blueprint-common.toml"
+          }
+        },
+        {
+          "id": "bocchium-client.toml",
+          "name": "bocchium-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 111,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/bocchium-client.toml",
+            "MD5": "f704db44e447947ae84cd08560ad5277",
+            "path": "config/bocchium-client.toml"
+          }
+        },
+        {
+          "id": "botania-client.toml",
+          "name": "botania-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2403,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/botania-client.toml",
+            "MD5": "17d67974dec53d48d718ac544e0ff2b1",
+            "path": "config/botania-client.toml"
+          }
+        },
+        {
+          "id": "botania-common.toml",
+          "name": "botania-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2917,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/botania-common.toml",
+            "MD5": "563b1b4db6618bb764715cc93e98d2ab",
+            "path": "config/botania-common.toml"
+          }
+        },
+        {
+          "id": "bstats.json",
+          "name": "bstats.json",
+          "type": "File",
+          "artifact": {
+            "size": 744,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/bstats.json",
+            "MD5": "c544f58ff9b2ed2bac1c436d8857ac00",
+            "path": "config/bstats.json"
+          }
+        },
+        {
+          "id": "bwncr-common.toml",
+          "name": "bwncr-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 664,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/bwncr-common.toml",
+            "MD5": "a37041e787d8b8d2d5fbe174d84f3f8f",
+            "path": "config/bwncr-common.toml"
+          }
+        },
+        {
+          "id": "camera-client.toml",
+          "name": "camera-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 283,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/camera-client.toml",
+            "MD5": "71956bda8dbc40642cf44ef7e5d881e0",
+            "path": "config/camera-client.toml"
+          }
+        },
+        {
+          "id": "amethyst_crab_spawns.json",
+          "name": "amethyst_crab_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 147,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cataclysm/amethyst_crab_spawns.json",
+            "MD5": "1ab7408c8c7997d1ca595bdaa531820b",
+            "path": "config/cataclysm/amethyst_crab_spawns.json"
+          }
+        },
+        {
+          "id": "coral_golem_spawns.json",
+          "name": "coral_golem_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 673,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cataclysm/coral_golem_spawns.json",
+            "MD5": "186089c1a97fe9d907d32652caad5239",
+            "path": "config/cataclysm/coral_golem_spawns.json"
+          }
+        },
+        {
+          "id": "deepling_angler_spawns.json",
+          "name": "deepling_angler_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 673,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cataclysm/deepling_angler_spawns.json",
+            "MD5": "186089c1a97fe9d907d32652caad5239",
+            "path": "config/cataclysm/deepling_angler_spawns.json"
+          }
+        },
+        {
+          "id": "deepling_brute_spawns.json",
+          "name": "deepling_brute_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 673,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cataclysm/deepling_brute_spawns.json",
+            "MD5": "186089c1a97fe9d907d32652caad5239",
+            "path": "config/cataclysm/deepling_brute_spawns.json"
+          }
+        },
+        {
+          "id": "deepling_priest_spawns.json",
+          "name": "deepling_priest_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 673,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cataclysm/deepling_priest_spawns.json",
+            "MD5": "186089c1a97fe9d907d32652caad5239",
+            "path": "config/cataclysm/deepling_priest_spawns.json"
+          }
+        },
+        {
+          "id": "deepling_spawns.json",
+          "name": "deepling_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 673,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cataclysm/deepling_spawns.json",
+            "MD5": "186089c1a97fe9d907d32652caad5239",
+            "path": "config/cataclysm/deepling_spawns.json"
+          }
+        },
+        {
+          "id": "deepling_warlock_spawns.json",
+          "name": "deepling_warlock_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 673,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cataclysm/deepling_warlock_spawns.json",
+            "MD5": "186089c1a97fe9d907d32652caad5239",
+            "path": "config/cataclysm/deepling_warlock_spawns.json"
+          }
+        },
+        {
+          "id": "koboleton_spawns.json",
+          "name": "koboleton_spawns.json",
+          "type": "File",
+          "artifact": {
+            "size": 474,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cataclysm/koboleton_spawns.json",
+            "MD5": "1e376e1742f759bb96df81d7b003e610",
+            "path": "config/cataclysm/koboleton_spawns.json"
+          }
+        },
+        {
+          "id": "cataclysm.toml",
+          "name": "cataclysm.toml",
+          "type": "File",
+          "artifact": {
+            "size": 20644,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cataclysm.toml",
+            "MD5": "600d2ce1995f17bcf85636f2e1f7b58b",
+            "path": "config/cataclysm.toml"
+          }
+        },
+        {
+          "id": "cfm-client.toml",
+          "name": "cfm-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 190,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cfm-client.toml",
+            "MD5": "7fa57b2ec3af27c80b00b56b1fac740b",
+            "path": "config/cfm-client.toml"
+          }
+        },
+        {
+          "id": "cfm-common.toml",
+          "name": "cfm-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 259,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cfm-common.toml",
+            "MD5": "0d385a1ecf645dda802350ffe3cb4bc4",
+            "path": "config/cfm-common.toml"
+          }
+        },
+        {
+          "id": "charmofundying-server.toml",
+          "name": "charmofundying-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 277,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/charmofundying-server.toml",
+            "MD5": "3674868190430b337622508a80799f2e",
+            "path": "config/charmofundying-server.toml"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 146,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/chunky/config.json",
+            "MD5": "9ab54b1a0e1195126370c48b7a7d7b71",
+            "path": "config/chunky/config.json"
+          }
+        },
+        {
+          "id": "citadel-common.toml",
+          "name": "citadel-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 648,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/citadel-common.toml",
+            "MD5": "f211eac94129201b25acdeee49218d43",
+            "path": "config/citadel-common.toml"
+          }
+        },
+        {
+          "id": "cluttered-common.toml",
+          "name": "cluttered-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 336,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cluttered-common.toml",
+            "MD5": "9119375f454abe6957040acf018a972a",
+            "path": "config/cluttered-common.toml"
+          }
+        },
+        {
+          "id": "configured-client.toml",
+          "name": "configured-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 93,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/configured-client.toml",
+            "MD5": "dfbfc8c0a1a8ee34d3e693b27378506e",
+            "path": "config/configured-client.toml"
+          }
+        },
+        {
+          "id": "connectivity.json",
+          "name": "connectivity.json",
+          "type": "File",
+          "artifact": {
+            "size": 1818,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/connectivity.json",
+            "MD5": "7237bef91b31055933e680836e6ffaa6",
+            "path": "config/connectivity.json"
+          }
+        },
+        {
+          "id": "connector.json",
+          "name": "connector.json",
+          "type": "File",
+          "artifact": {
+            "size": 144,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/connector.json",
+            "MD5": "e625d3c4a748b81b7f8521b27f7d2365",
+            "path": "config/connector.json"
+          }
+        },
+        {
+          "id": "constructionwand-client.toml",
+          "name": "constructionwand-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 846,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/constructionwand-client.toml",
+            "MD5": "e939621701651a3a85f9a2a2d5fb6953",
+            "path": "config/constructionwand-client.toml"
+          }
+        },
+        {
+          "id": "announcement_config.json5",
+          "name": "announcement_config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 362,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/corgilib/announcement_config.json5",
+            "MD5": "81d4ada4723136ac63a4a44867f573ec",
+            "path": "config/corgilib/announcement_config.json5"
+          }
+        },
+        {
+          "id": "General.toml",
+          "name": "General.toml",
+          "type": "File",
+          "artifact": {
+            "size": 133,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/CoroUtil/General.toml",
+            "MD5": "8f9eed7bc02c6d45d54ea813d5ddf1cc",
+            "path": "config/CoroUtil/General.toml"
+          }
+        },
+        {
+          "id": "cosmeticarmorreworked-client.toml",
+          "name": "cosmeticarmorreworked-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1230,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cosmeticarmorreworked-client.toml",
+            "MD5": "efabbdb6c08be2cbf33d14c8f5d14a27",
+            "path": "config/cosmeticarmorreworked-client.toml"
+          }
+        },
+        {
+          "id": "cosmeticarmorreworked-common.toml",
+          "name": "cosmeticarmorreworked-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 379,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cosmeticarmorreworked-common.toml",
+            "MD5": "72142fb70ba132624cf5a6fb12ed7805",
+            "path": "config/cosmeticarmorreworked-common.toml"
+          }
+        },
+        {
+          "id": "cpm.json",
+          "name": "cpm.json",
+          "type": "File",
+          "artifact": {
+            "size": 66,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cpm.json",
+            "MD5": "baa9b0dec8d6d3584e8769bfd4b19447",
+            "path": "config/cpm.json"
+          }
+        },
+        {
+          "id": "create-client.toml",
+          "name": "create-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4397,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/create-client.toml",
+            "MD5": "d276f313790d54d07df0fbb1916f6350",
+            "path": "config/create-client.toml"
+          }
+        },
+        {
+          "id": "create-common.toml",
+          "name": "create-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 157,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/create-common.toml",
+            "MD5": "7503e1571dd136604d3a78582d1a6cb0",
+            "path": "config/create-common.toml"
+          }
+        },
+        {
+          "id": "create-stuff-additions.toml",
+          "name": "create-stuff-additions.toml",
+          "type": "File",
+          "artifact": {
+            "size": 874,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/create-stuff-additions.toml",
+            "MD5": "e20e3fcde2c9d64cabf9ec040ba3172a",
+            "path": "config/create-stuff-additions.toml"
+          }
+        },
+        {
+          "id": "createaddition-common.toml",
+          "name": "createaddition-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4446,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/createaddition-common.toml",
+            "MD5": "c156f51d0723c2b75e51cecdc6abfac0",
+            "path": "config/createaddition-common.toml"
+          }
+        },
+        {
+          "id": "minecraftED.json5",
+          "name": "minecraftED.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1476,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cristellib/minecraftED.json5",
+            "MD5": "e8605aa11b4296e023504703e592bd41",
+            "path": "config/cristellib/minecraftED.json5"
+          }
+        },
+        {
+          "id": "minecraftP.json5",
+          "name": "minecraftP.json5",
+          "type": "File",
+          "artifact": {
+            "size": 1752,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cristellib/minecraftP.json5",
+            "MD5": "1d8b9b72253a97231ff416174c2eb646",
+            "path": "config/cristellib/minecraftP.json5"
+          }
+        },
+        {
+          "id": "croptopia_v3.conf",
+          "name": "croptopia_v3.conf",
+          "type": "File",
+          "artifact": {
+            "size": 13630,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/croptopia/croptopia_v3.conf",
+            "MD5": "38415c0fb8215562510437175ec33986",
+            "path": "config/croptopia/croptopia_v3.conf"
+          }
+        },
+        {
+          "id": "cupboard.json",
+          "name": "cupboard.json",
+          "type": "File",
+          "artifact": {
+            "size": 1364,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/cupboard.json",
+            "MD5": "bd41141b5a23985af15290e2d3cc3abb",
+            "path": "config/cupboard.json"
+          }
+        },
+        {
+          "id": "curios-client.toml",
+          "name": "curios-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 706,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/curios-client.toml",
+            "MD5": "67aaec1814836fed2d3e021c29ef6848",
+            "path": "config/curios-client.toml"
+          }
+        },
+        {
+          "id": "curios-common.toml",
+          "name": "curios-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/curios-common.toml",
+            "MD5": "4e1978c603823135e91f736983a96649",
+            "path": "config/curios-common.toml"
+          }
+        },
+        {
+          "id": "dd_curtains-common.toml",
+          "name": "dd_curtains-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1357,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/dd_curtains-common.toml",
+            "MD5": "4ff95240f38e1fd26fa28f2b4983889a",
+            "path": "config/dd_curtains-common.toml"
+          }
+        },
+        {
+          "id": "deathcounter-client.toml",
+          "name": "deathcounter-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 260,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/deathcounter-client.toml",
+            "MD5": "3e38aa5c62e385a6980c18f32154e2d4",
+            "path": "config/deathcounter-client.toml"
+          }
+        },
+        {
+          "id": "deathcounter-common.toml",
+          "name": "deathcounter-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 721,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/deathcounter-common.toml",
+            "MD5": "e37be66fdeabf558efb712780e0089f3",
+            "path": "config/deathcounter-common.toml"
+          }
+        },
+        {
+          "id": "deltaboxlib.common.conf",
+          "name": "deltaboxlib.common.conf",
+          "type": "File",
+          "artifact": {
+            "size": 370,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/deltaboxlib.common.conf",
+            "MD5": "885b7754cc6eb3539cf4caca5ff597f0",
+            "path": "config/deltaboxlib.common.conf"
+          }
+        },
+        {
+          "id": "diet-client.toml",
+          "name": "diet-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 389,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/diet-client.toml",
+            "MD5": "679354bed316d3613f0eb6ffc8c9ad0e",
+            "path": "config/diet-client.toml"
+          }
+        },
+        {
+          "id": "diet-server.toml",
+          "name": "diet-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1073,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/diet-server.toml",
+            "MD5": "17d434215a6fc7e269926667ab127664",
+            "path": "config/diet-server.toml"
+          }
+        },
+        {
+          "id": "Discord-Integration.toml",
+          "name": "Discord-Integration.toml",
+          "type": "File",
+          "artifact": {
+            "size": 16000,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/Discord-Integration.toml",
+            "MD5": "9ae2b4f55b44da4bb2558b3f6c8083a4",
+            "path": "config/Discord-Integration.toml"
+          }
+        },
+        {
+          "id": "doomsday_decoration-common.toml",
+          "name": "doomsday_decoration-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 342,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/doomsday_decoration-common.toml",
+            "MD5": "16a69bf9f5879fc5bf99deb3d79cb52f",
+            "path": "config/doomsday_decoration-common.toml"
+          }
+        },
+        {
+          "id": "doomsday_functionality_extended-common.toml",
+          "name": "doomsday_functionality_extended-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3027,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/doomsday_functionality_extended-common.toml",
+            "MD5": "abf189ad3d0ab48a94fbf08814982cf2",
+            "path": "config/doomsday_functionality_extended-common.toml"
+          }
+        },
+        {
+          "id": "dummmmmmy-client.toml",
+          "name": "dummmmmmy-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1611,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/dummmmmmy-client.toml",
+            "MD5": "2aece75da5d68193cb7eac100ea67ef2",
+            "path": "config/dummmmmmy-client.toml"
+          }
+        },
+        {
+          "id": "dummmmmmy-common.toml",
+          "name": "dummmmmmy-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1277,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/dummmmmmy-common.toml",
+            "MD5": "fb9bbc2f199f4937fcf18b76d77008a8",
+            "path": "config/dummmmmmy-common.toml"
+          }
+        },
+        {
+          "id": "dynamiclights.cfg",
+          "name": "dynamiclights.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 65,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/dynamiclights.cfg",
+            "MD5": "7c36da9e1d8a3a60d125ff8f94f6970c",
+            "path": "config/dynamiclights.cfg"
+          }
+        },
+        {
+          "id": "dynamiclights_droppeditems.cfg",
+          "name": "dynamiclights_droppeditems.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/dynamiclights_droppeditems.cfg",
+            "MD5": "01500dbf7ed40ee445993ba6968ddce6",
+            "path": "config/dynamiclights_droppeditems.cfg"
+          }
+        },
+        {
+          "id": "dynamiclights_selflight.cfg",
+          "name": "dynamiclights_selflight.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/dynamiclights_selflight.cfg",
+            "MD5": "01500dbf7ed40ee445993ba6968ddce6",
+            "path": "config/dynamiclights_selflight.cfg"
+          }
+        },
+        {
+          "id": "dynamic_fps.json",
+          "name": "dynamic_fps.json",
+          "type": "File",
+          "artifact": {
+            "size": 3,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/dynamic_fps.json",
+            "MD5": "8a80554c91d9fca8acb82f023de02f11",
+            "path": "config/dynamic_fps.json"
+          }
+        },
+        {
+          "id": "dialog_client.cfg",
+          "name": "dialog_client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 279,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/dialog_client.cfg",
+            "MD5": "4c97865e57ccde0fa33e99921ec0c2a2",
+            "path": "config/easy_npc/dialog_client.cfg"
+          }
+        },
+        {
+          "id": "dialog_options.cfg",
+          "name": "dialog_options.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 475,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/dialog_options.cfg",
+            "MD5": "9dbafab89bcc6d67c35bb3ba86e7d4bf",
+            "path": "config/easy_npc/dialog_options.cfg"
+          }
+        },
+        {
+          "id": "highlight_client.cfg",
+          "name": "highlight_client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 192,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/highlight_client.cfg",
+            "MD5": "a4a6c51240f7cd4a90d7ee5a7f230124",
+            "path": "config/easy_npc/highlight_client.cfg"
+          }
+        },
+        {
+          "id": "name_tag_client.cfg",
+          "name": "name_tag_client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 465,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/name_tag_client.cfg",
+            "MD5": "ad005ea673e802b3ae962b9e558bb7c6",
+            "path": "config/easy_npc/name_tag_client.cfg"
+          }
+        },
+        {
+          "id": "npc_base.cfg",
+          "name": "npc_base.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 571,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/npc_base.cfg",
+            "MD5": "e27db40a4745c8eaadcbc651188d388e",
+            "path": "config/easy_npc/npc_base.cfg"
+          }
+        },
+        {
+          "id": "remote_texture.cfg",
+          "name": "remote_texture.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 247,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/remote_texture.cfg",
+            "MD5": "88172e3e17d28014ab5fede216bca43f",
+            "path": "config/easy_npc/remote_texture.cfg"
+          }
+        },
+        {
+          "id": "render_entity_type_support.cfg",
+          "name": "render_entity_type_support.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 31656,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/render_entity_type_support.cfg",
+            "MD5": "f4f29f11d2eb268ee58bf652b216646a",
+            "path": "config/easy_npc/render_entity_type_support.cfg"
+          }
+        },
+        {
+          "id": "security.cfg",
+          "name": "security.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 4384,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/security.cfg",
+            "MD5": "5380ac12e614b1fd13484dcbe23fd2e4",
+            "path": "config/easy_npc/security.cfg"
+          }
+        },
+        {
+          "id": "allay_template.png",
+          "name": "allay_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 246,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/allay/allay_template.png",
+            "MD5": "dc449d0dd6cb93d91fa6e34ecd44376a",
+            "path": "config/easy_npc/skin/allay/allay_template.png"
+          }
+        },
+        {
+          "id": "cat_template.png",
+          "name": "cat_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 283,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/cat/cat_template.png",
+            "MD5": "ddb9d8f03724aa1fe201fd7fbefb81da",
+            "path": "config/easy_npc/skin/cat/cat_template.png"
+          }
+        },
+        {
+          "id": "chicken_template.png",
+          "name": "chicken_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 287,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/chicken/chicken_template.png",
+            "MD5": "f06078d2850eb0020f2e86dd93c84a5a",
+            "path": "config/easy_npc/skin/chicken/chicken_template.png"
+          }
+        },
+        {
+          "id": "creeper_template.png",
+          "name": "creeper_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 255,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/creeper/creeper_template.png",
+            "MD5": "460afd5ae6039e184859666d02797e9d",
+            "path": "config/easy_npc/skin/creeper/creeper_template.png"
+          }
+        },
+        {
+          "id": "ender_man_template.png",
+          "name": "ender_man_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 276,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/ender_man/ender_man_template.png",
+            "MD5": "11a98be328121d89396fa59e1aa29df2",
+            "path": "config/easy_npc/skin/ender_man/ender_man_template.png"
+          }
+        },
+        {
+          "id": "fairy_template.png",
+          "name": "fairy_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 434,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/fairy/fairy_template.png",
+            "MD5": "531b238034eb6fdcf494378d6de62d69",
+            "path": "config/easy_npc/skin/fairy/fairy_template.png"
+          }
+        },
+        {
+          "id": "fox_template.png",
+          "name": "fox_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 335,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/fox/fox_template.png",
+            "MD5": "5850512e21b0c58b42207510a63a923d",
+            "path": "config/easy_npc/skin/fox/fox_template.png"
+          }
+        },
+        {
+          "id": "humanoid_template.png",
+          "name": "humanoid_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 360,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/humanoid/humanoid_template.png",
+            "MD5": "a39224182358dcbf6615b9faeb732933",
+            "path": "config/easy_npc/skin/humanoid/humanoid_template.png"
+          }
+        },
+        {
+          "id": "humanoid_slim_template.png",
+          "name": "humanoid_slim_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 384,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png",
+            "MD5": "41f831333d68c3a4535adbe574f0511c",
+            "path": "config/easy_npc/skin/humanoid_slim/humanoid_slim_template.png"
+          }
+        },
+        {
+          "id": "husk_template.png",
+          "name": "husk_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 531,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/husk/husk_template.png",
+            "MD5": "66e672cdead5768165586f4b24c1f61c",
+            "path": "config/easy_npc/skin/husk/husk_template.png"
+          }
+        },
+        {
+          "id": "illager_template.png",
+          "name": "illager_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 300,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/illager/illager_template.png",
+            "MD5": "62e2eafe9879c26a5d39f6eed5a0d4c0",
+            "path": "config/easy_npc/skin/illager/illager_template.png"
+          }
+        },
+        {
+          "id": "iron_golem_template.png",
+          "name": "iron_golem_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 451,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/iron_golem/iron_golem_template.png",
+            "MD5": "041e19a3a9e328e569c1572c60bf7f82",
+            "path": "config/easy_npc/skin/iron_golem/iron_golem_template.png"
+          }
+        },
+        {
+          "id": "orc_template.png",
+          "name": "orc_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 521,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/orc/orc_template.png",
+            "MD5": "529d5d314ad4dc8f697f7341f35cab74",
+            "path": "config/easy_npc/skin/orc/orc_template.png"
+          }
+        },
+        {
+          "id": "pig_template.png",
+          "name": "pig_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 270,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/pig/pig_template.png",
+            "MD5": "cfc2538d1df812a5ee4ced14b78f9fd3",
+            "path": "config/easy_npc/skin/pig/pig_template.png"
+          }
+        },
+        {
+          "id": "piglin_template.png",
+          "name": "piglin_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 361,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/piglin/piglin_template.png",
+            "MD5": "54ae451400c57b4832f976487e7bf629",
+            "path": "config/easy_npc/skin/piglin/piglin_template.png"
+          }
+        },
+        {
+          "id": "skeleton_template.png",
+          "name": "skeleton_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 259,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/skeleton/skeleton_template.png",
+            "MD5": "b6f689ff48f8cd4b03a51947133a3857",
+            "path": "config/easy_npc/skin/skeleton/skeleton_template.png"
+          }
+        },
+        {
+          "id": "spider_template.png",
+          "name": "spider_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 308,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/spider/spider_template.png",
+            "MD5": "03664e96aea4f091f754f2b853f2b853",
+            "path": "config/easy_npc/skin/spider/spider_template.png"
+          }
+        },
+        {
+          "id": "stray_template.png",
+          "name": "stray_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 531,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/stray/stray_template.png",
+            "MD5": "66e672cdead5768165586f4b24c1f61c",
+            "path": "config/easy_npc/skin/stray/stray_template.png"
+          }
+        },
+        {
+          "id": "vex_template.png",
+          "name": "vex_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 247,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/vex/vex_template.png",
+            "MD5": "37f6d362729979569dd8f1f4e6429f07",
+            "path": "config/easy_npc/skin/vex/vex_template.png"
+          }
+        },
+        {
+          "id": "villager_template.png",
+          "name": "villager_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 357,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/villager/villager_template.png",
+            "MD5": "30e84778924e6c66aef598b8a3cd728a",
+            "path": "config/easy_npc/skin/villager/villager_template.png"
+          }
+        },
+        {
+          "id": "villager_without_hat_template.png",
+          "name": "villager_without_hat_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 331,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/villager/villager_without_hat_template.png",
+            "MD5": "3d8bca495a0fad6240e900d343c9f1d7",
+            "path": "config/easy_npc/skin/villager/villager_without_hat_template.png"
+          }
+        },
+        {
+          "id": "witch_template.png",
+          "name": "witch_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 431,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/witch/witch_template.png",
+            "MD5": "3f15cb59a845607aca5614bd12e9df62",
+            "path": "config/easy_npc/skin/witch/witch_template.png"
+          }
+        },
+        {
+          "id": "wolf_template.png",
+          "name": "wolf_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 321,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/wolf/wolf_template.png",
+            "MD5": "0adf39c4b15ec11850e85fdfcd8e0a59",
+            "path": "config/easy_npc/skin/wolf/wolf_template.png"
+          }
+        },
+        {
+          "id": "zombie_template.png",
+          "name": "zombie_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 292,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/zombie/zombie_template.png",
+            "MD5": "a38b0b7043eb7c0e91379628aeed1db2",
+            "path": "config/easy_npc/skin/zombie/zombie_template.png"
+          }
+        },
+        {
+          "id": "zombie_villager_template.png",
+          "name": "zombie_villager_template.png",
+          "type": "File",
+          "artifact": {
+            "size": 356,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/skin/zombie_villager/zombie_villager_template.png",
+            "MD5": "b0748467bd2149105ad4d922c7799ed0",
+            "path": "config/easy_npc/skin/zombie_villager/zombie_villager_template.png"
+          }
+        },
+        {
+          "id": "spawner_type.cfg",
+          "name": "spawner_type.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1186,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/spawner_type.cfg",
+            "MD5": "cd8da21ebe1d960b4528ae6eb31d2240",
+            "path": "config/easy_npc/spawner_type.cfg"
+          }
+        },
+        {
+          "id": "speech_bubble_client.cfg",
+          "name": "speech_bubble_client.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 874,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/speech_bubble_client.cfg",
+            "MD5": "bf9596296c861f730ef687492693fe27",
+            "path": "config/easy_npc/speech_bubble_client.cfg"
+          }
+        },
+        {
+          "id": "storage.cfg",
+          "name": "storage.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 1146,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/easy_npc/storage.cfg",
+            "MD5": "e35a8ef51e8d692f28d7585c8ae7fa01",
+            "path": "config/easy_npc/storage.cfg"
+          }
+        },
+        {
+          "id": "ecologics-common.toml",
+          "name": "ecologics-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 816,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ecologics-common.toml",
+            "MD5": "808d9437dfb96ee3326706d7a2ca6ab7",
+            "path": "config/ecologics-common.toml"
+          }
+        },
+        {
+          "id": "embeddium-fingerprint.json",
+          "name": "embeddium-fingerprint.json",
+          "type": "File",
+          "artifact": {
+            "size": 427,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/embeddium-fingerprint.json",
+            "MD5": "a7485b8c3bb68013db83997bf4c05f5d",
+            "path": "config/embeddium-fingerprint.json"
+          }
+        },
+        {
+          "id": "embeddium-mixins.properties",
+          "name": "embeddium-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 269,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/embeddium-mixins.properties",
+            "MD5": "a9176524f816153a7967217b53bb75a1",
+            "path": "config/embeddium-mixins.properties"
+          }
+        },
+        {
+          "id": "embeddium-options.json",
+          "name": "embeddium-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 853,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/embeddium-options.json",
+            "MD5": "c64cb74bbd66d7b0792108d9984cca3f",
+            "path": "config/embeddium-options.json"
+          }
+        },
+        {
+          "id": "emojiful-client.toml",
+          "name": "emojiful-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 832,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/emojiful-client.toml",
+            "MD5": "c7a00f29ed2d6f2504f3d9b7e683e1ec",
+            "path": "config/emojiful-client.toml"
+          }
+        },
+        {
+          "id": "emotecraft.json",
+          "name": "emotecraft.json",
+          "type": "File",
+          "artifact": {
+            "size": 647,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/emotecraft.json",
+            "MD5": "69f239dffd22a7ad53e6bbc3da08f50d",
+            "path": "config/emotecraft.json"
+          }
+        },
+        {
+          "id": "emotecraft_emote_map.json",
+          "name": "emotecraft_emote_map.json",
+          "type": "File",
+          "artifact": {
+            "size": 117,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/emotecraft_emote_map.json",
+            "MD5": "fdcffe9e7eaa4949ee1d33d613a7c2eb",
+            "path": "config/emotecraft_emote_map.json"
+          }
+        },
+        {
+          "id": "enchdesc.json",
+          "name": "enchdesc.json",
+          "type": "File",
+          "artifact": {
+            "size": 189,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/enchdesc.json",
+            "MD5": "1b3ec4850780b441c72be140fc73bce3",
+            "path": "config/enchdesc.json"
+          }
+        },
+        {
+          "id": "entityculling.json",
+          "name": "entityculling.json",
+          "type": "File",
+          "artifact": {
+            "size": 2248,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/entityculling.json",
+            "MD5": "4b613a5aed83e0410c9d37c77b480d6a",
+            "path": "config/entityculling.json"
+          }
+        },
+        {
+          "id": "exposure-client.toml",
+          "name": "exposure-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7541,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/exposure-client.toml",
+            "MD5": "8debf999fd21e5f5bd82fdf1eb277487",
+            "path": "config/exposure-client.toml"
+          }
+        },
+        {
+          "id": "exposure-common.toml",
+          "name": "exposure-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 564,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/exposure-common.toml",
+            "MD5": "8b69fa069cc0eee9190d5e11bb6d2c96",
+            "path": "config/exposure-common.toml"
+          }
+        },
+        {
+          "id": "eyemod-common.toml",
+          "name": "eyemod-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2207,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/eyemod-common.toml",
+            "MD5": "a292bed633efae548abc86714e2fc98f",
+            "path": "config/eyemod-common.toml"
+          }
+        },
+        {
+          "id": "indigo-renderer.properties",
+          "name": "indigo-renderer.properties",
+          "type": "File",
+          "artifact": {
+            "size": 290,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/fabric/indigo-renderer.properties",
+            "MD5": "a7ac67b60c007352f49282b78784d3d6",
+            "path": "config/fabric/indigo-renderer.properties"
+          }
+        },
+        {
+          "id": "fairylights-client.toml",
+          "name": "fairylights-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 263,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/fairylights-client.toml",
+            "MD5": "79a7073885784041652e74fc4d02fa10",
+            "path": "config/fairylights-client.toml"
+          }
+        },
+        {
+          "id": "fairylights-common.toml",
+          "name": "fairylights-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 181,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/fairylights-common.toml",
+            "MD5": "08ad70426c8f1e5bfc91de87f0bb43d7",
+            "path": "config/fairylights-common.toml"
+          }
+        },
+        {
+          "id": "fantasy_armor-client.toml",
+          "name": "fantasy_armor-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 78,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/fantasy_armor-client.toml",
+            "MD5": "c1aa86b27ed0748006ac7f64f68d501f",
+            "path": "config/fantasy_armor-client.toml"
+          }
+        },
+        {
+          "id": "farmersdelight-client.toml",
+          "name": "farmersdelight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 478,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/farmersdelight-client.toml",
+            "MD5": "cd9a64a5389139e573bbfb183153dc70",
+            "path": "config/farmersdelight-client.toml"
+          }
+        },
+        {
+          "id": "farmersdelight-common.toml",
+          "name": "farmersdelight-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3930,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/farmersdelight-common.toml",
+            "MD5": "6a3569c558619c4c5eee563ea572cff7",
+            "path": "config/farmersdelight-common.toml"
+          }
+        },
+        {
+          "id": "fastpaintings-common.toml",
+          "name": "fastpaintings-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 133,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/fastpaintings-common.toml",
+            "MD5": "8d7566e84e427b73889b94ef32943bbd",
+            "path": "config/fastpaintings-common.toml"
+          }
+        },
+        {
+          "id": "ferritecore-mixin.toml",
+          "name": "ferritecore-mixin.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1516,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ferritecore-mixin.toml",
+            "MD5": "ab9006eb6d50292a11f757c0ae658ac0",
+            "path": "config/ferritecore-mixin.toml"
+          }
+        },
+        {
+          "id": "flywheel-client.toml",
+          "name": "flywheel-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 623,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/flywheel-client.toml",
+            "MD5": "969c76ee0b091b9bfecb378609e02466",
+            "path": "config/flywheel-client.toml"
+          }
+        },
+        {
+          "id": "fml.toml",
+          "name": "fml.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1147,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/fml.toml",
+            "MD5": "69de99a0b6537f52ae3c9c239d7f0e42",
+            "path": "config/fml.toml"
+          }
+        },
+        {
+          "id": "forbidden_arcanus-client.toml",
+          "name": "forbidden_arcanus-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 384,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/forbidden_arcanus-client.toml",
+            "MD5": "94f452c8d367463d01c3192a68f86cfc",
+            "path": "config/forbidden_arcanus-client.toml"
+          }
+        },
+        {
+          "id": "forbidden_arcanus-common.toml",
+          "name": "forbidden_arcanus-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3128,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/forbidden_arcanus-common.toml",
+            "MD5": "4515f9171045d78ff2ac11787be359aa",
+            "path": "config/forbidden_arcanus-common.toml"
+          }
+        },
+        {
+          "id": "forge-client.toml",
+          "name": "forge-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1628,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/forge-client.toml",
+            "MD5": "94d0dcbf248b1ee18bf1266c672327a1",
+            "path": "config/forge-client.toml"
+          }
+        },
+        {
+          "id": "framedblocks-client.toml",
+          "name": "framedblocks-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5520,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/framedblocks-client.toml",
+            "MD5": "dcbd5521608370ab59407cbaa6643689",
+            "path": "config/framedblocks-client.toml"
+          }
+        },
+        {
+          "id": "framedblocks-common.toml",
+          "name": "framedblocks-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 93,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/framedblocks-common.toml",
+            "MD5": "59f5b2c49335c3e38fc73a45f04d7a1a",
+            "path": "config/framedblocks-common.toml"
+          }
+        },
+        {
+          "id": "keybinds.toml",
+          "name": "keybinds.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6403,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/fzzy_config/keybinds.toml",
+            "MD5": "db29914636f6e1455464345f8e91d353",
+            "path": "config/fzzy_config/keybinds.toml"
+          }
+        },
+        {
+          "id": "goblintraders-entities.toml",
+          "name": "goblintraders-entities.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7077,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/goblintraders-entities.toml",
+            "MD5": "1e8f565850ebc31475fa2b83d49ca4e5",
+            "path": "config/goblintraders-entities.toml"
+          }
+        },
+        {
+          "id": "graveyard.json5",
+          "name": "graveyard.json5",
+          "type": "File",
+          "artifact": {
+            "size": 13497,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/graveyard/graveyard.json5",
+            "MD5": "3f98612091dc85cfb810dc6fb256d29e",
+            "path": "config/graveyard/graveyard.json5"
+          }
+        },
+        {
+          "id": "herbalbrews.toml",
+          "name": "herbalbrews.toml",
+          "type": "File",
+          "artifact": {
+            "size": 742,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/herbalbrews.toml",
+            "MD5": "adfac098e789fbbcb66e19fc75de75ee",
+            "path": "config/herbalbrews.toml"
+          }
+        },
+        {
+          "id": "Hexerei-client.toml",
+          "name": "Hexerei-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1095,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/Hexerei-client.toml",
+            "MD5": "e64d7a63e22130605b3add132b35fdf6",
+            "path": "config/Hexerei-client.toml"
+          }
+        },
+        {
+          "id": "Hexerei-common.toml",
+          "name": "Hexerei-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1909,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/Hexerei-common.toml",
+            "MD5": "19c6df404b1c7cea75f7a7a3e97d50af",
+            "path": "config/Hexerei-common.toml"
+          }
+        },
+        {
+          "id": "hiddennames-client.toml",
+          "name": "hiddennames-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 211,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/hiddennames-client.toml",
+            "MD5": "347da050da079e667f7c5be56346c799",
+            "path": "config/hiddennames-client.toml"
+          }
+        },
+        {
+          "id": "ias.json",
+          "name": "ias.json",
+          "type": "File",
+          "artifact": {
+            "size": 280,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ias.json",
+            "MD5": "18530ad1e8fd4289f0858139ee521284",
+            "path": "config/ias.json"
+          }
+        },
+        {
+          "id": "ichunutil-client.toml",
+          "name": "ichunutil-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 674,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/ichunutil-client.toml",
+            "MD5": "ec30e15f26add8b6e63f42dd63203e31",
+            "path": "config/ichunutil/ichunutil-client.toml"
+          }
+        },
+        {
+          "id": "aztec.json",
+          "name": "aztec.json",
+          "type": "File",
+          "artifact": {
+            "size": 1993,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/aztec.json",
+            "MD5": "75c34d02ca9eab7beea27df7f8f6a8be",
+            "path": "config/ichunutil/themes/aztec.json"
+          }
+        },
+        {
+          "id": "blue&black.json",
+          "name": "blue&black.json",
+          "type": "File",
+          "artifact": {
+            "size": 2029,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/blue&black.json",
+            "MD5": "47bb4f331497aafed30d7711ffb1b88e",
+            "path": "config/ichunutil/themes/blue&black.json"
+          }
+        },
+        {
+          "id": "blue&orange.json",
+          "name": "blue&orange.json",
+          "type": "File",
+          "artifact": {
+            "size": 2033,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/blue&orange.json",
+            "MD5": "1939bf77f7fa5e01b4d11d3734b2afd2",
+            "path": "config/ichunutil/themes/blue&orange.json"
+          }
+        },
+        {
+          "id": "default.json",
+          "name": "default.json",
+          "type": "File",
+          "artifact": {
+            "size": 2028,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/default.json",
+            "MD5": "1959d2af10a83b2353ef5b1505df4657",
+            "path": "config/ichunutil/themes/default.json"
+          }
+        },
+        {
+          "id": "grassgreen.json",
+          "name": "grassgreen.json",
+          "type": "File",
+          "artifact": {
+            "size": 2002,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/grassgreen.json",
+            "MD5": "f776e783a338ac6146a30894f00d8533",
+            "path": "config/ichunutil/themes/grassgreen.json"
+          }
+        },
+        {
+          "id": "green&black.json",
+          "name": "green&black.json",
+          "type": "File",
+          "artifact": {
+            "size": 2001,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/green&black.json",
+            "MD5": "54bbe910ee0f659ca0d366ce38e610af",
+            "path": "config/ichunutil/themes/green&black.json"
+          }
+        },
+        {
+          "id": "lazygray.json",
+          "name": "lazygray.json",
+          "type": "File",
+          "artifact": {
+            "size": 2033,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/lazygray.json",
+            "MD5": "b92c2105ccc983bd1a2061d696b3ee45",
+            "path": "config/ichunutil/themes/lazygray.json"
+          }
+        },
+        {
+          "id": "monogeneric.json",
+          "name": "monogeneric.json",
+          "type": "File",
+          "artifact": {
+            "size": 2031,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/monogeneric.json",
+            "MD5": "3c45315fa5aaedee7bdff7526ab36dd5",
+            "path": "config/ichunutil/themes/monogeneric.json"
+          }
+        },
+        {
+          "id": "nightblack.json",
+          "name": "nightblack.json",
+          "type": "File",
+          "artifact": {
+            "size": 1975,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/nightblack.json",
+            "MD5": "3a1748b932ba12743901ee494145e8f3",
+            "path": "config/ichunutil/themes/nightblack.json"
+          }
+        },
+        {
+          "id": "red&black.json",
+          "name": "red&black.json",
+          "type": "File",
+          "artifact": {
+            "size": 2044,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/red&black.json",
+            "MD5": "990ef90f0207d1e84c119d0691ccdc9c",
+            "path": "config/ichunutil/themes/red&black.json"
+          }
+        },
+        {
+          "id": "skyblue.json",
+          "name": "skyblue.json",
+          "type": "File",
+          "artifact": {
+            "size": 2042,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/skyblue.json",
+            "MD5": "0214a1c5618c37eb4d9a1cfc36ed6c3c",
+            "path": "config/ichunutil/themes/skyblue.json"
+          }
+        },
+        {
+          "id": "whitelight.json",
+          "name": "whitelight.json",
+          "type": "File",
+          "artifact": {
+            "size": 2062,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ichunutil/themes/whitelight.json",
+            "MD5": "faf736a964b8f5c649404f90f00ad3c2",
+            "path": "config/ichunutil/themes/whitelight.json"
+          }
+        },
+        {
+          "id": "immersive_eating.toml",
+          "name": "immersive_eating.toml",
+          "type": "File",
+          "artifact": {
+            "size": 87,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/immersive_eating.toml",
+            "MD5": "475cd9d0a68f417854c7432151e5ea5d",
+            "path": "config/immersive_eating.toml"
+          }
+        },
+        {
+          "id": "immersive_melodies.json",
+          "name": "immersive_melodies.json",
+          "type": "File",
+          "artifact": {
+            "size": 1209,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/immersive_melodies.json",
+            "MD5": "3bb4395c8c768ba5622e799c4699a577",
+            "path": "config/immersive_melodies.json"
+          }
+        },
+        {
+          "id": "instrument_configs.toml",
+          "name": "instrument_configs.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1669,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/instrument_configs.toml",
+            "MD5": "582e8ce39d54b6b96d9137f0a01ec595",
+            "path": "config/instrument_configs.toml"
+          }
+        },
+        {
+          "id": "ironfurnaces-client.toml",
+          "name": "ironfurnaces-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7308,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ironfurnaces-client.toml",
+            "MD5": "3dd150cbe06771dce8cdda1ec895b06f",
+            "path": "config/ironfurnaces-client.toml"
+          }
+        },
+        {
+          "id": "ironfurnaces.toml",
+          "name": "ironfurnaces.toml",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ironfurnaces.toml",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/ironfurnaces.toml"
+          }
+        },
+        {
+          "id": "irons_spellbooks-client.toml",
+          "name": "irons_spellbooks-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3575,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/irons_spellbooks-client.toml",
+            "MD5": "b60f4e412f784df9e3a1e3ad8f5683ba",
+            "path": "config/irons_spellbooks-client.toml"
+          }
+        },
+        {
+          "id": "global_config.json",
+          "name": "global_config.json",
+          "type": "File",
+          "artifact": {
+            "size": 257,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/irons_spellbooks_spell_config/global_config.json",
+            "MD5": "6cb19eead383de25ac484d1d88c32abf",
+            "path": "config/irons_spellbooks_spell_config/global_config.json"
+          }
+        },
+        {
+          "id": "example.txt",
+          "name": "example.txt",
+          "type": "File",
+          "artifact": {
+            "size": 683,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/irons_spellbooks_spell_config/irons_spellbooks/example.txt",
+            "MD5": "5fced601bc15476109b9c056f9193679",
+            "path": "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
+          }
+        },
+        {
+          "id": "hide-blocks.json",
+          "name": "hide-blocks.json",
+          "type": "File",
+          "artifact": {
+            "size": 191,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jade/hide-blocks.json",
+            "MD5": "da56a1383649dd1ebbbf41d9cfddb0da",
+            "path": "config/jade/hide-blocks.json"
+          }
+        },
+        {
+          "id": "hide-entities.json",
+          "name": "hide-entities.json",
+          "type": "File",
+          "artifact": {
+            "size": 325,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jade/hide-entities.json",
+            "MD5": "7b674db14cfdc978fa9786641eec8df6",
+            "path": "config/jade/hide-entities.json"
+          }
+        },
+        {
+          "id": "jade.json",
+          "name": "jade.json",
+          "type": "File",
+          "artifact": {
+            "size": 974,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jade/jade.json",
+            "MD5": "bfdbc8df70932e88399bd6c039163be0",
+            "path": "config/jade/jade.json"
+          }
+        },
+        {
+          "id": "plugins.json",
+          "name": "plugins.json",
+          "type": "File",
+          "artifact": {
+            "size": 2946,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jade/plugins.json",
+            "MD5": "c02e0479f9bee5f6105e3c62c6f61204",
+            "path": "config/jade/plugins.json"
+          }
+        },
+        {
+          "id": "sort-order.json",
+          "name": "sort-order.json",
+          "type": "File",
+          "artifact": {
+            "size": 3071,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jade/sort-order.json",
+            "MD5": "7ceac5551673410a5581ef7d390da5f7",
+            "path": "config/jade/sort-order.json"
+          }
+        },
+        {
+          "id": "known_suspicious_jars.txt",
+          "name": "known_suspicious_jars.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jamlib/known_suspicious_jars.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/jamlib/known_suspicious_jars.txt"
+          }
+        },
+        {
+          "id": "blacklist.json",
+          "name": "blacklist.json",
+          "type": "File",
+          "artifact": {
+            "size": 19,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jei/blacklist.json",
+            "MD5": "ea5744cdc731b505949494bc512d338d",
+            "path": "config/jei/blacklist.json"
+          }
+        },
+        {
+          "id": "jei-client.ini",
+          "name": "jei-client.ini",
+          "type": "File",
+          "artifact": {
+            "size": 16999,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jei/client/default/jei-client.ini",
+            "MD5": "4caaed4503cebaf32989c114c4f419d9",
+            "path": "config/jei/client/default/jei-client.ini"
+          }
+        },
+        {
+          "id": "jei-colors.ini",
+          "name": "jei-colors.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1655,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jei/client/default/jei-colors.ini",
+            "MD5": "d91575351ff8a83528a98a215b127bdb",
+            "path": "config/jei/client/default/jei-colors.ini"
+          }
+        },
+        {
+          "id": "jei-debug.ini",
+          "name": "jei-debug.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1174,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jei/client/default/jei-debug.ini",
+            "MD5": "da1cc755422f3aa23e559f19828b13f0",
+            "path": "config/jei/client/default/jei-debug.ini"
+          }
+        },
+        {
+          "id": "jei-mod-id-format.ini",
+          "name": "jei-mod-id-format.ini",
+          "type": "File",
+          "artifact": {
+            "size": 863,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jei/client/default/jei-mod-id-format.ini",
+            "MD5": "c886f44e6e70c67b4dec1fd9a14121da",
+            "path": "config/jei/client/default/jei-mod-id-format.ini"
+          }
+        },
+        {
+          "id": "ingredient-list-mod-sort-order.ini",
+          "name": "ingredient-list-mod-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 2311,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jei/client/ingredient-list-mod-sort-order.ini",
+            "MD5": "3ad9e15f528612aaa77a0b1eba9932c2",
+            "path": "config/jei/client/ingredient-list-mod-sort-order.ini"
+          }
+        },
+        {
+          "id": "ingredient-list-type-sort-order.ini",
+          "name": "ingredient-list-type-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 171,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jei/client/ingredient-list-type-sort-order.ini",
+            "MD5": "45635451474954a5e9e32c814e983dea",
+            "path": "config/jei/client/ingredient-list-type-sort-order.ini"
+          }
+        },
+        {
+          "id": "recipe-category-sort-order.ini",
+          "name": "recipe-category-sort-order.ini",
+          "type": "File",
+          "artifact": {
+            "size": 4655,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jei/client/recipe-category-sort-order.ini",
+            "MD5": "8dd38f8742cecfaae1f464172b1333cf",
+            "path": "config/jei/client/recipe-category-sort-order.ini"
+          }
+        },
+        {
+          "id": "jei-server.ini",
+          "name": "jei-server.ini",
+          "type": "File",
+          "artifact": {
+            "size": 760,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jei/server/world/default/jei-server.ini",
+            "MD5": "c1f5437bf7e20ff95a4a00cb7369b21d",
+            "path": "config/jei/server/world/default/jei-server.ini"
+          }
+        },
+        {
+          "id": "jeresources-common.toml",
+          "name": "jeresources-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 236,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jeresources-common.toml",
+            "MD5": "b8403bd156cd5a1adbeca3850c42384f",
+            "path": "config/jeresources-common.toml"
+          }
+        },
+        {
+          "id": "jeresources.toml",
+          "name": "jeresources.toml",
+          "type": "File",
+          "artifact": {
+            "size": 236,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/jeresources.toml",
+            "MD5": "832deacf307999a65c4a3bc40ab0dfa7",
+            "path": "config/jeresources.toml"
+          }
+        },
+        {
+          "id": "joinprotection-common.toml",
+          "name": "joinprotection-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 120,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/joinprotection-common.toml",
+            "MD5": "88ef9395f23c998d14b3fb300c2dd832",
+            "path": "config/joinprotection-common.toml"
+          }
+        },
+        {
+          "id": "kaleidoscope_chinesefood-common.toml",
+          "name": "kaleidoscope_chinesefood-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 161,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/kaleidoscope_chinesefood-common.toml",
+            "MD5": "549f811ddd6453cb4f1830ede399dd4d",
+            "path": "config/kaleidoscope_chinesefood-common.toml"
+          }
+        },
+        {
+          "id": "kaleidoscope_cookery-client.toml",
+          "name": "kaleidoscope_cookery-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 118,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/kaleidoscope_cookery-client.toml",
+            "MD5": "267497e716c5cc2983632a76e8854234",
+            "path": "config/kaleidoscope_cookery-client.toml"
+          }
+        },
+        {
+          "id": "kaleidoscope_cookery-common.toml",
+          "name": "kaleidoscope_cookery-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1227,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/kaleidoscope_cookery-common.toml",
+            "MD5": "b2c11e1be2d27337ef16f0197733efd9",
+            "path": "config/kaleidoscope_cookery-common.toml"
+          }
+        },
+        {
+          "id": "kaleidoscope_tavern-common.toml",
+          "name": "kaleidoscope_tavern-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 871,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/kaleidoscope_tavern-common.toml",
+            "MD5": "23d6f31c6313ca34eb9982d42717b8e4",
+            "path": "config/kaleidoscope_tavern-common.toml"
+          }
+        },
+        {
+          "id": "knightlib.toml",
+          "name": "knightlib.toml",
+          "type": "File",
+          "artifact": {
+            "size": 923,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/knightlib.toml",
+            "MD5": "c1d1088f75a39bae9f9a36ad2f620d86",
+            "path": "config/knightlib.toml"
+          }
+        },
+        {
+          "id": "knightquest.toml",
+          "name": "knightquest.toml",
+          "type": "File",
+          "artifact": {
+            "size": 8439,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/knightquest.toml",
+            "MD5": "400d30fa0713761c9ae11f8d40ff6979",
+            "path": "config/knightquest.toml"
+          }
+        },
+        {
+          "id": "de_de.local",
+          "name": "de_de.local",
+          "type": "File",
+          "artifact": {
+            "size": 369,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/konkrete/locals/de_de.local",
+            "MD5": "3aac3df2519057d2305f894c37771e30",
+            "path": "config/konkrete/locals/de_de.local"
+          }
+        },
+        {
+          "id": "en_us.local",
+          "name": "en_us.local",
+          "type": "File",
+          "artifact": {
+            "size": 426,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/konkrete/locals/en_us.local",
+            "MD5": "56c7ccaa193ba73c0d5c50aff28bb807",
+            "path": "config/konkrete/locals/en_us.local"
+          }
+        },
+        {
+          "id": "pl_pl.local",
+          "name": "pl_pl.local",
+          "type": "File",
+          "artifact": {
+            "size": 313,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/konkrete/locals/pl_pl.local",
+            "MD5": "c1f5aa5c2d2ac414f75f0ec3cab3b9c8",
+            "path": "config/konkrete/locals/pl_pl.local"
+          }
+        },
+        {
+          "id": "pt_br.local",
+          "name": "pt_br.local",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/konkrete/locals/pt_br.local",
+            "MD5": "2d055da094c115b94f0e4373a2e06ebe",
+            "path": "config/konkrete/locals/pt_br.local"
+          }
+        },
+        {
+          "id": "leaky.json",
+          "name": "leaky.json",
+          "type": "File",
+          "artifact": {
+            "size": 2835,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/leaky.json",
+            "MD5": "5558a8c661c5705bc391e52ff2c205b3",
+            "path": "config/leaky.json"
+          }
+        },
+        {
+          "id": "lexiconfig.toml",
+          "name": "lexiconfig.toml",
+          "type": "File",
+          "artifact": {
+            "size": 131,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/lexiconfig.toml",
+            "MD5": "a35153426fbc4d4ad97009c10033faa4",
+            "path": "config/lexiconfig.toml"
+          }
+        },
+        {
+          "id": "libraryferret_1.properties",
+          "name": "libraryferret_1.properties",
+          "type": "File",
+          "artifact": {
+            "size": 193,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/libraryferret_1.properties",
+            "MD5": "b513e96d9818fecf847a3a8e1a07f294",
+            "path": "config/libraryferret_1.properties"
+          }
+        },
+        {
+          "id": "libtooltips-client.toml",
+          "name": "libtooltips-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 158,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/libtooltips-client.toml",
+            "MD5": "87912295f349bfb13cd6dec4e23f4ae9",
+            "path": "config/libtooltips-client.toml"
+          }
+        },
+        {
+          "id": "limitedchunks.json",
+          "name": "limitedchunks.json",
+          "type": "File",
+          "artifact": {
+            "size": 504,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/limitedchunks.json",
+            "MD5": "8e9d9fc20602555869831d0611aab971",
+            "path": "config/limitedchunks.json"
+          }
+        },
+        {
+          "id": "localizedchat-common.toml",
+          "name": "localizedchat-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1630,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/localizedchat-common.toml",
+            "MD5": "96a74ac4e51de8a428a60109fae4000a",
+            "path": "config/localizedchat-common.toml"
+          }
+        },
+        {
+          "id": "lodestone-client.toml",
+          "name": "lodestone-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 880,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/lodestone-client.toml",
+            "MD5": "1f290b0b7ad1e5fd7f36b0019b247601",
+            "path": "config/lodestone-client.toml"
+          }
+        },
+        {
+          "id": "lootr-client.toml",
+          "name": "lootr-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 243,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/lootr-client.toml",
+            "MD5": "516944f57737be53cf47cb4218bcb16f",
+            "path": "config/lootr-client.toml"
+          }
+        },
+        {
+          "id": "lootr-common.toml",
+          "name": "lootr-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6610,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/lootr-common.toml",
+            "MD5": "e4a8b33b41ea246522bd2beafae584d6",
+            "path": "config/lootr-common.toml"
+          }
+        },
+        {
+          "id": "malum-client.toml",
+          "name": "malum-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 300,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/malum-client.toml",
+            "MD5": "14f60d0bf6179cc6bafedba3335f4837",
+            "path": "config/malum-client.toml"
+          }
+        },
+        {
+          "id": "malum-common.toml",
+          "name": "malum-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1331,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/malum-common.toml",
+            "MD5": "c90c55f7f8c7f1c47101f7871631a8a9",
+            "path": "config/malum-common.toml"
+          }
+        },
+        {
+          "id": "mantle-client.toml",
+          "name": "mantle-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1302,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/mantle-client.toml",
+            "MD5": "d36a8b0c47934f2f705261d437b63bec",
+            "path": "config/mantle-client.toml"
+          }
+        },
+        {
+          "id": "settings.ini",
+          "name": "settings.ini",
+          "type": "File",
+          "artifact": {
+            "size": 1452,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/mezz_config/client/default/settings.ini",
+            "MD5": "18753ae443123c75636ab3cdd455bbc1",
+            "path": "config/mezz_config/client/default/settings.ini"
+          }
+        },
+        {
+          "id": "features-customization.toml",
+          "name": "features-customization.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1291,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/mobtimizations/features-customization.toml",
+            "MD5": "3d40a69e8c05502abeb6f774aa7324a6",
+            "path": "config/mobtimizations/features-customization.toml"
+          }
+        },
+        {
+          "id": "features.toml",
+          "name": "features.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1093,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/mobtimizations/features.toml",
+            "MD5": "0597a5b5ad7815dbf536661a2c09c0ae",
+            "path": "config/mobtimizations/features.toml"
+          }
+        },
+        {
+          "id": "modernfix-common.toml",
+          "name": "modernfix-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 107,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/modernfix-common.toml",
+            "MD5": "1d50de2e9c0bda2952844de7a3306d10",
+            "path": "config/modernfix-common.toml"
+          }
+        },
+        {
+          "id": "modernfix-mixins.properties",
+          "name": "modernfix-mixins.properties",
+          "type": "File",
+          "artifact": {
+            "size": 6662,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/modernfix-mixins.properties",
+            "MD5": "beedd1ebbf5dd142806bddee201796a0",
+            "path": "config/modernfix-mixins.properties"
+          }
+        },
+        {
+          "id": "moonlight-client.toml",
+          "name": "moonlight-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1027,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/moonlight-client.toml",
+            "MD5": "12be1e89e835cca57c9017fa96f2d7e0",
+            "path": "config/moonlight-client.toml"
+          }
+        },
+        {
+          "id": "moonlight-common.toml",
+          "name": "moonlight-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1023,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/moonlight-common.toml",
+            "MD5": "00729a29d2b24292a06e174c24a3a831",
+            "path": "config/moonlight-common.toml"
+          }
+        },
+        {
+          "id": "MouseTweaks.cfg",
+          "name": "MouseTweaks.cfg",
+          "type": "File",
+          "artifact": {
+            "size": 135,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/MouseTweaks.cfg",
+            "MD5": "ff577ca09e989c07c056c7cdff465be3",
+            "path": "config/MouseTweaks.cfg"
+          }
+        },
+        {
+          "id": "multibeds-client.toml",
+          "name": "multibeds-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 312,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/multibeds-client.toml",
+            "MD5": "599861f397f1ffbf357e90ec73877140",
+            "path": "config/multibeds-client.toml"
+          }
+        },
+        {
+          "id": "multibeds.toml",
+          "name": "multibeds.toml",
+          "type": "File",
+          "artifact": {
+            "size": 90,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/multibeds.toml",
+            "MD5": "19da5145fc4554a0c2de7fe592256f7b",
+            "path": "config/multibeds.toml"
+          }
+        },
+        {
+          "id": "naturesaura-common.toml",
+          "name": "naturesaura-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 5582,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/naturesaura-common.toml",
+            "MD5": "5a6c37d41dcd40f24eaf5b19a466f38f",
+            "path": "config/naturesaura-common.toml"
+          }
+        },
+        {
+          "id": "naturescompass-client.toml",
+          "name": "naturescompass-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 432,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/naturescompass-client.toml",
+            "MD5": "dfe7626832ede6b7b53e6a898b96e5d9",
+            "path": "config/naturescompass-client.toml"
+          }
+        },
+        {
+          "id": "naturescompass-common.toml",
+          "name": "naturescompass-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2126,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/naturescompass-common.toml",
+            "MD5": "8132c7685dde6077fc86903357929331",
+            "path": "config/naturescompass-common.toml"
+          }
+        },
+        {
+          "id": "necronomicon.json5",
+          "name": "necronomicon.json5",
+          "type": "File",
+          "artifact": {
+            "size": 266,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/necronomicon.json5",
+            "MD5": "f5d72523e51844112485d6c21b8d51c3",
+            "path": "config/necronomicon.json5"
+          }
+        },
+        {
+          "id": "nerb.yaml",
+          "name": "nerb.yaml",
+          "type": "File",
+          "artifact": {
+            "size": 547,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/nerb.yaml",
+            "MD5": "50f00acc3ae18108ccd5b2eed1bc8fd8",
+            "path": "config/nerb.yaml"
+          }
+        },
+        {
+          "id": "paintable-server.toml",
+          "name": "paintable-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 371,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/paintable-server.toml",
+            "MD5": "dab48994d6e79172c0f7d9c28bdc6a19",
+            "path": "config/paintable-server.toml"
+          }
+        },
+        {
+          "id": "pamhc2crops.toml",
+          "name": "pamhc2crops.toml",
+          "type": "File",
+          "artifact": {
+            "size": 322,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/pamhc2crops.toml",
+            "MD5": "8dd6eadbf86eff47b36f28e1a79664c6",
+            "path": "config/pamhc2crops.toml"
+          }
+        },
+        {
+          "id": "paraglider-common.toml",
+          "name": "paraglider-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1336,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/paraglider-common.toml",
+            "MD5": "184a75c4d22e8ba337c028a0cca83581",
+            "path": "config/paraglider-common.toml"
+          }
+        },
+        {
+          "id": "paraglider-player-states.toml",
+          "name": "paraglider-player-states.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1526,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/paraglider-player-states.toml",
+            "MD5": "90799ba1a850ef497a417e174cb63af6",
+            "path": "config/paraglider-player-states.toml"
+          }
+        },
+        {
+          "id": "patchouli-client.toml",
+          "name": "patchouli-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1091,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/patchouli-client.toml",
+            "MD5": "8abc03f47eb092528e4d5bda3e2ff172",
+            "path": "config/patchouli-client.toml"
+          }
+        },
+        {
+          "id": "pehkui-client.toml",
+          "name": "pehkui-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 138,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/pehkui-client.toml",
+            "MD5": "319a4fcb484d622b63c3b084f90aeb75",
+            "path": "config/pehkui-client.toml"
+          }
+        },
+        {
+          "id": "pehkui-common.toml",
+          "name": "pehkui-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 407,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/pehkui-common.toml",
+            "MD5": "598daff44b47eff89332e1677c59ca87",
+            "path": "config/pehkui-common.toml"
+          }
+        },
+        {
+          "id": "playerrevive-client.json",
+          "name": "playerrevive-client.json",
+          "type": "File",
+          "artifact": {
+            "size": 131,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/playerrevive-client.json",
+            "MD5": "a3124ef28058a8afae83c56f160d237b",
+            "path": "config/playerrevive-client.json"
+          }
+        },
+        {
+          "id": "playerrevive.json",
+          "name": "playerrevive.json",
+          "type": "File",
+          "artifact": {
+            "size": 1767,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/playerrevive.json",
+            "MD5": "b9f1f38effcc57f20c9040530acc4db6",
+            "path": "config/playerrevive.json"
+          }
+        },
+        {
+          "id": "polymorph-integrations.toml",
+          "name": "polymorph-integrations.toml",
+          "type": "File",
+          "artifact": {
+            "size": 333,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/polymorph-integrations.toml",
+            "MD5": "aa4c6b2d063bdc397c20479114f8f0ba",
+            "path": "config/polymorph-integrations.toml"
+          }
+        },
+        {
+          "id": "ponder-client.toml",
+          "name": "ponder-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 619,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ponder-client.toml",
+            "MD5": "e923797057f201aaabb470187e768971",
+            "path": "config/ponder-client.toml"
+          }
+        },
+        {
+          "id": "quark-common.toml",
+          "name": "quark-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 82276,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/quark-common.toml",
+            "MD5": "e67819c3475b18b5d02d7260c40653fe",
+            "path": "config/quark-common.toml"
+          }
+        },
+        {
+          "id": "refurbished_furniture.client.toml",
+          "name": "refurbished_furniture.client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1177,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/refurbished_furniture.client.toml",
+            "MD5": "ec31054abe6b75e64156dd6a84c82a94",
+            "path": "config/refurbished_furniture.client.toml"
+          }
+        },
+        {
+          "id": "refurbished_furniture.server.toml",
+          "name": "refurbished_furniture.server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 8209,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/refurbished_furniture.server.toml",
+            "MD5": "592366262e7e1fd8a2049944dd0ce9e1",
+            "path": "config/refurbished_furniture.server.toml"
+          }
+        },
+        {
+          "id": "ru-common.toml",
+          "name": "ru-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3644,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/regions_unexplored/ru-common.toml",
+            "MD5": "cbc642ebb0f7330051c3be97b1946b1b",
+            "path": "config/regions_unexplored/ru-common.toml"
+          }
+        },
+        {
+          "id": "ru-primary-region.toml",
+          "name": "ru-primary-region.toml",
+          "type": "File",
+          "artifact": {
+            "size": 13851,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/regions_unexplored/ru-primary-region.toml",
+            "MD5": "abdfee2b0dfb97f1c1058a38df69077e",
+            "path": "config/regions_unexplored/ru-primary-region.toml"
+          }
+        },
+        {
+          "id": "ru-secondary-region.toml",
+          "name": "ru-secondary-region.toml",
+          "type": "File",
+          "artifact": {
+            "size": 13786,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/regions_unexplored/ru-secondary-region.toml",
+            "MD5": "16a4e76aaff2f34da9ae57542d5414d4",
+            "path": "config/regions_unexplored/ru-secondary-region.toml"
+          }
+        },
+        {
+          "id": "resourceful-config-web.json",
+          "name": "resourceful-config-web.json",
+          "type": "File",
+          "artifact": {
+            "size": 196,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/resourceful-config-web.json",
+            "MD5": "5cc6155682d2f9a604d1f0ba19fc363f",
+            "path": "config/resourceful-config-web.json"
+          }
+        },
+        {
+          "id": "ribbits-forge-1_20_1.toml",
+          "name": "ribbits-forge-1_20_1.toml",
+          "type": "File",
+          "artifact": {
+            "size": 420,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ribbits-forge-1_20_1.toml",
+            "MD5": "4b57563a2443f77237131e71fc22f6e5",
+            "path": "config/ribbits-forge-1_20_1.toml"
+          }
+        },
+        {
+          "id": "ribbits-options.json",
+          "name": "ribbits-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 33,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/ribbits-options.json",
+            "MD5": "ae7a8e3293c7c466d1210c5de3459a52",
+            "path": "config/ribbits-options.json"
+          }
+        },
+        {
+          "id": "rightclickharvest.json5",
+          "name": "rightclickharvest.json5",
+          "type": "File",
+          "artifact": {
+            "size": 609,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/rightclickharvest.json5",
+            "MD5": "6f1d5d9807c1df57d0495423a49cdde9",
+            "path": "config/rightclickharvest.json5"
+          }
+        },
+        {
+          "id": "savage_and_ravage-client.toml",
+          "name": "savage_and_ravage-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 81,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/savage_and_ravage-client.toml",
+            "MD5": "8ae013a4c25d825733ca6fd512f5d2e8",
+            "path": "config/savage_and_ravage-client.toml"
+          }
+        },
+        {
+          "id": "savage_and_ravage-common.toml",
+          "name": "savage_and_ravage-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1323,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/savage_and_ravage-common.toml",
+            "MD5": "75a527695733d433ac57ef5864caca5e",
+            "path": "config/savage_and_ravage-common.toml"
+          }
+        },
+        {
+          "id": "scholar-client.toml",
+          "name": "scholar-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 862,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/scholar-client.toml",
+            "MD5": "401ca637c8aebc851b96c29e6b9e41e0",
+            "path": "config/scholar-client.toml"
+          }
+        },
+        {
+          "id": "scholar-common.toml",
+          "name": "scholar-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2773,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/scholar-common.toml",
+            "MD5": "51b5a9d8640db0de84a9cb5e35af4a84",
+            "path": "config/scholar-common.toml"
+          }
+        },
+        {
+          "id": "securitycraft-client.toml",
+          "name": "securitycraft-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1951,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/securitycraft-client.toml",
+            "MD5": "4e880d401dcf3ea7352ac2ea951b158b",
+            "path": "config/securitycraft-client.toml"
+          }
+        },
+        {
+          "id": "selling_bin-client.toml",
+          "name": "selling_bin-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 133,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/selling_bin-client.toml",
+            "MD5": "081468fa04831f37717e611e3c3eee82",
+            "path": "config/selling_bin-client.toml"
+          }
+        },
+        {
+          "id": "shetiphiancore-client.toml",
+          "name": "shetiphiancore-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 545,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/shetiphiancore-client.toml",
+            "MD5": "f75010648906b5a8f71bdcba2e412403",
+            "path": "config/shetiphiancore-client.toml"
+          }
+        },
+        {
+          "id": "shetiphiancore.toml",
+          "name": "shetiphiancore.toml",
+          "type": "File",
+          "artifact": {
+            "size": 927,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/shetiphiancore.toml",
+            "MD5": "5dff8bbd41f81de483a1c1e2243767e8",
+            "path": "config/shetiphiancore.toml"
+          }
+        },
+        {
+          "id": "sidebar_buttons.json",
+          "name": "sidebar_buttons.json",
+          "type": "File",
+          "artifact": {
+            "size": 162,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/sidebar_buttons.json",
+            "MD5": "8d53a0650d02b99d91f19c46b9620ba0",
+            "path": "config/sidebar_buttons.json"
+          }
+        },
+        {
+          "id": "client.toml",
+          "name": "client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 50,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplehats/client.toml",
+            "MD5": "6dbe986bf7b12a21f16e0d0905cd3682",
+            "path": "config/simplehats/client.toml"
+          }
+        },
+        {
+          "id": "common.toml",
+          "name": "common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 345,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplehats/common.toml",
+            "MD5": "9fe0d457fd6264a9040c25ee09c2ab80",
+            "path": "config/simplehats/common.toml"
+          }
+        },
+        {
+          "id": "simplehats.json",
+          "name": "simplehats.json",
+          "type": "File",
+          "artifact": {
+            "size": 105169,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplehats.json",
+            "MD5": "c018a899802a96bebfbbfa3a57bfaadb",
+            "path": "config/simplehats.json"
+          }
+        },
+        {
+          "id": "simpleradio-client.toml",
+          "name": "simpleradio-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1516,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simpleradio-client.toml",
+            "MD5": "3b412812df897a77667450b2e2803f27",
+            "path": "config/simpleradio-client.toml"
+          }
+        },
+        {
+          "id": "simpleradio-server.toml",
+          "name": "simpleradio-server.toml",
+          "type": "File",
+          "artifact": {
+            "size": 13611,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simpleradio-server.toml",
+            "MD5": "e1e8da2ad338f19881b3c2099c29fd5c",
+            "path": "config/simpleradio-server.toml"
+          }
+        },
+        {
+          "id": "compatibility.toml",
+          "name": "compatibility.toml",
+          "type": "File",
+          "artifact": {
+            "size": 11974,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplyswords/compatibility.toml",
+            "MD5": "733759ad39e878abd9485ffbb84fd99b",
+            "path": "config/simplyswords/compatibility.toml"
+          }
+        },
+        {
+          "id": "gem_powers.toml",
+          "name": "gem_powers.toml",
+          "type": "File",
+          "artifact": {
+            "size": 3651,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplyswords/gem_powers.toml",
+            "MD5": "3264896a019f0a5340492819aaed27a2",
+            "path": "config/simplyswords/gem_powers.toml"
+          }
+        },
+        {
+          "id": "general.toml",
+          "name": "general.toml",
+          "type": "File",
+          "artifact": {
+            "size": 873,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplyswords/general.toml",
+            "MD5": "744c60f47eac2eb44a8240ca06979eab",
+            "path": "config/simplyswords/general.toml"
+          }
+        },
+        {
+          "id": "gui.toml",
+          "name": "gui.toml",
+          "type": "File",
+          "artifact": {
+            "size": 106,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplyswords/gui.toml",
+            "MD5": "fd88c4287a2292f16bf5d870eb18e08a",
+            "path": "config/simplyswords/gui.toml"
+          }
+        },
+        {
+          "id": "loot.toml",
+          "name": "loot.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1314,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplyswords/loot.toml",
+            "MD5": "096fbce11de98db702cb42a96eb7f7e0",
+            "path": "config/simplyswords/loot.toml"
+          }
+        },
+        {
+          "id": "status_effects.toml",
+          "name": "status_effects.toml",
+          "type": "File",
+          "artifact": {
+            "size": 85,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplyswords/status_effects.toml",
+            "MD5": "5f6b83c17a9a27f617c4c0a2d133a85b",
+            "path": "config/simplyswords/status_effects.toml"
+          }
+        },
+        {
+          "id": "unique_effects.toml",
+          "name": "unique_effects.toml",
+          "type": "File",
+          "artifact": {
+            "size": 16376,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplyswords/unique_effects.toml",
+            "MD5": "1d0a44e49e290d67c7adbd2d43640674",
+            "path": "config/simplyswords/unique_effects.toml"
+          }
+        },
+        {
+          "id": "weapon_attributes.toml",
+          "name": "weapon_attributes.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4777,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplyswords/weapon_attributes.toml",
+            "MD5": "ac9f68198fd8abfd7ee5699654ae8d7c",
+            "path": "config/simplyswords/weapon_attributes.toml"
+          }
+        },
+        {
+          "id": "config.toml",
+          "name": "config.toml",
+          "type": "File",
+          "artifact": {
+            "size": 342,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/simplytooltips/config.toml",
+            "MD5": "634fdccf6eb79d8f5251b0a90aaf99f0",
+            "path": "config/simplytooltips/config.toml"
+          }
+        },
+        {
+          "id": "smoothboot.json",
+          "name": "smoothboot.json",
+          "type": "File",
+          "artifact": {
+            "size": 198,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/smoothboot.json",
+            "MD5": "2504f8401554dda8bd254356bc8aff51",
+            "path": "config/smoothboot.json"
+          }
+        },
+        {
+          "id": "sodium-extra-options.json",
+          "name": "sodium-extra-options.json",
+          "type": "File",
+          "artifact": {
+            "size": 1502,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/sodium-extra-options.json",
+            "MD5": "c0d09a41f533280d24205eb152925734",
+            "path": "config/sodium-extra-options.json"
+          }
+        },
+        {
+          "id": "sodium-extra.properties",
+          "name": "sodium-extra.properties",
+          "type": "File",
+          "artifact": {
+            "size": 360,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/sodium-extra.properties",
+            "MD5": "72b9d6dd6ada7b00ef334ee176054dbf",
+            "path": "config/sodium-extra.properties"
+          }
+        },
+        {
+          "id": "sophisticatedbackpacks-common.toml",
+          "name": "sophisticatedbackpacks-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 122,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/sophisticatedbackpacks-common.toml",
+            "MD5": "2c6eb54ca9cb7722ec68ffc73667b88b",
+            "path": "config/sophisticatedbackpacks-common.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-client.toml",
+          "name": "sophisticatedcore-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 478,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/sophisticatedcore-client.toml",
+            "MD5": "9b192028e54cc9ddfe9b11a23c16fec6",
+            "path": "config/sophisticatedcore-client.toml"
+          }
+        },
+        {
+          "id": "sophisticatedcore-common.toml",
+          "name": "sophisticatedcore-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 12252,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/sophisticatedcore-common.toml",
+            "MD5": "e1e136ddf8e5e8de42647766796c8952",
+            "path": "config/sophisticatedcore-common.toml"
+          }
+        },
+        {
+          "id": "sophisticatedstorage-client.toml",
+          "name": "sophisticatedstorage-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 652,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/sophisticatedstorage-client.toml",
+            "MD5": "82f340534e8e99ba465ec24277b462cf",
+            "path": "config/sophisticatedstorage-client.toml"
+          }
+        },
+        {
+          "id": "sophisticatedstorage-common.toml",
+          "name": "sophisticatedstorage-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 334,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/sophisticatedstorage-common.toml",
+            "MD5": "fd0dee2f6270de13d182303c4646fb45",
+            "path": "config/sophisticatedstorage-common.toml"
+          }
+        },
+        {
+          "id": "config.json",
+          "name": "config.json",
+          "type": "File",
+          "artifact": {
+            "size": 117,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/spark/config.json",
+            "MD5": "fd707ecbb3f9675d81535e88b7712d0b",
+            "path": "config/spark/config.json"
+          }
+        },
+        {
+          "id": "starcatcher-client.toml",
+          "name": "starcatcher-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1664,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/starcatcher-client.toml",
+            "MD5": "59ea8f518c2e00b0d3eca2ee3a90297f",
+            "path": "config/starcatcher-client.toml"
+          }
+        },
+        {
+          "id": "structureessentials.json",
+          "name": "structureessentials.json",
+          "type": "File",
+          "artifact": {
+            "size": 3935,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/structureessentials.json",
+            "MD5": "79845615058a03f3632903a5d82e5f0f",
+            "path": "config/structureessentials.json"
+          }
+        },
+        {
+          "id": "supplementaries-client.toml",
+          "name": "supplementaries-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 9369,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/supplementaries-client.toml",
+            "MD5": "8464fb74fd96d68a3ff59c4a10a90172",
+            "path": "config/supplementaries-client.toml"
+          }
+        },
+        {
+          "id": "supplementaries-common.toml",
+          "name": "supplementaries-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 24952,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/supplementaries-common.toml",
+            "MD5": "5d0c2a9211f40934c60a39b91d990f8a",
+            "path": "config/supplementaries-common.toml"
+          }
+        },
+        {
+          "id": "tact-common.toml",
+          "name": "tact-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 15915,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/tact-common.toml",
+            "MD5": "38c306b9a4695bc34976500a5f3061a9",
+            "path": "config/tact-common.toml"
+          }
+        },
+        {
+          "id": "terrablender.toml",
+          "name": "terrablender.toml",
+          "type": "File",
+          "artifact": {
+            "size": 552,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/terrablender.toml",
+            "MD5": "0a79fa039b71bf8d3942f677d3269576",
+            "path": "config/terrablender.toml"
+          }
+        },
+        {
+          "id": "tinymultiblocklib-client.toml",
+          "name": "tinymultiblocklib-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 330,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/tinymultiblocklib-client.toml",
+            "MD5": "72f5a81342212ce504914e7f945ba552",
+            "path": "config/tinymultiblocklib-client.toml"
+          }
+        },
+        {
+          "id": "toastcontrol-common.toml",
+          "name": "toastcontrol-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1445,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/toastcontrol-common.toml",
+            "MD5": "d1c3c45914d0a076f07d0a39219d2f29",
+            "path": "config/toastcontrol-common.toml"
+          }
+        },
+        {
+          "id": "toms_storage-common.toml",
+          "name": "toms_storage-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 910,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/toms_storage-common.toml",
+            "MD5": "32186113d9cfbd9f7b8137da8076f3ab",
+            "path": "config/toms_storage-common.toml"
+          }
+        },
+        {
+          "id": "torchmaster.toml",
+          "name": "torchmaster.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2606,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/torchmaster.toml",
+            "MD5": "d194a7daebd58e09e4dded0ae33c17bc",
+            "path": "config/torchmaster.toml"
+          }
+        },
+        {
+          "id": "transition.json",
+          "name": "transition.json",
+          "type": "File",
+          "artifact": {
+            "size": 97,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/transition.json",
+            "MD5": "31ba5caa4bcc56c2527e5d001e4f0f07",
+            "path": "config/transition.json"
+          }
+        },
+        {
+          "id": "trashcans-common.toml",
+          "name": "trashcans-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 300,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/trashcans-common.toml",
+            "MD5": "04eaf1120d3c6bd996b760ec2361e95f",
+            "path": "config/trashcans-common.toml"
+          }
+        },
+        {
+          "id": "trashslot-common.toml",
+          "name": "trashslot-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 754,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/trashslot-common.toml",
+            "MD5": "a12f1975f6c6ed25ed1d9d5c468802b7",
+            "path": "config/trashslot-common.toml"
+          }
+        },
+        {
+          "id": "traveloptics-armors.toml",
+          "name": "traveloptics-armors.toml",
+          "type": "File",
+          "artifact": {
+            "size": 4292,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/traveloptics/traveloptics-armors.toml",
+            "MD5": "4b333e0f2f415a4e3f0ff23f4c9b3fe2",
+            "path": "config/traveloptics/traveloptics-armors.toml"
+          }
+        },
+        {
+          "id": "traveloptics-client.toml",
+          "name": "traveloptics-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2027,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/traveloptics/traveloptics-client.toml",
+            "MD5": "0ceb1ebf8737a4ef503cb1e82d0bb75c",
+            "path": "config/traveloptics/traveloptics-client.toml"
+          }
+        },
+        {
+          "id": "traveloptics-common.toml",
+          "name": "traveloptics-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 583,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/traveloptics/traveloptics-common.toml",
+            "MD5": "0a2a1990be8e730d124adfa1d4b18a99",
+            "path": "config/traveloptics/traveloptics-common.toml"
+          }
+        },
+        {
+          "id": "traveloptics-dependency_items_attribute.toml",
+          "name": "traveloptics-dependency_items_attribute.toml",
+          "type": "File",
+          "artifact": {
+            "size": 807,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/traveloptics/traveloptics-dependency_items_attribute.toml",
+            "MD5": "a770a2e2905021b96d0e7646a014eaf1",
+            "path": "config/traveloptics/traveloptics-dependency_items_attribute.toml"
+          }
+        },
+        {
+          "id": "traveloptics-entity.toml",
+          "name": "traveloptics-entity.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1221,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/traveloptics/traveloptics-entity.toml",
+            "MD5": "6e9a08bf8989d51dfe0d096408df292c",
+            "path": "config/traveloptics/traveloptics-entity.toml"
+          }
+        },
+        {
+          "id": "traveloptics-spells.toml",
+          "name": "traveloptics-spells.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6305,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/traveloptics/traveloptics-spells.toml",
+            "MD5": "0380e5e30f63d01c5bc8675bbea1170e",
+            "path": "config/traveloptics/traveloptics-spells.toml"
+          }
+        },
+        {
+          "id": "traveloptics-weapons.toml",
+          "name": "traveloptics-weapons.toml",
+          "type": "File",
+          "artifact": {
+            "size": 10323,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/traveloptics/traveloptics-weapons.toml",
+            "MD5": "490197a423dd26414e10c5576ccaf885",
+            "path": "config/traveloptics/traveloptics-weapons.toml"
+          }
+        },
+        {
+          "id": "trender.json",
+          "name": "trender.json",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/trender.json",
+            "MD5": "57d19d218711f08f8d7ce8c69f21d59f",
+            "path": "config/trender.json"
+          }
+        },
+        {
+          "id": "villagertradingplus-1.0-config.json5",
+          "name": "villagertradingplus-1.0-config.json5",
+          "type": "File",
+          "artifact": {
+            "size": 3092,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/villagertradingplus/villagertradingplus-1.0-config.json5",
+            "MD5": "57c8ae57d31f30e1d9b6ec19db22ac31",
+            "path": "config/villagertradingplus/villagertradingplus-1.0-config.json5"
+          }
+        },
+        {
+          "id": "vinery.toml",
+          "name": "vinery.toml",
+          "type": "File",
+          "artifact": {
+            "size": 2933,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/vinery.toml",
+            "MD5": "15a6970b8fd29ead3d348c295bd5e4e8",
+            "path": "config/vinery.toml"
+          }
+        },
+        {
+          "id": "category-volumes.properties",
+          "name": "category-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 46,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/voicechat/category-volumes.properties",
+            "MD5": "47731f53ffef4a8a57c766a8091a5651",
+            "path": "config/voicechat/category-volumes.properties"
+          }
+        },
+        {
+          "id": "player-volumes.properties",
+          "name": "player-volumes.properties",
+          "type": "File",
+          "artifact": {
+            "size": 44,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/voicechat/player-volumes.properties",
+            "MD5": "881435f0ba9a0f1af1d2082d1298dcc4",
+            "path": "config/voicechat/player-volumes.properties"
+          }
+        },
+        {
+          "id": "translations.properties",
+          "name": "translations.properties",
+          "type": "File",
+          "artifact": {
+            "size": 1182,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/voicechat/translations.properties",
+            "MD5": "4af29bbbf5267fe4298e80c2e6ebca63",
+            "path": "config/voicechat/translations.properties"
+          }
+        },
+        {
+          "id": "username-cache.json",
+          "name": "username-cache.json",
+          "type": "File",
+          "artifact": {
+            "size": 2,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/voicechat/username-cache.json",
+            "MD5": "99914b932bd37a50b983c5e7c90ae93b",
+            "path": "config/voicechat/username-cache.json"
+          }
+        },
+        {
+          "id": "voicechat-client.properties",
+          "name": "voicechat-client.properties",
+          "type": "File",
+          "artifact": {
+            "size": 5063,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/voicechat/voicechat-client.properties",
+            "MD5": "02a2a505450f5a5c5c112a3975c306de",
+            "path": "config/voicechat/voicechat-client.properties"
+          }
+        },
+        {
+          "id": "voicechat-server.properties",
+          "name": "voicechat-server.properties",
+          "type": "File",
+          "artifact": {
+            "size": 3214,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/voicechat/voicechat-server.properties",
+            "MD5": "797d4987cdca5c61c1f0f712e4fbc190",
+            "path": "config/voicechat/voicechat-server.properties"
+          }
+        },
+        {
+          "id": "voicechat-client.toml",
+          "name": "voicechat-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 94,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/voicechat-client.toml",
+            "MD5": "2fb2989fe60bf9a60eb6e8946ce4bb12",
+            "path": "config/voicechat-client.toml"
+          }
+        },
+        {
+          "id": "waterframes-client.toml",
+          "name": "waterframes-client.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1034,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/waterframes-client.toml",
+            "MD5": "abbf63769a07b343f0a70593ce163151",
+            "path": "config/waterframes-client.toml"
+          }
+        },
+        {
+          "id": "custom_vlc_path.txt",
+          "name": "custom_vlc_path.txt",
+          "type": "File",
+          "artifact": {
+            "size": 0,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/watermedia/custom_vlc_path.txt",
+            "MD5": "d41d8cd98f00b204e9800998ecf8427e",
+            "path": "config/watermedia/custom_vlc_path.txt"
+          }
+        },
+        {
+          "id": "waystones-common.toml",
+          "name": "waystones-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 6956,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/waystones-common.toml",
+            "MD5": "f63942330c8c403974a68d64defaaa15",
+            "path": "config/waystones-common.toml"
+          }
+        },
+        {
+          "id": "weaponmaster_ydm-common.toml",
+          "name": "weaponmaster_ydm-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 7657,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/weaponmaster_ydm-common.toml",
+            "MD5": "50e9f2d6e121917967251ddf4d18e75f",
+            "path": "config/weaponmaster_ydm-common.toml"
+          }
+        },
+        {
+          "id": "zeta-common.toml",
+          "name": "zeta-common.toml",
+          "type": "File",
+          "artifact": {
+            "size": 1912,
+            "url": "https://yasmic-star.github.io/launcher-files/servers/Cantheris%20SMP-1.20.1/files/config/zeta-common.toml",
+            "MD5": "38b8f978628d549cee47816b1cf5f409",
+            "path": "config/zeta-common.toml"
           }
         },
         {

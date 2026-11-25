@@ -1,0 +1,25 @@
+
+["DD Curtains Configuration"]
+	#Whether or not should beaded curtains chime when walking-through.
+	BeadedCurtainsChime = true
+	#Light blocking value for solid curtains (0-15, where 0=no light blocking, 15=full light blocking)
+	#Range: 0 ~ 15
+	lightBlockValueCurtains = 12
+	#Light blocking value for closed blinds (0-15, where 0=no light blocking, 15=full light blocking)
+	#Range: 0 ~ 15
+	lightBlockValueClosedBlinds = 12
+	#Light blocking value for closed roller curtains (0-15, where 0=no light blocking, 15=full light blocking)
+	#Range: 0 ~ 15
+	lightBlockValueRollerCurtains = 12
+	#Light blocking value for portieres (0-15, where 0=no light blocking, 15=full light blocking)
+	#Range: 0 ~ 15
+	lightBlockValuePortieres = 12
+	#If true, bottom blocks of rolled up roller curtains (invisible blocks) will have no bounding box to click on.
+	InvisibleRollerCurtains = true
+	#If true, bottom blocks of raised up blinds (invisible blocks) will have no bounding box to click on.
+	InvisibleBlinds = true
+	#USE WITH CAUTION! This option will cause bottom fully-opened curtains become no-clickable!
+	#You can click on curtain rods on the top or shift-right-click to close all curtains and make them visible again.
+	#If true, bottom blocks of opened curtains (invisible blocks) will have no bounding box to click on.
+	InvisibleCurtains = true
+
